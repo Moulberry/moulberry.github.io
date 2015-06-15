@@ -5,19 +5,18 @@
     <body>
         <h1>Simple Login Page</h1>
         <form name="login">
-            Username<input type="text" name="userid"/>
-            Password<input type="password" name="pswrd"/>
+            Username<input type="text" name="Username"/>
+            Password<input type="password" name="Password"/>
             <input type="button" onclick="check(this.form)" value="Login"/>
             <input type="reset" value="Cancel"/>
         </form>
         <script language="javascript">
-            function check(form) { /*function to check userid & password*/
-                /*the following code checkes whether the entered userid and password are matching*/
-                if(form.userid.value == "Moulberry" && form.pswrd.value == "moulberry123") {
-                    window.open('admin.html')/*opens the target page while Id & password matches*/
+            function check(form) {
+                if(form.userid.value == "Moulberry" && form.pswrd.value == "Moulberry123") {
+                    window.open('www.bringvictory.com')
                 }
                 else {
-                    alert("Error Password or Username")/*displays error message*/
+                    alert("Error Password or Username")
                 }
             }
         </script>
