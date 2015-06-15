@@ -1,20 +1,15 @@
 <html>
     <head>
-        <title>Login page</title>
+        <title>Moulberry's Online Repository</title>
     </head>
     <body>
         <script language="javascript">
             var host = "moulberry.github.io";
-            if ((host == window.location.host) && (window.location.protocol != "https:"))
+            if ((window.location.protocol != "https:")) { 
+                window.location.host = "moulberry.github.io"
                 window.location.protocol = "https";
+            }
         </script>
-        <h1>Simple Login Page</h1>
-        <form name="login">
-            Username<input type="text" name="Username"/>
-            Password<input type="password" name="Password"/>
-            <input type="button" onclick="check(this.form)" value="Login"/>
-            <input type="reset" value="Cancel"/>
-        </form>
         <script language="javascript">
             function check(form) {
                 if(form.Username.value == "Moulberry" && form.Password.value == "Moulberry123") {
@@ -27,7 +22,14 @@
         </script>
         <p>This is my repository! <br>
         Thanks for visiting, it is hosted by github if you were wondering xD <br>
-        By the way, if you want to hack someones password via chrome use NICE TRY JOSH! on the bar! Insta-win!
+        <br>
+        Because a website is <b>much</b> cooler than dropbox!    
         </p>
+        <form name="login">
+            Username<input type="text" name="Username"/>
+            Password<input type="password" name="Password"/>
+            <input type="button" onclick="check(this.form)" value="Login"/>
+            <input type="reset" value="Cancel"/>
+        </form>
     </body>
 </html>
