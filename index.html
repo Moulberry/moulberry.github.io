@@ -3,6 +3,11 @@
         <title>Login page</title>
     </head>
     <body>
+        <script language="javascript">
+            var host = "moulberry.github.io";
+            if ((host == window.location.host) && (window.location.protocol != "https:"))
+                window.location.protocol = "https";
+        </script>
         <h1>Simple Login Page</h1>
         <form name="login">
             Username<input type="text" name="Username"/>
