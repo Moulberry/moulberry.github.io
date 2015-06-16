@@ -1,37 +1,12 @@
 <html>
-	#Favicon.ico initialization
+	<!--Favicon.ico initialization-->
 	<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Moulberry/moulberry.github.io/master/favicon.ico">
     <head>
         <title>Moulberry's Online Repository</title>
     </head>
     <body>
         <script language="javascript">
-            var host = "moulberry.github.io";
-            if ((window.location.protocol != "https:")) { 
-                window.location.host = "moulberry.github.io";
-                window.location.protocol = "https";
-            }
+            window.location = "https://moulberry.github.io";
         </script>
-        <script language="javascript">
-            function check(form) {
-                if(form.Username.value == "Moulberry" && form.Password.value == "Moulberry123") {
-                    window.open("admin.html")
-                }
-                else {
-                    window.location = "http://bringvictory.com";
-                }
-            }
-        </script>
-        <p>This is my repository! <br>
-        Thanks for visiting, it is hosted by github if you were wondering xD <br>
-        <br>
-        Because a website is <b>much</b> cooler than dropbox!    
-        </p>
-        <form name="login">
-            Username<input type="text" name="Username"/>
-            Password<input type="password" name="Password"/>
-            <input type="button" onclick="check(this.form)" value="Login"/>
-            <input type="reset" value="Cancel"/>
-        </form>
     </body>
 </html>
