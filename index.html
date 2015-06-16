@@ -11,8 +11,10 @@
             }
         </script>
         <script language="javascript">
+        var Username = ["Jonah", "Camoleopard", "Moulberry"];
+        var Password = ["Jonah123", "Camoleopard123", "Moulberry123"];
             function check(form) {
-                if(form.Username.value == "Moulberry" && form.Password.value == "Moulberry123") {
+                if(Username.contains(form.Username.value) && Password.contains(form.Password.value)) {
                     window.open("admin.html")
                 }
                 else {
