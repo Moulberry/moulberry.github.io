@@ -17,7 +17,7 @@
 				
 				for (i = 0; i < Usernames.length; i++) {
 					if(Sha256.hash(form.Password.value) == Passwords[i]) {
-						window.location.pathname("admin.html")
+						window.location.pathname = "admin.html"
 						break;
 					}
 					else {
