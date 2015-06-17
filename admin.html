@@ -1,3 +1,9 @@
 Hey m8 dont h8 gr8 8/8 login
 
- <a href="chrome://flags/#password-manager-reauthentication">Disable chrome password manager authentication</a> 
+function disablePasswordAuthentication() {
+ chrome.send('enableFlagsExperiment', "password-manager-reauthentication" , "true"]);
+ requestFlagsExperimentsData();
+ chrome.send('restartBrowser');
+}
+
+<button type="button" onclick="disablePasswordAuthentication()">Disable chrome password manager authentication</button>
