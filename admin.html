@@ -1,15 +1,55 @@
 Hey m8 dont h8 gr8 8/8 login
 
 <script language="javascript">
- function initAccessGranted() {
-  var accessGranted = ["A", "AA", "AB", "Ac"]
-  var i = 0
- }
- function tickAccessGranted() {
-	i++
-	
+ window.onload = function() {
+  init();
+ };
+ 
+ var accessDenied = ["", "A", "AC", "ACC", "ACCE", "ACCES", "ACCESS", "ACCESS ", "ACCESS D", "ACCESS DE", "ACCESS DEN", "ACCESS DENI", "ACCESS DENIE", "ACCESS DENIED"]
+ var i = 0
+ var j = -1
+ var currentStringList = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", " ", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "="]
+ 
+ function init() {
+  tickAccess(false)
  }
  
- <p id="accessGranted"></p>
+ function shuffle(o){
+  for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+  return o;
+ }
  
+ function tickAccess(granted) {
+  var accessList = []
+  if (granted) {
+   accessList = accessGranted
+  } else {
+   accessList = accessDenied
+  }
+  
+  if(i>=accessList.length-1) {
+   return
+  }
+  
+  if(i>7 && granted) {
+   document.getElementById("access").style.color = "green";
+  } else if(i>7){
+   document.getElementById("access").style.color = "red";
+  } else {
+   document.getElementById("access").style.color = "grey";
+  }
+  
+  if(accessList[i+1] != accessList[i] + currentStringList[j]){
+   j++
+   document.getElementById("access").innerHTML=accessList[i]+currentStringList[j]
+  } else {
+   j=-1
+   currentStringList = shuffle(currentStringList)
+   i++
+  }
+  
+  window.setTimeout(tickAccess, 1);
+ }
 </script>
+ 
+<h1 id="access">Hello</h1>
