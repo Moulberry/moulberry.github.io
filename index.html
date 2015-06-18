@@ -10,6 +10,86 @@
             if(window.lcoation.protocol=="http:")
 				window.location.protocol = "https:";
         </script>
+		<script language="javascript">
+		
+		window.onload = function() {
+			tickAccess();
+		};
+		
+		 var accessDenied = "ACCESS DENIED <p1 style='font-size:25'><br>Initiating tactical diversion protocol!"
+		 var accessGranted = "ACCESS GRANTED"
+		 var i = 0
+		 var j = 0
+		 var isTag = false
+		 var enabled = false
+		 var granted = false
+		 var currentStringList = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", " ", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "="]
+		 
+		 function accessInit(g) {
+			currentStringList = shuffle(currentStringList)
+			i=0
+			j=0
+			granted = g
+			isTag=false
+			enabled=true
+		}
+		 
+		 function shuffle(o){
+			for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+			return o;
+		 }
+		 
+		function tickAccess() {
+			if(!enabled)
+			{
+				window.setTimeout(tickAccess, 500, granted);
+				return;
+			}
+			var accessSub = "";
+			var access = ""
+			if (granted) {
+				accessSub = accessGranted.substring(0,i)
+				access = accessGranted
+			} else {
+				accessSub = accessDenied.substring(0,i);
+				access = accessDenied
+			}
+			//alert(!isTag)
+			  
+			if(i>7 && granted) {
+				document.getElementById("access").style.color = "green";
+			} else if(i>7){
+				document.getElementById("access").style.color = "red";
+			} else {
+				document.getElementById("access").style.color = "grey";
+			}
+			
+			if(access.substring(i,i+1) == "<")
+			{
+				isTag=true
+			} else if(access.substring(i,i+1) == ">"){
+				isTag=false
+			}
+			
+			if(j<=16 && !isTag){
+				document.getElementById("access").innerHTML=accessSub+currentStringList[j%currentStringList.length]
+				j++
+			} else if(i <= access.length-2) {
+				j=0
+				currentStringList = shuffle(currentStringList)
+				i++ 
+			} else {
+				document.getElementById("access").innerHTML=access
+				setTimeout(function() {
+					if(!granted)window.location = "http://bringvictory.com";
+					window.location.pathname = "admin.html"
+				}, 500);
+			}
+			  
+			window.setTimeout(tickAccess, 0, granted);
+		}
+		</script>
+
         <script language="javascript">
 			function check(form) {
 			    var Usernames = ["Jonah", "Camoleopard", "Moulberry"];
@@ -17,11 +97,11 @@
 				
 				for (i = 0; i < Usernames.length; i++) {
 					if(Sha256.hash(form.Password.value) == Passwords[i]) {
-						window.location.pathname = "admin.html"
+						accessInit(true)
 						break;
-					}
-					else {
-						window.location = "http://bringvictory.com";
+					} else {
+						accessInit(false)
+						break;
 					}
 				}        
             }
@@ -37,6 +117,8 @@
             <input type="button" onclick="check(this.form)" value="Login"/>
             <input type="reset" value="Cancel"/>
         </form>
+		
+		<h1 id="access"></h1>
     </body>
 </html>
 

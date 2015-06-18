@@ -5,51 +5,64 @@ Hey m8 dont h8 gr8 8/8 login
   init();
  };
  
- var accessDenied = ["", "A", "AC", "ACC", "ACCE", "ACCES", "ACCESS", "ACCESS ", "ACCESS D", "ACCESS DE", "ACCESS DEN", "ACCESS DENI", "ACCESS DENIE", "ACCESS DENIED"]
+ var accessDenied = "ACCESS DENIED <p1 style='font-size:25'><br>Initiating tactical diversion protocol!"
+ var accessGranted = "ACCESS GRANTED"
  var i = 0
- var j = -1
+ var j = 0
+ var isTag = false
  var currentStringList = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", " ", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "="]
  
  function init() {
-  tickAccess(false)
+	currentStringList = shuffle(currentStringList)
+	tickAccess(false)
  }
  
  function shuffle(o){
-  for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-  return o;
+	for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+	return o;
  }
  
- function tickAccess(granted) {
-  var accessList = []
-  if (granted) {
-   accessList = accessGranted
-  } else {
-   accessList = accessDenied
-  }
-  
-  if(i>=accessList.length-1) {
-   return
-  }
-  
-  if(i>7 && granted) {
-   document.getElementById("access").style.color = "green";
-  } else if(i>7){
-   document.getElementById("access").style.color = "red";
-  } else {
-   document.getElementById("access").style.color = "grey";
-  }
-  
-  if(accessList[i+1] != accessList[i] + currentStringList[j]){
-   j++
-   document.getElementById("access").innerHTML=accessList[i]+currentStringList[j]
-  } else {
-   j=-1
-   currentStringList = shuffle(currentStringList)
-   i++
-  }
-  
-  window.setTimeout(tickAccess, 1);
- }
+function tickAccess(granted) {
+	var accessSub = "";
+	var access = ""
+	if (granted) {
+		accessSub = accessGranted.substring(0,i)
+		access = accessGranted
+	} else {
+		accessSub = accessDenied.substring(0,i);
+		access = accessDenied
+	}
+	  
+	if(i>7 && granted) {
+		document.getElementById("access").style.color = "green";
+	} else if(i>7){
+		document.getElementById("access").style.color = "red";
+	} else {
+		document.getElementById("access").style.color = "grey";
+	}
+	
+	if(access.substring(i,i+1) == "<")
+	{
+		isTag=true
+	} else if(access.substring(i,i+1) == ">"){
+		isTag=false
+	}
+	//alert(i)
+	
+	if(j<=16 && !isTag){
+		document.getElementById("access").innerHTML=accessSub+currentStringList[j%currentStringList.length]
+		j++
+	} else if(i <= access.length-2) {
+		j=0
+		currentStringList = shuffle(currentStringList)
+		i++ 
+	} else {
+		document.getElementById("access").innerHTML=access
+		return
+	}
+	  
+	window.setTimeout(tickAccess, 0, granted);
+}
 </script>
  
 <h1 id="access">Hello</h1>
