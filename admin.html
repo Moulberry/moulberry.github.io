@@ -1,11 +1,15 @@
 Hey m8 dont h8 gr8 8/8 login
 
 <script language="javascript">
- function disablePasswordAuthentication() {
-  chrome.send('enableFlagsExperiment', "password-manager-reauthentication" , "true"]);
-  requestFlagsExperimentsData();
-  chrome.send('restartBrowser');
+ function initAccessGranted() {
+  var accessGranted = ["A", "AA", "AB", "Ac"]
+  var i = 0
  }
+ function tickAccessGranted() {
+	i++
+	
+ }
+ 
+ <p id="accessGranted"></p>
+ 
 </script>
-
-<input type="button" onclick="disablePasswordAuthentication()" value="Disable chrome password manager authentication!"/>
