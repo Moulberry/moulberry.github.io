@@ -54,7 +54,6 @@
 				accessSub = accessDenied.substring(0,i);
 				access = accessDenied
 			}
-			//alert(!isTag)
 			  
 			if(i>7 && granted) {
 				document.getElementById("access").style.color = "green";
@@ -84,7 +83,7 @@
 					if(!granted){
 						window.location = "http://bringvictory.com";
 					} else {
-						//window.location.pathname = "admin.html"
+						window.location.pathname = "admin.html"
 					}
 					return;
 				}, 500);
