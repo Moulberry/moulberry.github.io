@@ -81,8 +81,12 @@
 			} else {
 				document.getElementById("access").innerHTML=access
 				setTimeout(function() {
-					if(!granted)window.location = "http://bringvictory.com";
-					window.location.pathname = "admin.html"
+					if(!granted){
+						window.location = "http://bringvictory.com";
+					} else {
+						window.location.pathname = "admin.html"
+					}
+					return;
 				}, 500);
 			}
 			  
