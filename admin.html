@@ -1,68 +1,23 @@
-Hey m8 dont h8 gr8 8/8 login
+<p id="err"><b>Something went wrong, did you reload the page? Or try cheat my system? Please go back to the main page and log in again!</p></b>
 
+<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
 <script language="javascript">
- window.onload = function() {
-  init();
- };
- 
- var accessDenied = "ACCESS DENIED <p1 style='font-size:25'><br>Initiating tactical diversion protocol!"
- var accessGranted = "ACCESS GRANTED"
- var i = 0
- var j = 0
- var isTag = false
- var currentStringList = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", " ", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "="]
- 
- function init() {
-	currentStringList = shuffle(currentStringList)
-	tickAccess(false)
- }
- 
- function shuffle(o){
-	for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-	return o;
- }
- 
-function tickAccess(granted) {
-	var accessSub = "";
-	var access = ""
-	if (granted) {
-		accessSub = accessGranted.substring(0,i)
-		access = accessGranted
-	} else {
-		accessSub = accessDenied.substring(0,i);
-		access = accessDenied
-	}
-	  
-	if(i>7 && granted) {
-		document.getElementById("access").style.color = "green";
-	} else if(i>7){
-		document.getElementById("access").style.color = "red";
-	} else {
-		document.getElementById("access").style.color = "grey";
-	}
+	var username = window.name.split("-")[0]
+	var password = window.name.split("-")[1]
+	window.name=""
 	
-	if(access.substring(i,i+1) == "<")
+	function readText(txt)
 	{
-		isTag=true
-	} else if(access.substring(i,i+1) == ">"){
-		isTag=false
+		var xml = new XMLHttpRequest();
+		xml.open('GET', txt, false);
+		xml.send();
+		return xml.responseText;
 	}
-	//alert(i)
 	
-	if(j<=16 && !isTag){
-		document.getElementById("access").innerHTML=accessSub+currentStringList[j%currentStringList.length]
-		j++
-	} else if(i <= access.length-2) {
-		j=0
-		currentStringList = shuffle(currentStringList)
-		i++ 
-	} else {
-		document.getElementById("access").innerHTML=access
-		return
-	}
-	  
-	window.setTimeout(tickAccess, 0, granted);
-}
+	//This is how to encrypt - 
+	alert(CryptoJS.AES.encrypt(readText("test.html"), "password"))
+	var html = CryptoJS.AES.decrypt(readText(username+"/html.aes"), "password").toString(CryptoJS.enc.Latin1)
+	document.write(html)
+	document.getElementById("err").innerHTML=""
+	
 </script>
- 
-<h1 id="access">Hello</h1>
