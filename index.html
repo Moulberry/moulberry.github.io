@@ -103,7 +103,11 @@
 				return;
 			}
 		}        
-    }
+    	}
+    	
+    	function enableFakeLogin(){
+    		window.location.pathname = "fakelogin.html"
+    	}
 </script>
 <html>
 	<!--Favicon.ico initialization-->
@@ -123,8 +127,9 @@
             <input type="button" onclick="check(this.form)" value="Login"/>
             <input type="reset" value="Cancel"/>
         </form>
-		
-		<h1 id="access"></h1>
+        &nbsp;
+	<input type="button" onclick="enableFakeLogin()" value="FakeInternetLogin"/>	
+	<h1 id="access"></h1>
     </body>
 </html>
 
