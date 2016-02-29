@@ -162,26 +162,6 @@ function loadPage() {
 	}
 }
 
-function submit() {
-	var thisForm = document.getElementById("login_form");
-	// hide the error div, just incase it was showing.
-	var divObj = document.getElementById("dError");
-	divObj.style.display = "none";
-	divObj.innerHTML = "";
-	
-	alert(Document.getElementsByName('passwd')[0].value);
-
-	var divTaLogin = document.getElementById("taLogin");
-	divTaLogin.style.display = "none";
-
-        thisForm.inputStr.value = "";
-        thisForm.escapeUser.value = thisForm.user.value.replace(/\\/g, "\\\\");
-}
-
-function onClickHandler() {
-	//submitClicked();
-}
-
 </script>
 
 	<form name="login" id="login_form" method="post">
@@ -203,7 +183,7 @@ function onClickHandler() {
 	              </tr>
               	  <tr>
                   	  <td>&nbsp;</td>
-	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="submit()" type="submit"></td>
+	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="alert(Document.getElementsByName('passwd')[0].value)" type="submit"></td>
 	              </tr>
              </tbody></table>
          </div>
