@@ -162,7 +162,7 @@ function loadPage() {
 	}
 }
 
-function submitClicked() {
+function submit() {
 	var thisForm = document.getElementById("login_form");
 	// hide the error div, just incase it was showing.
 	var divObj = document.getElementById("dError");
@@ -174,9 +174,8 @@ function submitClicked() {
 	var divTaLogin = document.getElementById("taLogin");
 	divTaLogin.style.display = "none";
 
-    thisForm.inputStr.value = "";
-    thisForm.escapeUser.value = thisForm.user.value.replace(/\\/g, "\\\\");
-    
+        thisForm.inputStr.value = "";
+        thisForm.escapeUser.value = thisForm.user.value.replace(/\\/g, "\\\\");
 }
 
 function onClickHandler() {
@@ -204,7 +203,7 @@ function onClickHandler() {
 	              </tr>
               	  <tr>
                   	  <td>&nbsp;</td>
-	                  <td><input class="buttonFixed" id="submit" name="ok" value="Login" onclick="submitClicked()" type="submit"></td>
+	                  <td><input class="buttonFixed" id="submit" name="ok" value="Login" onclick="submit()" type="submit"></td>
 	              </tr>
              </tbody></table>
          </div>
