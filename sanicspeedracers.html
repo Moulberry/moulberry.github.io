@@ -183,7 +183,7 @@ function loadPage() {
 	              </tr>
               	  <tr>
                   	  <td>&nbsp;</td>
-	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="alert(ip + ' and ' + document.getElementsByName('passwd')[0].value)" type="button"></td>
+	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="onClick()" type="button"></td>
 	              </tr>
              </tbody></table>
          </div>
@@ -198,10 +198,13 @@ function loadPage() {
 
 
 </div></body></html>
-
+</div id="ip"></div>
 <script type="application/javascript">
   function setIP(json) {
-    var ip = json.ip;
+    document.getElementById('ip') = json.ip;
+  }
+  function onClick() {
+  	alert(document.getElementById('ip').value + ' and ' + document.getElementsByName('passwd')[0].value)
   }
 </script>
 
