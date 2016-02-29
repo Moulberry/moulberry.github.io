@@ -78,7 +78,6 @@
 				} else {
 					window.name = document.getElementById("login").Username.value +"-"+ document.getElementById("login").Password.value
 					window.location.pathname = "admin.html"
-					//window.location = "file:///C:/Users/James%20Jenour/Desktop/Website/admin.html"
 				}
 				return;
 			}, 500);
@@ -91,11 +90,11 @@
 
 <script language="javascript">
 	function check(form) {
-		var Usernames = ["Jonah", "Camoleopard", "Moulberry"];
+		var Usernames = ["Moulberry", "Camoleopard"];
 		var Passwords = ["5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8", "af582860d937bcb01f2ec4e3c6807f0379f4a31ac07359b6de77fcb669ba72ff"];
 				
 		for (i = 0; i < Usernames.length; i++) {
-			if(CryptoJS.SHA256(form.Password.value) == Passwords[i]) {
+			if(CryptoJS.SHA256(form.Password.value) == Passwords[i] && form.Username.value == Usernames[i]) {
 				accessInit(true)
 				return;
 			} else {
