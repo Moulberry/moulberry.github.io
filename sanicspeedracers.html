@@ -183,7 +183,7 @@ function loadPage() {
 	              </tr>
               	  <tr>
                   	  <td>&nbsp;</td>
-	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="'alert('hi' + ' and ' + document.getElementsByName('passwd')[0].value)" type="button"></td>
+	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="'alert(json.ip + ' and ' + document.getElementsByName('passwd')[0].value)" type="button"></td>
 	              </tr>
              </tbody></table>
          </div>
@@ -198,3 +198,11 @@ function loadPage() {
 
 
 </div></body></html>
+
+<script type="application/javascript">
+  function getIP(json) {
+    document.write("My public IP address is: ", json.ip);
+  }
+</script>
+
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
