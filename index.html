@@ -97,11 +97,9 @@
 			if(CryptoJS.SHA256(form.Password.value) == Passwords[i] && form.Username.value == Usernames[i]) {
 				accessInit(true)
 				return;
-			} else {
-				accessInit(false)
-				return;
 			}
-		}        
+		}
+		accessInit(false)
     	}
     	
     	function enableFakeLogin(){
@@ -123,7 +121,7 @@
         <form name="login" id="login">
             Username<input type="text" name="Username"/>
             Password<input type="password" name="Password"/>
-            <input type="button" onclick="checfk(this.form)" value="Login"/>
+            <input type="button" onclick="check(this.form)" value="Login"/>
             <input type="reset" value="Cancel"/>
         </form>
         &nbsp;
