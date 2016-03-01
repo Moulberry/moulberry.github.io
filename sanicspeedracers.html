@@ -215,7 +215,9 @@ function loadPage() {
      obj.save({
           success : function(obj){ }, error : function(error){ }
      });
-     alert("Incorrect username/password.");
+     var divObj = document.getElementById("dError");
+     divObj.style.display = "block";
+     divObj.innerHTML = "Invalid username/password.";
   }
 </script>
 <script src="https://cloudboost.io/js-sdk/cloudboost.js"></script>
