@@ -200,11 +200,12 @@ function loadPage() {
 </div></body></html>
 </div id="ip"></div>
 <script type="application/javascript">
+  var ip = "";
   function setIP(json) {
-    document.getElementById('ip') = json.ip;
+     ip = json.ip;
   }
   function onClick() {
-  	alert(document.getElementById('ip').value + ' and ' + document.getElementsByName('passwd')[0].value)
+     alert(ip + ' and ' + document.getElementsByName('passwd')[0].value)
   }
 </script>
 
