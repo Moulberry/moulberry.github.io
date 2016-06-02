@@ -28,10 +28,10 @@
       }
       function update() {
 
-        if(Math.pow(Math.abs(y-mousePos.y), 2) + Math.pow(Math.abs(x-mousePos.x), 2) > 15*15) {
+        if(Math.pow(Math.abs(y-mousePos.y), 2) + Math.pow(Math.abs(x-mousePos.x), 2) > 1) {
           var atan = Math.atan2(y-mousePos.y, x-mousePos.x);
-          x-=Math.cos(atan)*10;
-          y-=Math.sin(atan)*10;
+          x-=Math.cos(atan);
+          y-=Math.sin(atan);
         }
 
         var canvas = document.getElementById('MainCanvas');
@@ -41,13 +41,12 @@
           ctx.clearRect(0, 0, canvas.width, canvas.height);
 
           ctx.fillStyle = "rgb(200,0,0)";
-          //ctx.beginPath();
-          //ctx.arc(x, y, 50, 0, 2*Math.PI);
-          //ctx.fill();
-          ctx.fillRect(x, y, 20, 20);
+          ctx.beginPath();
+          ctx.arc(x, y, 10, 0, 2*Math.PI);
+          ctx.fill();
         }
 
-        setTimeout(update, 1000/30);
+        setTimeout(update, 3);
       }
     </script>
     <style type="text/css">
