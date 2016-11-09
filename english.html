@@ -216,8 +216,10 @@ var STYLE_PREFIX = 'wsite';
 	</div><!--/.wrapper-->
 	<div id="footer-wrap"><div class="container"><div id="weebly-footer-signup-container">
 	<div class="signup-container-header">
+		<div class="start-free">Create a <a class="link" href="http://www.weebly.com/?utm_source=internal&amp;utm_medium=footer&amp;utm_campaign=3" target="_blank">free website</a></div>
 		<div class="expand-icon"></div>
-		
+		<div class="powered-by"><span>Powered by</span> <a class="link weebly-icon" href="http://www.weebly.com/?utm_source=internal&amp;utm_medium=footer&amp;utm_campaign=3" target="_blank" rel="nofollow"></a></div>
+
 		<div class="short-text">
 			<span>Create your own free website</span><span class="go-icon"></span>
 		</div>
@@ -447,6 +449,11 @@ labels:"l0,u94322093.u94322093s455527784526782779"
 				$('#eu-cookie').show();
 			}
 		}
+
+		$('#eu-cookie-close').click(function(){
+			_W.setCookie('455527784526782779_cookie_policy', cookie_content, 100000);
+			$('#eu-cookie').hide();
+		});
 
 		function animateFromTop(){
 			$('#eu-cookie').css({
