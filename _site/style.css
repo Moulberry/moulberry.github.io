@@ -1,0 +1,152 @@
+body {
+	margin: 0px;
+	background-color: rgb(80,80,80);
+}
+
+* {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.title-icon {
+	width: 64px;
+	height: 64px;
+	min-width: 64px;
+	min-height: 64px;
+	max-width: 64px;
+	max-height: 64px;
+}
+
+.title h5 {
+	color: rgb(200,200,200);
+	font-size: 30px;
+    text-shadow: 0 0 3px rgb(20,20,20), 0 0 5px rgb(20,20,100); 
+	margin: 10px;
+}
+
+.title {
+	margin-left: 20px;
+}
+
+.header {
+	background-color: rgb(46,46,46);
+	box-shadow: 0px 5px 10px rgb(60,60,60);
+
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+
+}
+
+.nav-menu {
+	margin: 10px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between; 
+	align-items: center;
+}
+
+.nav-menu .button {
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 20px;
+
+	position: relative;
+}
+
+.nav-menu .button-link {
+	background-color: rgb(120,120,120);
+	border: 3px solid rgb(80,80,80);
+	padding: 5px 20px;
+
+	text-decoration: none;
+	color: rgb(20,20,20);
+
+	transition-duration: 0.25s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.nav-menu .dropdown-content {
+	position: absolute;
+	top: 25px;
+	z-index: 1;
+
+    animation: fadein 0.2s;
+	border: 3px solid rgb(80,80,80);
+
+	background-color: rgb(120,120,120);
+	display: none;
+}
+
+.nav-menu .dropdown-content a {
+	display: block;
+	text-decoration: none;
+	color: rgb(20,20,20);
+
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.nav-menu .dropdown-content a:hover {
+	background-color: rgb(80,80,80);
+}
+
+.nav-menu .button:hover .dropdown-content {
+	display: block;
+}
+
+.nav-menu .button a:hover {
+	background-color: rgb(80,80,80);
+}
+
+.page {
+	display: flex;
+	justify-content: center;
+}
+
+.page .content {
+	margin: 20px;
+	margin-bottom: 100px;
+	padding: 15px 30px 20px 30px;
+	border-radius: 10px;
+	width: 800px;
+
+	color: rgb(200,200,200);
+	background-color: rgb(46,46,46);
+	box-shadow: 0 0 10px rgb(60,60,60);
+}
+
+.content div:target {
+	margin-left: 10px;
+}
+
+.content p {
+	margin-top: 0.25em;
+	margin-bottom: 0.75em;
+	margin-left: 5px;
+	color: rgb(170,170,170);
+}
+
+.content h3 {
+	margin: 0.75em 0px;
+}
+
+.content h4 {
+	margin: 0.75em 0px;
+	color: rgb(185,185,185);
+}
+
+.content a {
+	margin-left: 5px;
+}
+
+.content a[href] {
+	color: rgb(100,70,255);
+}
