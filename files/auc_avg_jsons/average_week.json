@@ -3,24 +3,24 @@
     "bazaar": {
         "BLAZE_ROD": {
             "_id": "BLAZE_ROD",
-            "avg_buy": 32.95266814337495,
-            "avg_sell": 28.66526059242595,
-            "curr_buy": 32.6,
-            "curr_sell": 29.0
+            "avg_buy": 32.966958986858835,
+            "avg_sell": 28.564706379383185,
+            "curr_buy": 32.7,
+            "curr_sell": 28.5
         },
         "BONE": {
             "_id": "BONE",
-            "avg_buy": 13.301827716274648,
-            "avg_sell": 11.7097030884043,
-            "curr_buy": 12.3,
+            "avg_buy": 13.342688154713942,
+            "avg_sell": 11.648847933803207,
+            "curr_buy": 12.6,
             "curr_sell": 12.2
         },
         "BROWN_MUSHROOM": {
             "_id": "BROWN_MUSHROOM",
-            "avg_buy": 14.247449584816131,
-            "avg_sell": 13.403892268619693,
+            "avg_buy": 14.333823529411765,
+            "avg_sell": 13.4,
             "curr_buy": 14.2,
-            "curr_sell": 13.5
+            "curr_sell": 13.4
         },
         "CACTUS": {
             "_id": "CACTUS",
@@ -32,86 +32,86 @@
         "CARROT_ITEM": {
             "_id": "CARROT_ITEM",
             "avg_buy": 5.900000000000001,
-            "avg_sell": 4.201592328926341,
+            "avg_sell": 4.2,
             "curr_buy": 5.9,
-            "curr_sell": 4.6
+            "curr_sell": 4.2
         },
         "CATALYST": {
             "_id": "CATALYST",
-            "avg_buy": 29314.947152619592,
-            "avg_sell": 27605.284129963897,
-            "curr_buy": 29314.8,
-            "curr_sell": 27712.9
+            "avg_buy": 29315.0,
+            "avg_sell": 27605.28931459376,
+            "curr_buy": 29315.0,
+            "curr_sell": 27713.0
         },
         "CLAY_BALL": {
             "_id": "CLAY_BALL",
-            "avg_buy": 5.791090031337342,
+            "avg_buy": 5.79237210800365,
             "avg_sell": 4.8,
             "curr_buy": 5.7,
             "curr_sell": 4.8
         },
         "COAL": {
             "_id": "COAL",
-            "avg_buy": 11.608039280816959,
-            "avg_sell": 10.30428738045253,
-            "curr_buy": 11.5,
-            "curr_sell": 10.5
+            "avg_buy": 11.282771829134166,
+            "avg_sell": 10.4,
+            "curr_buy": 10.8,
+            "curr_sell": 10.4
         },
         "COBBLESTONE": {
             "_id": "COBBLESTONE",
-            "avg_buy": 8.49271560459356,
-            "avg_sell": 6.6,
+            "avg_buy": 8.494467166553056,
+            "avg_sell": 6.53279787038737,
             "curr_buy": 8.3,
             "curr_sell": 6.6
         },
         "COMPACTOR": {
             "_id": "COMPACTOR",
-            "avg_buy": 7989.4,
-            "avg_sell": 6848.555555555556,
-            "curr_buy": 7989.4,
-            "curr_sell": 6972.4
+            "avg_buy": 7989.391666666666,
+            "avg_sell": 6973.334848484848,
+            "curr_buy": 7989.3,
+            "curr_sell": 7000.1
         },
         "DIAMOND": {
             "_id": "DIAMOND",
-            "avg_buy": 8.288833094724247,
+            "avg_buy": 8.289084363683116,
             "avg_sell": 7.5,
             "curr_buy": 8.2,
             "curr_sell": 7.5
         },
         "EMERALD": {
             "_id": "EMERALD",
-            "avg_buy": 8.545920648952213,
+            "avg_buy": 8.558141895501656,
             "avg_sell": 7.0,
-            "curr_buy": 8.1,
+            "curr_buy": 8.0,
             "curr_sell": 7.0
         },
         "ENCHANTED_ACACIA_LOG": {
             "_id": "ENCHANTED_ACACIA_LOG",
-            "avg_buy": 775.5664282214602,
-            "avg_sell": 654.5323002049181,
-            "curr_buy": 772.5,
+            "avg_buy": 775.7167147865539,
+            "avg_sell": 653.8982533889468,
+            "curr_buy": 772.7,
             "curr_sell": 690.3
         },
         "ENCHANTED_BAKED_POTATO": {
             "_id": "ENCHANTED_BAKED_POTATO",
-            "avg_buy": 128796.0,
-            "avg_sell": 39242.8500440995,
-            "curr_buy": 128796.0,
-            "curr_sell": 125800.8
+            "avg_buy": 128795.99583333333,
+            "avg_sell": 40194.2025645499,
+            "curr_buy": 128795.9,
+            "curr_sell": 125800.9
         },
         "ENCHANTED_BIRCH_LOG": {
             "_id": "ENCHANTED_BIRCH_LOG",
             "avg_buy": 1240.0,
-            "avg_sell": 1107.7066613798572,
+            "avg_sell": 1107.9569571865443,
             "curr_buy": 1240.0,
-            "curr_sell": 1111.4
+            "curr_sell": 1111.5
         },
         "ENCHANTED_BLAZE_POWDER": {
             "_id": "ENCHANTED_BLAZE_POWDER",
-            "avg_buy": 3902.686170212766,
-            "avg_sell": 3700.5,
-            "curr_buy": 3899.0,
-            "curr_sell": 3700.6
+            "avg_buy": 3902.412171052632,
+            "avg_sell": 3700.430131004367,
+            "curr_buy": 3898.9,
+            "curr_sell": 3700.4
         },
         "ENCHANTED_BLAZE_ROD": {
             "_id": "ENCHANTED_BLAZE_ROD",
@@ -122,23 +122,23 @@
         },
         "ENCHANTED_BONE": {
             "_id": "ENCHANTED_BONE",
-            "avg_buy": 2485.9719326383315,
-            "avg_sell": 2346.2459718812765,
-            "curr_buy": 2472.6,
-            "curr_sell": 2353.4
+            "avg_buy": 2497.9230828814875,
+            "avg_sell": 2346.6926734385133,
+            "curr_buy": 2473.9,
+            "curr_sell": 2353.5
         },
         "ENCHANTED_BREAD": {
             "_id": "ENCHANTED_BREAD",
-            "avg_buy": 65.85015898251193,
+            "avg_buy": 65.85603015075377,
             "avg_sell": 48.4,
-            "curr_buy": 65.6,
+            "curr_buy": 65.8,
             "curr_sell": 48.4
         },
         "ENCHANTED_BROWN_MUSHROOM": {
             "_id": "ENCHANTED_BROWN_MUSHROOM",
-            "avg_buy": 3005.7,
-            "avg_sell": 2702.30389064143,
-            "curr_buy": 3005.7,
+            "avg_buy": 3005.6,
+            "avg_sell": 2702.3035864978906,
+            "curr_buy": 3005.6,
             "curr_sell": 2702.4
         },
         "ENCHANTED_CACTUS": {
@@ -150,24 +150,24 @@
         },
         "ENCHANTED_CACTUS_GREEN": {
             "_id": "ENCHANTED_CACTUS_GREEN",
-            "avg_buy": 1690.4180129990714,
-            "avg_sell": 1522.8065392354124,
+            "avg_buy": 1690.478734439834,
+            "avg_sell": 1522.8,
             "curr_buy": 1689.9,
-            "curr_sell": 1522.9
+            "curr_sell": 1522.8
         },
         "ENCHANTED_CAKE": {
             "_id": "ENCHANTED_CAKE",
-            "avg_buy": 7179.794318181818,
-            "avg_sell": 4483.58756476684,
+            "avg_buy": 7179.737349397591,
+            "avg_sell": 4461.003134265142,
             "curr_buy": 7179.7,
-            "curr_sell": 4597.0
+            "curr_sell": 4461.1
         },
         "ENCHANTED_CARROT": {
             "_id": "ENCHANTED_CARROT",
-            "avg_buy": 994.7918849744053,
-            "avg_sell": 855.8569633460352,
-            "curr_buy": 994.5,
-            "curr_sell": 871.5
+            "avg_buy": 991.0056391970418,
+            "avg_sell": 855.0088980150582,
+            "curr_buy": 899.6,
+            "curr_sell": 855.4
         },
         "ENCHANTED_CARROT_ON_A_STICK": {
             "_id": "ENCHANTED_CARROT_ON_A_STICK",
@@ -179,56 +179,56 @@
         "ENCHANTED_CARROT_STICK": {
             "_id": "ENCHANTED_CARROT_STICK",
             "avg_buy": 48140.57666666666,
-            "avg_sell": 40410.0,
+            "avg_sell": 40410.01111111111,
             "curr_buy": 48140.3,
-            "curr_sell": 40410.0
+            "curr_sell": 40410.1
         },
         "ENCHANTED_CHARCOAL": {
             "_id": "ENCHANTED_CHARCOAL",
-            "avg_buy": 2254.7746781115884,
-            "avg_sell": 1911.6,
-            "curr_buy": 2254.4,
-            "curr_sell": 1911.6
+            "avg_buy": 2254.3,
+            "avg_sell": 1911.6375281461096,
+            "curr_buy": 2254.2,
+            "curr_sell": 1911.7
         },
         "ENCHANTED_CLAY_BALL": {
             "_id": "ENCHANTED_CLAY_BALL",
-            "avg_buy": 480.18301061836354,
-            "avg_sell": 468.2,
-            "curr_buy": 479.9,
-            "curr_sell": 468.2
+            "avg_buy": 480.05937315198105,
+            "avg_sell": 467.9306046976512,
+            "curr_buy": 480.0,
+            "curr_sell": 469.0
         },
         "ENCHANTED_CLOWNFISH": {
             "_id": "ENCHANTED_CLOWNFISH",
             "avg_buy": 3216.408641975309,
-            "avg_sell": 3154.7037426900583,
+            "avg_sell": 3154.702833530106,
             "curr_buy": 3215.9,
             "curr_sell": 3154.8
         },
         "ENCHANTED_COAL": {
             "_id": "ENCHANTED_COAL",
-            "avg_buy": 1229.4522954780807,
-            "avg_sell": 1123.3066595631326,
-            "curr_buy": 1224.8,
+            "avg_buy": 1229.2345348438034,
+            "avg_sell": 1123.3,
+            "curr_buy": 1224.7,
             "curr_sell": 1123.4
         },
         "ENCHANTED_COAL_BLOCK": {
             "_id": "ENCHANTED_COAL_BLOCK",
-            "avg_buy": 197025.6,
-            "avg_sell": 188294.512688172,
+            "avg_buy": 197025.61860465116,
+            "avg_sell": 188316.70191489358,
             "curr_buy": 197025.6,
             "curr_sell": 190380.3
         },
         "ENCHANTED_COBBLESTONE": {
             "_id": "ENCHANTED_COBBLESTONE",
-            "avg_buy": 939.7451787132645,
-            "avg_sell": 887.9950876095116,
-            "curr_buy": 928.0,
-            "curr_sell": 901.7
+            "avg_buy": 941.1508119478334,
+            "avg_sell": 883.3152351097177,
+            "curr_buy": 928.9,
+            "curr_sell": 900.3
         },
         "ENCHANTED_COCOA": {
             "_id": "ENCHANTED_COCOA",
             "avg_buy": 1032.4466540999056,
-            "avg_sell": 897.2001261829654,
+            "avg_sell": 897.2000000000002,
             "curr_buy": 1032.1,
             "curr_sell": 897.2
         },
@@ -241,9 +241,9 @@
         },
         "ENCHANTED_COOKED_MUTTON": {
             "_id": "ENCHANTED_COOKED_MUTTON",
-            "avg_buy": 273909.14444444445,
+            "avg_buy": 273562.0272727273,
             "avg_sell": 58924.145312500004,
-            "curr_buy": 273909.0,
+            "curr_buy": 272000.0,
             "curr_sell": 238900.0
         },
         "ENCHANTED_COOKED_SALMON": {
@@ -262,171 +262,171 @@
         },
         "ENCHANTED_DARK_OAK_LOG": {
             "_id": "ENCHANTED_DARK_OAK_LOG",
-            "avg_buy": 793.9708333333333,
-            "avg_sell": 711.1536187467584,
-            "curr_buy": 793.4,
-            "curr_sell": 716.7
+            "avg_buy": 793.9331570475971,
+            "avg_sell": 711.187607218186,
+            "curr_buy": 793.1,
+            "curr_sell": 716.8
         },
         "ENCHANTED_DIAMOND": {
             "_id": "ENCHANTED_DIAMOND",
-            "avg_buy": 1370.690021459227,
-            "avg_sell": 1323.13177508683,
-            "curr_buy": 1365.1,
-            "curr_sell": 1323.6
+            "avg_buy": 1367.684234752589,
+            "avg_sell": 1323.116061990212,
+            "curr_buy": 1364.9,
+            "curr_sell": 1323.4
         },
         "ENCHANTED_DIAMOND_BLOCK": {
             "_id": "ENCHANTED_DIAMOND_BLOCK",
             "avg_buy": 220998.6238317757,
-            "avg_sell": 210193.93141685668,
+            "avg_sell": 210186.72499711698,
             "curr_buy": 220998.2,
             "curr_sell": 216148.4
         },
         "ENCHANTED_EGG": {
             "_id": "ENCHANTED_EGG",
-            "avg_buy": 2668.794758064516,
-            "avg_sell": 1956.0164444444445,
-            "curr_buy": 2668.7,
+            "avg_buy": 2668.6,
+            "avg_sell": 1954.975516224189,
+            "curr_buy": 2668.5,
             "curr_sell": 1956.1
         },
         "ENCHANTED_EMERALD": {
             "_id": "ENCHANTED_EMERALD",
-            "avg_buy": 1010.0105825761624,
+            "avg_buy": 1005.5147280334729,
             "avg_sell": 951.2,
-            "curr_buy": 1005.6,
+            "curr_buy": 1005.5,
             "curr_sell": 951.2
         },
         "ENCHANTED_EMERALD_BLOCK": {
             "_id": "ENCHANTED_EMERALD_BLOCK",
             "avg_buy": 161933.1,
-            "avg_sell": 103355.66363977487,
+            "avg_sell": 103374.89133533384,
             "curr_buy": 161933.1,
-            "curr_sell": 154616.7
+            "curr_sell": 154616.6
         },
         "ENCHANTED_ENDER_PEARL": {
             "_id": "ENCHANTED_ENDER_PEARL",
-            "avg_buy": 224.67035175879397,
-            "avg_sell": 194.43977633248733,
-            "curr_buy": 224.4,
-            "curr_sell": 194.7
+            "avg_buy": 224.3,
+            "avg_sell": 194.4,
+            "curr_buy": 224.3,
+            "curr_sell": 194.4
         },
         "ENCHANTED_ENDSTONE": {
             "_id": "ENCHANTED_ENDSTONE",
-            "avg_buy": 2702.7025392726487,
-            "avg_sell": 2517.111559025715,
+            "avg_buy": 2703.2977247378985,
+            "avg_sell": 2517.0946021761306,
             "curr_buy": 2684.3,
-            "curr_sell": 2529.1
+            "curr_sell": 2529.2
         },
         "ENCHANTED_EYE_OF_ENDER": {
             "_id": "ENCHANTED_EYE_OF_ENDER",
-            "avg_buy": 5098.785784313725,
-            "avg_sell": 4891.413250517598,
-            "curr_buy": 5099.4,
-            "curr_sell": 4891.6
+            "avg_buy": 5099.359161349134,
+            "avg_sell": 4891.410105263158,
+            "curr_buy": 5097.9,
+            "curr_sell": 4891.5
         },
         "ENCHANTED_FEATHER": {
             "_id": "ENCHANTED_FEATHER",
-            "avg_buy": 474.8831608654751,
+            "avg_buy": 474.882099343955,
             "avg_sell": 472.2,
-            "curr_buy": 474.7,
+            "curr_buy": 474.6,
             "curr_sell": 472.2
         },
         "ENCHANTED_FERMENTED_SPIDER_EYE": {
             "_id": "ENCHANTED_FERMENTED_SPIDER_EYE",
-            "avg_buy": 142999.49740259742,
-            "avg_sell": 137230.03966942147,
+            "avg_buy": 142999.49868421053,
+            "avg_sell": 137072.78165938865,
             "curr_buy": 142999.4,
             "curr_sell": 140000.2
         },
         "ENCHANTED_FIREWORK_ROCKET": {
             "_id": "ENCHANTED_FIREWORK_ROCKET",
             "avg_buy": 179999.38545454544,
-            "avg_sell": 160001.0,
+            "avg_sell": 160000.9,
             "curr_buy": 179999.0,
-            "curr_sell": 160001.0
+            "curr_sell": 160000.9
         },
         "ENCHANTED_FLINT": {
             "_id": "ENCHANTED_FLINT",
-            "avg_buy": 3178.5963752665243,
-            "avg_sell": 3049.0,
-            "curr_buy": 3178.4,
-            "curr_sell": 3049.0
+            "avg_buy": 3177.0113291703833,
+            "avg_sell": 3049.1,
+            "curr_buy": 3165.1,
+            "curr_sell": 3049.1
         },
         "ENCHANTED_GHAST_TEAR": {
             "_id": "ENCHANTED_GHAST_TEAR",
-            "avg_buy": 92.17118113138015,
-            "avg_sell": 87.9358133340297,
+            "avg_buy": 92.15272069702449,
+            "avg_sell": 87.95675278040996,
             "curr_buy": 92.0,
             "curr_sell": 88.4
         },
         "ENCHANTED_GLISTERING_MELON": {
             "_id": "ENCHANTED_GLISTERING_MELON",
             "avg_buy": 10498.592181467182,
-            "avg_sell": 8429.710909090909,
+            "avg_sell": 8429.714285714286,
             "curr_buy": 10498.4,
-            "curr_sell": 8429.8
+            "curr_sell": 8429.9
         },
         "ENCHANTED_GLOWSTONE": {
             "_id": "ENCHANTED_GLOWSTONE",
-            "avg_buy": 119159.78588235295,
+            "avg_buy": 119162.52409638555,
             "avg_sell": 116306.4,
-            "curr_buy": 119046.1,
+            "curr_buy": 119046.2,
             "curr_sell": 116306.4
         },
         "ENCHANTED_GLOWSTONE_DUST": {
             "_id": "ENCHANTED_GLOWSTONE_DUST",
-            "avg_buy": 764.195548678886,
-            "avg_sell": 758.4265054452273,
-            "curr_buy": 763.8,
+            "avg_buy": 763.7083018028044,
+            "avg_sell": 758.4214077753039,
+            "curr_buy": 763.1,
             "curr_sell": 758.5
         },
         "ENCHANTED_GOLD": {
             "_id": "ENCHANTED_GOLD",
-            "avg_buy": 2122.704191616767,
-            "avg_sell": 2033.9626705653022,
-            "curr_buy": 2122.3,
-            "curr_sell": 2075.7
+            "avg_buy": 2121.8644351464436,
+            "avg_sell": 2027.3551248274998,
+            "curr_buy": 2122.0,
+            "curr_sell": 2044.7
         },
         "ENCHANTED_GOLDEN_CARROT": {
             "_id": "ENCHANTED_GOLDEN_CARROT",
-            "avg_buy": 139829.51694915254,
-            "avg_sell": 94890.61780762565,
-            "curr_buy": 120000.0,
+            "avg_buy": 139998.88909090907,
+            "avg_sell": 94866.24494577006,
+            "curr_buy": 139998.8,
             "curr_sell": 113617.1
         },
         "ENCHANTED_GOLD_BLOCK": {
             "_id": "ENCHANTED_GOLD_BLOCK",
-            "avg_buy": 256578.56666666668,
-            "avg_sell": 231335.98387096773,
-            "curr_buy": 256578.5,
-            "curr_sell": 231337.0
+            "avg_buy": 256578.2,
+            "avg_sell": 230260.48807339452,
+            "curr_buy": 256578.2,
+            "curr_sell": 231337.1
         },
         "ENCHANTED_GRILLED_PORK": {
             "_id": "ENCHANTED_GRILLED_PORK",
             "avg_buy": 274899.1725,
-            "avg_sell": 256242.41675126902,
+            "avg_sell": 256124.354973822,
             "curr_buy": 274899.0,
-            "curr_sell": 260000.8
+            "curr_sell": 260000.7
         },
         "ENCHANTED_GUNPOWDER": {
             "_id": "ENCHANTED_GUNPOWDER",
-            "avg_buy": 2568.2479315263913,
-            "avg_sell": 2345.4255122950817,
+            "avg_buy": 2568.253829479769,
+            "avg_sell": 2345.4250322248,
             "curr_buy": 2567.8,
             "curr_sell": 2345.5
         },
         "ENCHANTED_HAY_BLOCK": {
             "_id": "ENCHANTED_HAY_BLOCK",
-            "avg_buy": 7099.866051660516,
-            "avg_sell": 6163.3868372943325,
-            "curr_buy": 7099.8,
-            "curr_sell": 6197.9
+            "avg_buy": 7099.783006535947,
+            "avg_sell": 6168.76228668942,
+            "curr_buy": 7099.6,
+            "curr_sell": 6243.1
         },
         "ENCHANTED_HUGE_MUSHROOM_1": {
             "_id": "ENCHANTED_HUGE_MUSHROOM_1",
             "avg_buy": 6998.0,
-            "avg_sell": 5315.535222672064,
+            "avg_sell": 5316.876494023904,
             "curr_buy": 6998.0,
-            "curr_sell": 5315.6
+            "curr_sell": 5399.7
         },
         "ENCHANTED_HUGE_MUSHROOM_2": {
             "_id": "ENCHANTED_HUGE_MUSHROOM_2",
@@ -437,24 +437,24 @@
         },
         "ENCHANTED_ICE": {
             "_id": "ENCHANTED_ICE",
-            "avg_buy": 640.8076635924461,
+            "avg_buy": 646.0787750791974,
             "avg_sell": 582.3,
             "curr_buy": 632.8,
             "curr_sell": 582.3
         },
         "ENCHANTED_INK_SACK": {
             "_id": "ENCHANTED_INK_SACK",
-            "avg_buy": 24997.582812499997,
-            "avg_sell": 23174.564223669924,
-            "curr_buy": 24997.5,
+            "avg_buy": 24907.3,
+            "avg_sell": 23133.646193181816,
+            "curr_buy": 24907.2,
             "curr_sell": 24097.2
         },
         "ENCHANTED_IRON": {
             "_id": "ENCHANTED_IRON",
-            "avg_buy": 1264.5067035670359,
-            "avg_sell": 1210.8568530207394,
-            "curr_buy": 1262.0,
-            "curr_sell": 1224.1
+            "avg_buy": 1279.9689379243453,
+            "avg_sell": 1194.0125921179108,
+            "curr_buy": 1268.2,
+            "curr_sell": 1224.0
         },
         "ENCHANTED_IRON_BLOCK": {
             "_id": "ENCHANTED_IRON_BLOCK",
@@ -465,45 +465,45 @@
         },
         "ENCHANTED_JUNGLE_LOG": {
             "_id": "ENCHANTED_JUNGLE_LOG",
-            "avg_buy": 1241.8527682321494,
-            "avg_sell": 1179.1393403232853,
-            "curr_buy": 1240.6,
-            "curr_sell": 1179.6
+            "avg_buy": 1241.5995780590715,
+            "avg_sell": 1175.771971830986,
+            "curr_buy": 1240.2,
+            "curr_sell": 1178.8
         },
         "ENCHANTED_LAPIS_LAZULI": {
             "_id": "ENCHANTED_LAPIS_LAZULI",
-            "avg_buy": 576.7131424594891,
-            "avg_sell": 531.2223319733735,
-            "curr_buy": 557.4,
-            "curr_sell": 531.3
+            "avg_buy": 580.8831260405445,
+            "avg_sell": 531.2709957325746,
+            "curr_buy": 559.0,
+            "curr_sell": 531.7
         },
         "ENCHANTED_LAPIS_LAZULI_BLOCK": {
             "_id": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-            "avg_buy": 75115.39523809523,
-            "avg_sell": 73760.10073529411,
-            "curr_buy": 75115.2,
+            "avg_buy": 75117.01492537314,
+            "avg_sell": 73760.1,
+            "curr_buy": 75115.1,
             "curr_sell": 73760.1
         },
         "ENCHANTED_LAVA_BUCKET": {
             "_id": "ENCHANTED_LAVA_BUCKET",
-            "avg_buy": 395777.34722222225,
-            "avg_sell": 16458.734173363682,
-            "curr_buy": 395777.2,
-            "curr_sell": 390403.1
+            "avg_buy": 395777.15675675677,
+            "avg_sell": 16497.03960007432,
+            "curr_buy": 395776.9,
+            "curr_sell": 390403.2
         },
         "ENCHANTED_LEATHER": {
             "_id": "ENCHANTED_LEATHER",
             "avg_buy": 10291.085889570551,
-            "avg_sell": 9561.026082862525,
+            "avg_sell": 9905.861111111111,
             "curr_buy": 10290.8,
-            "curr_sell": 9900.5
+            "curr_sell": 9920.2
         },
         "ENCHANTED_MAGMA_CREAM": {
             "_id": "ENCHANTED_MAGMA_CREAM",
-            "avg_buy": 1289.2,
-            "avg_sell": 1268.3748182861514,
-            "curr_buy": 1289.1,
-            "curr_sell": 1270.0
+            "avg_buy": 1289.1927203065134,
+            "avg_sell": 1268.3337026868012,
+            "curr_buy": 1287.3,
+            "curr_sell": 1268.4
         },
         "ENCHANTED_MELON": {
             "_id": "ENCHANTED_MELON",
@@ -515,99 +515,99 @@
         "ENCHANTED_MELON_BLOCK": {
             "_id": "ENCHANTED_MELON_BLOCK",
             "avg_buy": 31547.166666666668,
-            "avg_sell": 27496.76341463414,
+            "avg_sell": 27496.757142857143,
             "curr_buy": 31547.0,
             "curr_sell": 27496.8
         },
         "ENCHANTED_MUTTON": {
             "_id": "ENCHANTED_MUTTON",
-            "avg_buy": 3173.748163265306,
-            "avg_sell": 2955.023506493507,
+            "avg_buy": 3173.7479025710422,
+            "avg_sell": 2955.018981018981,
             "curr_buy": 3173.7,
             "curr_sell": 2955.2
         },
         "ENCHANTED_NETHER_STALK": {
             "_id": "ENCHANTED_NETHER_STALK",
-            "avg_buy": 2099.4695652173914,
-            "avg_sell": 1904.802056807052,
-            "curr_buy": 2099.4,
-            "curr_sell": 1904.9
+            "avg_buy": 2099.6673832468496,
+            "avg_sell": 1905.0023864511163,
+            "curr_buy": 2099.3,
+            "curr_sell": 1905.1
         },
         "ENCHANTED_OAK_LOG": {
             "_id": "ENCHANTED_OAK_LOG",
-            "avg_buy": 1189.3219397828234,
-            "avg_sell": 1051.3,
-            "curr_buy": 1189.1,
-            "curr_sell": 1051.3
+            "avg_buy": 1188.9976220591955,
+            "avg_sell": 1044.9963788300836,
+            "curr_buy": 1188.9,
+            "curr_sell": 1051.4
         },
         "ENCHANTED_OBSIDIAN": {
             "_id": "ENCHANTED_OBSIDIAN",
-            "avg_buy": 4914.60228596075,
-            "avg_sell": 4510.170602409638,
-            "curr_buy": 4799.8,
-            "curr_sell": 4520.7
+            "avg_buy": 4911.679255989913,
+            "avg_sell": 4506.4010165184245,
+            "curr_buy": 4799.6,
+            "curr_sell": 4520.8
         },
         "ENCHANTED_PACKED_ICE": {
             "_id": "ENCHANTED_PACKED_ICE",
-            "avg_buy": 124664.5950310559,
-            "avg_sell": 100001.3,
-            "curr_buy": 119000.0,
+            "avg_buy": 118999.90000000001,
+            "avg_sell": 100001.30000000002,
+            "curr_buy": 118999.9,
             "curr_sell": 100001.3
         },
         "ENCHANTED_PAPER": {
             "_id": "ENCHANTED_PAPER",
-            "avg_buy": 686.3804808475958,
+            "avg_buy": 686.3879916317992,
             "avg_sell": 568.0,
             "curr_buy": 686.1,
             "curr_sell": 568.0
         },
         "ENCHANTED_PORK": {
             "_id": "ENCHANTED_PORK",
-            "avg_buy": 1870.4696169088506,
-            "avg_sell": 1770.3675862068967,
+            "avg_buy": 1869.9597365406644,
+            "avg_sell": 1770.5183381088825,
             "curr_buy": 1869.4,
             "curr_sell": 1775.3
         },
         "ENCHANTED_POTATO": {
             "_id": "ENCHANTED_POTATO",
-            "avg_buy": 941.9147306397307,
+            "avg_buy": 943.6541678282687,
             "avg_sell": 810.0,
-            "curr_buy": 941.7,
+            "curr_buy": 941.3,
             "curr_sell": 810.0
         },
         "ENCHANTED_PRISMARINE_CRYSTALS": {
             "_id": "ENCHANTED_PRISMARINE_CRYSTALS",
             "avg_buy": 411.5519851116625,
-            "avg_sell": 390.5202449845679,
+            "avg_sell": 390.5199980650155,
             "curr_buy": 410.5,
             "curr_sell": 390.6
         },
         "ENCHANTED_PRISMARINE_SHARD": {
             "_id": "ENCHANTED_PRISMARINE_SHARD",
             "avg_buy": 495.0338546458142,
-            "avg_sell": 314.7,
+            "avg_sell": 315.9187124931806,
             "curr_buy": 493.0,
-            "curr_sell": 314.7
+            "curr_sell": 323.6
         },
         "ENCHANTED_PUFFERFISH": {
             "_id": "ENCHANTED_PUFFERFISH",
-            "avg_buy": 2658.8998109640834,
-            "avg_sell": 2256.2202301054654,
-            "curr_buy": 2658.8,
+            "avg_buy": 2658.896103896104,
+            "avg_sell": 2256.2195380173243,
+            "curr_buy": 2658.7,
             "curr_sell": 2256.4
         },
         "ENCHANTED_PUMPKIN": {
             "_id": "ENCHANTED_PUMPKIN",
-            "avg_buy": 647.7603415559772,
+            "avg_buy": 647.8078202995008,
             "avg_sell": 638.5,
             "curr_buy": 647.6,
             "curr_sell": 638.5
         },
         "ENCHANTED_QUARTZ": {
             "_id": "ENCHANTED_QUARTZ",
-            "avg_buy": 1828.742377826404,
+            "avg_buy": 1828.7418222554143,
             "avg_sell": 1691.3,
-            "curr_buy": 1827.0,
+            "curr_buy": 1827.3,
             "curr_sell": 1691.3
         },
         "ENCHANTED_QUARTZ_BLOCK": {
@@ -621,92 +621,92 @@
             "_id": "ENCHANTED_RABBIT",
             "avg_buy": 640.0909090909091,
             "avg_sell": 632.1,
-            "curr_buy": 639.8,
+            "curr_buy": 640.1,
             "curr_sell": 632.1
         },
         "ENCHANTED_RABBIT_FOOT": {
             "_id": "ENCHANTED_RABBIT_FOOT",
-            "avg_buy": 4025.1500791556723,
+            "avg_buy": 4025.078088803088,
             "avg_sell": 3884.8,
-            "curr_buy": 4024.6,
+            "curr_buy": 4024.3,
             "curr_sell": 3884.8
         },
         "ENCHANTED_RABBIT_HIDE": {
             "_id": "ENCHANTED_RABBIT_HIDE",
-            "avg_buy": 11910.301886792453,
+            "avg_buy": 11910.183333333334,
             "avg_sell": 9347.825862068963,
-            "curr_buy": 11910.1,
+            "curr_buy": 11909.9,
             "curr_sell": 9348.0
         },
         "ENCHANTED_RAW_BEEF": {
             "_id": "ENCHANTED_RAW_BEEF",
-            "avg_buy": 688.9242601453128,
-            "avg_sell": 619.9094190777577,
+            "avg_buy": 688.9301773049646,
+            "avg_sell": 619.9092638675232,
             "curr_buy": 677.7,
             "curr_sell": 620.1
         },
         "ENCHANTED_RAW_CHICKEN": {
             "_id": "ENCHANTED_RAW_CHICKEN",
-            "avg_buy": 650.4356434240364,
+            "avg_buy": 650.4436417825717,
             "avg_sell": 631.3,
             "curr_buy": 644.8,
             "curr_sell": 631.3
         },
         "ENCHANTED_RAW_FISH": {
             "_id": "ENCHANTED_RAW_FISH",
-            "avg_buy": 5084.902237851662,
-            "avg_sell": 4110.400538028858,
-            "curr_buy": 5084.1,
-            "curr_sell": 4720.1
+            "avg_buy": 5084.904945407836,
+            "avg_sell": 4353.220300157978,
+            "curr_buy": 5084.0,
+            "curr_sell": 4720.2
         },
         "ENCHANTED_RAW_SALMON": {
             "_id": "ENCHANTED_RAW_SALMON",
             "avg_buy": 1597.391124260355,
-            "avg_sell": 72.8947898109495,
+            "avg_sell": 70.2862837279919,
             "curr_buy": 1597.0,
             "curr_sell": 1556.7
         },
         "ENCHANTED_REDSTONE": {
             "_id": "ENCHANTED_REDSTONE",
-            "avg_buy": 532.8453190220632,
-            "avg_sell": 515.2073950002094,
-            "curr_buy": 532.6,
-            "curr_sell": 516.7
+            "avg_buy": 532.7696622781913,
+            "avg_sell": 515.2526810663848,
+            "curr_buy": 530.9,
+            "curr_sell": 516.1
         },
         "ENCHANTED_REDSTONE_BLOCK": {
             "_id": "ENCHANTED_REDSTONE_BLOCK",
-            "avg_buy": 75014.43489932886,
-            "avg_sell": 73405.18826815642,
-            "curr_buy": 74779.8,
-            "curr_sell": 73426.8
+            "avg_buy": 75017.61814058958,
+            "avg_sell": 73403.64131736525,
+            "curr_buy": 74779.7,
+            "curr_sell": 73426.7
         },
         "ENCHANTED_REDSTONE_LAMP": {
             "_id": "ENCHANTED_REDSTONE_LAMP",
-            "avg_buy": 99862.49804489501,
+            "avg_buy": 99862.49631502891,
             "avg_sell": 95639.61418918919,
-            "curr_buy": 99862.0,
+            "curr_buy": 99861.9,
             "curr_sell": 95639.8
         },
         "ENCHANTED_RED_MUSHROOM": {
             "_id": "ENCHANTED_RED_MUSHROOM",
-            "avg_buy": 3099.9426497277677,
+            "avg_buy": 3116.812165775401,
             "avg_sell": 2822.7163187855786,
-            "curr_buy": 3098.6,
+            "curr_buy": 3098.8,
             "curr_sell": 2825.0
         },
         "ENCHANTED_ROTTEN_FLESH": {
             "_id": "ENCHANTED_ROTTEN_FLESH",
-            "avg_buy": 1921.6217616580311,
-            "avg_sell": 1845.736352627755,
-            "curr_buy": 1915.4,
-            "curr_sell": 1845.8
+            "avg_buy": 1925.3910218546957,
+            "avg_sell": 1845.917375518672,
+            "curr_buy": 1915.7,
+            "curr_sell": 1846.0
         },
         "ENCHANTED_SAND": {
             "_id": "ENCHANTED_SAND",
-            "avg_buy": 2657.176315789474,
-            "avg_sell": 2265.8,
-            "curr_buy": 2620.3,
-            "curr_sell": 2265.8
+            "avg_buy": 2660.1573353293415,
+            "avg_sell": 2265.801009081736,
+            "curr_buy": 2659.7,
+            "curr_sell": 2265.9
         },
         "ENCHANTED_SEEDS": {
             "_id": "ENCHANTED_SEEDS",
@@ -717,10 +717,10 @@
         },
         "ENCHANTED_SLIME_BALL": {
             "_id": "ENCHANTED_SLIME_BALL",
-            "avg_buy": 1381.773240291262,
-            "avg_sell": 1118.0676629570748,
-            "curr_buy": 1381.1,
-            "curr_sell": 1118.6
+            "avg_buy": 1381.6609100877192,
+            "avg_sell": 1118.0110212217141,
+            "curr_buy": 1380.9,
+            "curr_sell": 1118.5
         },
         "ENCHANTED_SLIME_BLOCK": {
             "_id": "ENCHANTED_SLIME_BLOCK",
@@ -731,58 +731,58 @@
         },
         "ENCHANTED_SNOW_BLOCK": {
             "_id": "ENCHANTED_SNOW_BLOCK",
-            "avg_buy": 609.6,
-            "avg_sell": 592.7091854934602,
-            "curr_buy": 609.5,
-            "curr_sell": 592.9
+            "avg_buy": 607.7,
+            "avg_sell": 592.7016283951403,
+            "curr_buy": 607.7,
+            "curr_sell": 592.8
         },
         "ENCHANTED_SPIDER_EYE": {
             "_id": "ENCHANTED_SPIDER_EYE",
-            "avg_buy": 2139.4613445378154,
-            "avg_sell": 2006.3,
-            "curr_buy": 2139.3,
-            "curr_sell": 2006.3
+            "avg_buy": 2139.1589673913045,
+            "avg_sell": 2006.5,
+            "curr_buy": 2139.0,
+            "curr_sell": 2006.5
         },
         "ENCHANTED_SPONGE": {
             "_id": "ENCHANTED_SPONGE",
-            "avg_buy": 10593.097940503432,
-            "avg_sell": 9804.9148306901,
+            "avg_buy": 10593.1,
+            "avg_sell": 9805.410600000001,
             "curr_buy": 10593.1,
-            "curr_sell": 9805.5
+            "curr_sell": 9805.6
         },
         "ENCHANTED_SPRUCE_LOG": {
             "_id": "ENCHANTED_SPRUCE_LOG",
-            "avg_buy": 1116.403145959757,
-            "avg_sell": 1066.3604217753802,
-            "curr_buy": 1114.4,
-            "curr_sell": 1066.5
+            "avg_buy": 1116.4769915966385,
+            "avg_sell": 1066.3493970091654,
+            "curr_buy": 1114.2,
+            "curr_sell": 1066.4
         },
         "ENCHANTED_STRING": {
             "_id": "ENCHANTED_STRING",
-            "avg_buy": 1222.1790593838368,
+            "avg_buy": 1217.675414664393,
             "avg_sell": 1156.7,
-            "curr_buy": 1200.8,
+            "curr_buy": 1200.6,
             "curr_sell": 1156.7
         },
         "ENCHANTED_SUGAR": {
             "_id": "ENCHANTED_SUGAR",
-            "avg_buy": 1275.9933860531994,
-            "avg_sell": 1053.9134275618374,
-            "curr_buy": 1275.4,
-            "curr_sell": 1054.2
+            "avg_buy": 1276.6702557200538,
+            "avg_sell": 1054.201187648456,
+            "curr_buy": 1276.0,
+            "curr_sell": 1054.6
         },
         "ENCHANTED_SUGAR_CANE": {
             "_id": "ENCHANTED_SUGAR_CANE",
-            "avg_buy": 178136.75495495493,
-            "avg_sell": 167374.7518610422,
-            "curr_buy": 178134.2,
-            "curr_sell": 167375.4
+            "avg_buy": 178136.59745762713,
+            "avg_sell": 167374.84549878346,
+            "curr_buy": 178134.1,
+            "curr_sell": 167375.6
         },
         "ENCHANTED_WATER_LILY": {
             "_id": "ENCHANTED_WATER_LILY",
-            "avg_buy": 51999.774999999994,
+            "avg_buy": 51999.51935483871,
             "avg_sell": 48415.7,
-            "curr_buy": 51999.2,
+            "curr_buy": 53094.8,
             "curr_sell": 48415.7
         },
         "ENCHANTED_WET_SPONGE": {
@@ -796,35 +796,35 @@
             "_id": "ENDER_PEARL",
             "avg_buy": 8.0,
             "avg_sell": 7.4,
-            "curr_buy": 7.9,
-            "curr_sell": 7.4
+            "curr_buy": 8.0,
+            "curr_sell": 7.5
         },
         "ENDER_STONE": {
             "_id": "ENDER_STONE",
-            "avg_buy": 15.986581996138225,
-            "avg_sell": 13.619451771992201,
+            "avg_buy": 15.987649973038554,
+            "avg_sell": 13.618198608938734,
             "curr_buy": 15.9,
             "curr_sell": 13.7
         },
         "FEATHER": {
             "_id": "FEATHER",
-            "avg_buy": 2.7599363176624836,
-            "avg_sell": 2.4000000000000004,
-            "curr_buy": 2.6,
+            "avg_buy": 2.760312873028837,
+            "avg_sell": 2.4,
+            "curr_buy": 2.7,
             "curr_sell": 2.4
         },
         "FLINT": {
             "_id": "FLINT",
-            "avg_buy": 18.99730199728921,
-            "avg_sell": 16.097558268590454,
-            "curr_buy": 18.9,
-            "curr_sell": 16.3
+            "avg_buy": 18.99413452102363,
+            "avg_sell": 16.15181453857286,
+            "curr_buy": 18.8,
+            "curr_sell": 16.4
         },
         "FOUL_FLESH": {
             "_id": "FOUL_FLESH",
-            "avg_buy": 25395.966445916107,
-            "avg_sell": 22938.80301530153,
-            "curr_buy": 25372.4,
+            "avg_buy": 25373.05784753363,
+            "avg_sell": 22936.88832281335,
+            "curr_buy": 25372.3,
             "curr_sell": 24000.5
         },
         "GHAST_TEAR": {
@@ -836,22 +836,22 @@
         },
         "GLOWSTONE_DUST": {
             "_id": "GLOWSTONE_DUST",
-            "avg_buy": 14.882667425320056,
-            "avg_sell": 12.050762437038571,
+            "avg_buy": 14.884148213111159,
+            "avg_sell": 11.937048361236437,
             "curr_buy": 14.8,
-            "curr_sell": 12.1
+            "curr_sell": 12.0
         },
         "GOLDEN_TOOTH": {
             "_id": "GOLDEN_TOOTH",
-            "avg_buy": 100494.4855670103,
-            "avg_sell": 96749.9925170068,
+            "avg_buy": 100494.3,
+            "avg_sell": 96625.78666666667,
             "curr_buy": 100494.3,
             "curr_sell": 96750.1
         },
         "GOLD_INGOT": {
             "_id": "GOLD_INGOT",
-            "avg_buy": 13.5,
-            "avg_sell": 12.231271488671066,
+            "avg_buy": 13.499958120445598,
+            "avg_sell": 12.226602125524538,
             "curr_buy": 13.5,
             "curr_sell": 12.3
         },
@@ -865,37 +865,37 @@
         "GREEN_CANDY": {
             "_id": "GREEN_CANDY",
             "avg_buy": 1195.5073468229955,
-            "avg_sell": 1171.8,
+            "avg_sell": 1171.8318535421638,
             "curr_buy": 1190.4,
-            "curr_sell": 1171.9
+            "curr_sell": 1172.1
         },
         "GREEN_GIFT": {
             "_id": "GREEN_GIFT",
-            "avg_buy": 5994.747905205248,
+            "avg_buy": 5994.487863463969,
             "avg_sell": 5656.6,
-            "curr_buy": 5933.0,
+            "curr_buy": 5932.8,
             "curr_sell": 5656.6
         },
         "HAMSTER_WHEEL": {
             "_id": "HAMSTER_WHEEL",
-            "avg_buy": 24899.5,
-            "avg_sell": 20237.861361852432,
-            "curr_buy": 24899.4,
-            "curr_sell": 21944.6
+            "avg_buy": 24899.473493975904,
+            "avg_sell": 20177.52065880439,
+            "curr_buy": 24899.3,
+            "curr_sell": 21945.1
         },
         "HAY_BLOCK": {
             "_id": "HAY_BLOCK",
-            "avg_buy": 47.49895153313551,
-            "avg_sell": 38.46462952611639,
+            "avg_buy": 47.498479162551845,
+            "avg_sell": 38.462754234619986,
             "curr_buy": 47.2,
             "curr_sell": 38.6
         },
         "HOT_POTATO_BOOK": {
             "_id": "HOT_POTATO_BOOK",
-            "avg_buy": 132615.6642857143,
-            "avg_sell": 38973.27415282392,
-            "curr_buy": 132615.6,
-            "curr_sell": 129613.6
+            "avg_buy": 132615.74516129034,
+            "avg_sell": 39808.887820934826,
+            "curr_buy": 132615.7,
+            "curr_sell": 129613.8
         },
         "HUGE_MUSHROOM_1": {
             "_id": "HUGE_MUSHROOM_1",
@@ -913,17 +913,17 @@
         },
         "ICE": {
             "_id": "ICE",
-            "avg_buy": 3.4708955774862793,
-            "avg_sell": 3.0,
+            "avg_buy": 3.4745381425160238,
+            "avg_sell": 2.9133978623215486,
             "curr_buy": 3.3,
             "curr_sell": 3.0
         },
         "INK_SACK": {
             "_id": "INK_SACK",
-            "avg_buy": 299.97060301507537,
-            "avg_sell": 284.7003884138263,
+            "avg_buy": 299.97590673575127,
+            "avg_sell": 284.7,
             "curr_buy": 299.8,
-            "curr_sell": 284.8
+            "curr_sell": 284.7
         },
         "INK_SACK:3": {
             "_id": "INK_SACK:3",
@@ -934,136 +934,136 @@
         },
         "INK_SACK:4": {
             "_id": "INK_SACK:4",
-            "avg_buy": 3.9997427820005202,
+            "avg_buy": 4.013736158052373,
             "avg_sell": 2.8,
-            "curr_buy": 3.8,
+            "curr_buy": 3.9,
             "curr_sell": 2.8
         },
         "IRON_INGOT": {
             "_id": "IRON_INGOT",
             "avg_buy": 7.3,
-            "avg_sell": 6.222939323785937,
+            "avg_sell": 6.2,
             "curr_buy": 7.3,
-            "curr_sell": 6.5
+            "curr_sell": 6.2
         },
         "LEATHER": {
             "_id": "LEATHER",
-            "avg_buy": 23.490112274742902,
+            "avg_buy": 23.400000000000002,
             "avg_sell": 19.1,
             "curr_buy": 23.4,
             "curr_sell": 19.1
         },
         "LOG": {
             "_id": "LOG",
-            "avg_buy": 7.067104188225041,
-            "avg_sell": 5.739874985257695,
+            "avg_buy": 7.0713971142145216,
+            "avg_sell": 5.633993055555555,
             "curr_buy": 7.0,
-            "curr_sell": 5.9
+            "curr_sell": 5.7
         },
         "LOG:1": {
             "_id": "LOG:1",
-            "avg_buy": 6.7,
-            "avg_sell": 5.0,
-            "curr_buy": 6.7,
+            "avg_buy": 6.699930709712189,
+            "avg_sell": 4.93269153158001,
+            "curr_buy": 6.6,
             "curr_sell": 5.0
         },
         "LOG:2": {
             "_id": "LOG:2",
-            "avg_buy": 6.0,
+            "avg_buy": 5.989107462201268,
             "avg_sell": 5.3,
-            "curr_buy": 6.0,
+            "curr_buy": 5.9,
             "curr_sell": 5.3
         },
         "LOG:3": {
             "_id": "LOG:3",
-            "avg_buy": 7.495557454079453,
+            "avg_buy": 7.199825917415222,
             "avg_sell": 6.0,
             "curr_buy": 7.2,
             "curr_sell": 6.0
         },
         "LOG_2": {
             "_id": "LOG_2",
-            "avg_buy": 4.899892349096501,
-            "avg_sell": 3.8063372156905833,
+            "avg_buy": 4.9,
+            "avg_sell": 3.802214000975078,
             "curr_buy": 4.9,
             "curr_sell": 3.9
         },
         "LOG_2:1": {
             "_id": "LOG_2:1",
             "avg_buy": 4.7,
-            "avg_sell": 3.229499384029566,
+            "avg_sell": 3.1263375371239186,
             "curr_buy": 4.7,
-            "curr_sell": 3.2
+            "curr_sell": 3.3
         },
         "MAGMA_CREAM": {
             "_id": "MAGMA_CREAM",
             "avg_buy": 9.570079226257846,
-            "avg_sell": 7.08701625213253,
+            "avg_sell": 7.023823494192312,
             "curr_buy": 9.2,
             "curr_sell": 7.1
         },
         "MELON": {
             "_id": "MELON",
-            "avg_buy": 5.099274129522513,
-            "avg_sell": 3.64816912388508,
+            "avg_buy": 5.1,
+            "avg_sell": 3.6422667561607063,
             "curr_buy": 5.1,
-            "curr_sell": 3.9
+            "curr_sell": 3.7
         },
         "MUTTON": {
             "_id": "MUTTON",
-            "avg_buy": 23.29539228708926,
+            "avg_buy": 23.29087022186297,
             "avg_sell": 18.4,
             "curr_buy": 23.1,
             "curr_sell": 18.4
         },
         "NETHERRACK": {
             "_id": "NETHERRACK",
-            "avg_buy": 1.2000000000000002,
+            "avg_buy": 1.1999999999999997,
             "avg_sell": 1.0,
             "curr_buy": 1.2,
             "curr_sell": 1.0
         },
         "NETHER_STALK": {
             "_id": "NETHER_STALK",
-            "avg_buy": 12.399464665837671,
+            "avg_buy": 12.4,
             "avg_sell": 10.1,
-            "curr_buy": 12.3,
+            "curr_buy": 12.4,
             "curr_sell": 10.1
         },
         "OBSIDIAN": {
             "_id": "OBSIDIAN",
-            "avg_buy": 29.951606512188818,
-            "avg_sell": 27.2,
-            "curr_buy": 28.9,
-            "curr_sell": 27.2
+            "avg_buy": 29.91414209576798,
+            "avg_sell": 27.3,
+            "curr_buy": 29.0,
+            "curr_sell": 27.3
         },
         "OLD_FRAGMENT": {
             "_id": "OLD_FRAGMENT",
-            "avg_buy": 3018.5,
-            "avg_sell": 2583.583469387755,
-            "curr_buy": 3018.5,
+            "avg_buy": 3018.492708333333,
+            "avg_sell": 2583.4880401392584,
+            "curr_buy": 3018.3,
             "curr_sell": 2611.0
         },
         "PACKED_ICE": {
             "_id": "PACKED_ICE",
-            "avg_buy": 33.10142164241512,
-            "avg_sell": 26.0,
-            "curr_buy": 28.3,
-            "curr_sell": 26.0
+            "avg_buy": 33.56412042796716,
+            "avg_sell": 26.147534921939197,
+            "curr_buy": 28.1,
+            "curr_sell": 26.2
         },
         "PORK": {
             "_id": "PORK",
-            "avg_buy": 17.751028458720764,
-            "avg_sell": 14.321113851808862,
-            "curr_buy": 17.4,
-            "curr_sell": 14.4
+            "avg_buy": 17.76254792944785,
+            "avg_sell": 14.599999999999998,
+            "curr_buy": 17.6,
+            "curr_sell": 14.6
         },
         "POTATO_ITEM": {
             "_id": "POTATO_ITEM",
-            "avg_buy": 6.978257546809323,
-            "avg_sell": 4.650512752811955,
-            "curr_buy": 6.9,
-            "curr_sell": 5.1
+            "avg_buy": 6.848192771084338,
+            "avg_sell": 4.646589913920157,
+            "curr_buy": 6.7,
+            "curr_sell": 5.0
         },
         "PRISMARINE_CRYSTALS": {
             "_id": "PRISMARINE_CRYSTALS",
@@ -1074,35 +1074,35 @@
         },
         "PRISMARINE_SHARD": {
             "_id": "PRISMARINE_SHARD",
-            "avg_buy": 5.399684391736803,
+            "avg_buy": 5.4,
             "avg_sell": 4.2,
-            "curr_buy": 5.3,
+            "curr_buy": 5.4,
             "curr_sell": 4.2
         },
         "PROTECTOR_FRAGMENT": {
             "_id": "PROTECTOR_FRAGMENT",
-            "avg_buy": 3098.143107221006,
-            "avg_sell": 2671.769486404834,
-            "curr_buy": 3096.8,
-            "curr_sell": 2693.5
+            "avg_buy": 3098.048057259714,
+            "avg_sell": 2671.3,
+            "curr_buy": 3096.7,
+            "curr_sell": 2671.3
         },
         "PUMPKIN": {
             "_id": "PUMPKIN",
-            "avg_buy": 4.4,
+            "avg_buy": 4.399800249687891,
             "avg_sell": 3.3,
-            "curr_buy": 4.4,
+            "curr_buy": 4.3,
             "curr_sell": 3.3
         },
         "PURPLE_CANDY": {
             "_id": "PURPLE_CANDY",
             "avg_buy": 9147.452847443536,
-            "avg_sell": 8774.719699727026,
+            "avg_sell": 8774.702094240838,
             "curr_buy": 9099.5,
             "curr_sell": 8800.5
         },
         "QUARTZ": {
             "_id": "QUARTZ",
-            "avg_buy": 22.76799036256495,
+            "avg_buy": 22.778838062539972,
             "avg_sell": 20.200000000000003,
             "curr_buy": 22.7,
             "curr_sell": 20.2
@@ -1110,15 +1110,15 @@
         "RABBIT": {
             "_id": "RABBIT",
             "avg_buy": 23.0,
-            "avg_sell": 15.1,
+            "avg_sell": 15.11708660103454,
             "curr_buy": 23.0,
-            "curr_sell": 15.1
+            "curr_sell": 15.2
         },
         "RABBIT_FOOT": {
             "_id": "RABBIT_FOOT",
-            "avg_buy": 25.334636199639206,
-            "avg_sell": 19.2,
-            "curr_buy": 25.3,
+            "avg_buy": 25.2,
+            "avg_sell": 19.10466436472172,
+            "curr_buy": 25.2,
             "curr_sell": 19.2
         },
         "RABBIT_HIDE": {
@@ -1130,98 +1130,98 @@
         },
         "RAW_BEEF": {
             "_id": "RAW_BEEF",
-            "avg_buy": 5.95013612738223,
-            "avg_sell": 3.7779598249354733,
-            "curr_buy": 5.0,
+            "avg_buy": 5.968954758190328,
+            "avg_sell": 4.0,
+            "curr_buy": 5.1,
             "curr_sell": 4.0
         },
         "RAW_CHICKEN": {
             "_id": "RAW_CHICKEN",
-            "avg_buy": 12.000237610319076,
-            "avg_sell": 8.115281478298238,
+            "avg_buy": 12.009058553386911,
+            "avg_sell": 8.195953187557745,
             "curr_buy": 11.4,
             "curr_sell": 8.4
         },
         "RAW_FISH": {
             "_id": "RAW_FISH",
-            "avg_buy": 30.489000976765787,
-            "avg_sell": 26.7,
-            "curr_buy": 30.4,
-            "curr_sell": 26.7
+            "avg_buy": 30.485846812559465,
+            "avg_sell": 26.8,
+            "curr_buy": 30.1,
+            "curr_sell": 26.8
         },
         "RAW_FISH:1": {
             "_id": "RAW_FISH:1",
             "avg_buy": 9.9,
-            "avg_sell": 7.9119235131551635,
-            "curr_buy": 9.9,
+            "avg_sell": 7.907081995149768,
+            "curr_buy": 9.8,
             "curr_sell": 8.1
         },
         "RAW_FISH:2": {
             "_id": "RAW_FISH:2",
-            "avg_buy": 20.790131242543037,
-            "avg_sell": 17.479470300453368,
+            "avg_buy": 20.790401574681113,
+            "avg_sell": 17.476742838751207,
             "curr_buy": 19.7,
             "curr_sell": 18.0
         },
         "RAW_FISH:3": {
             "_id": "RAW_FISH:3",
-            "avg_buy": 16.39987291035292,
+            "avg_buy": 16.4,
             "avg_sell": 13.3,
-            "curr_buy": 16.3,
+            "curr_buy": 16.4,
             "curr_sell": 13.3
         },
         "REDSTONE": {
             "_id": "REDSTONE",
-            "avg_buy": 3.1573700367369533,
-            "avg_sell": 2.4,
+            "avg_buy": 3.158823678027336,
+            "avg_sell": 2.5,
             "curr_buy": 2.8,
-            "curr_sell": 2.4
+            "curr_sell": 2.5
         },
         "RED_GIFT": {
             "_id": "RED_GIFT",
             "avg_buy": 44998.2,
-            "avg_sell": 39667.49359524596,
+            "avg_sell": 39660.53496688742,
             "curr_buy": 44998.2,
             "curr_sell": 42002.5
         },
         "RED_MUSHROOM": {
             "_id": "RED_MUSHROOM",
-            "avg_buy": 15.692730810045987,
+            "avg_buy": 15.699516994633274,
             "avg_sell": 10.6,
             "curr_buy": 15.1,
             "curr_sell": 10.6
         },
         "REVENANT_FLESH": {
             "_id": "REVENANT_FLESH",
-            "avg_buy": 11.490412583090526,
-            "avg_sell": 9.0,
-            "curr_buy": 11.4,
-            "curr_sell": 9.0
+            "avg_buy": 11.491719867702484,
+            "avg_sell": 9.1,
+            "curr_buy": 11.3,
+            "curr_sell": 9.1
         },
         "REVENANT_VISCERA": {
             "_id": "REVENANT_VISCERA",
-            "avg_buy": 42925.216860465116,
-            "avg_sell": 41500.804379562054,
-            "curr_buy": 42805.7,
-            "curr_sell": 41500.9
+            "avg_buy": 42908.72706766918,
+            "avg_sell": 41501.0,
+            "curr_buy": 42805.5,
+            "curr_sell": 41501.0
         },
         "ROTTEN_FLESH": {
             "_id": "ROTTEN_FLESH",
-            "avg_buy": 11.8,
-            "avg_sell": 10.1,
+            "avg_buy": 11.800000000000002,
+            "avg_sell": 10.2,
             "curr_buy": 11.8,
-            "curr_sell": 10.1
+            "curr_sell": 10.2
         },
         "SAND": {
             "_id": "SAND",
-            "avg_buy": 13.480485369020274,
-            "avg_sell": 11.0119310678048,
+            "avg_buy": 13.443927223458822,
+            "avg_sell": 11.0,
             "curr_buy": 12.3,
-            "curr_sell": 11.1
+            "curr_sell": 11.0
         },
         "SEEDS": {
             "_id": "SEEDS",
-            "avg_buy": 0.49418329637841835,
+            "avg_buy": 0.49725006359704915,
             "avg_sell": 0.3,
             "curr_buy": 0.4,
             "curr_sell": 0.3
@@ -1249,142 +1249,142 @@
         },
         "SPIDER_EYE": {
             "_id": "SPIDER_EYE",
-            "avg_buy": 13.3,
+            "avg_buy": 13.299973468936548,
             "avg_sell": 10.2,
             "curr_buy": 13.3,
             "curr_sell": 10.2
         },
         "SPONGE": {
             "_id": "SPONGE",
-            "avg_buy": 238.00277975766218,
-            "avg_sell": 221.7166651312759,
-            "curr_buy": 237.5,
+            "avg_buy": 238.03742163009403,
+            "avg_sell": 221.71569824332508,
+            "curr_buy": 237.9,
             "curr_sell": 221.8
         },
         "STOCK_OF_STONKS": {
             "_id": "STOCK_OF_STONKS",
             "avg_buy": 9060.984375,
-            "avg_sell": 8174.253879518073,
-            "curr_buy": 9004.8,
+            "avg_sell": 8174.253616200579,
+            "curr_buy": 9004.7,
             "curr_sell": 8174.8
         },
         "STRING": {
             "_id": "STRING",
-            "avg_buy": 6.947771943378685,
+            "avg_buy": 6.950302790583486,
             "avg_sell": 5.4,
-            "curr_buy": 6.8,
+            "curr_buy": 6.9,
             "curr_sell": 5.4
         },
         "STRONG_FRAGMENT": {
             "_id": "STRONG_FRAGMENT",
-            "avg_buy": 18497.23725490196,
-            "avg_sell": 17448.791777777777,
-            "curr_buy": 18497.0,
-            "curr_sell": 17532.4
+            "avg_buy": 18496.7,
+            "avg_sell": 17453.861795407098,
+            "curr_buy": 18496.6,
+            "curr_sell": 17532.5
         },
         "SUGAR_CANE": {
             "_id": "SUGAR_CANE",
-            "avg_buy": 13.028611266034579,
-            "avg_sell": 11.41110884658759,
+            "avg_buy": 13.2,
+            "avg_sell": 11.407984528832632,
             "curr_buy": 13.0,
             "curr_sell": 11.5
         },
         "SULPHUR": {
             "_id": "SULPHUR",
             "avg_buy": 14.53663773412517,
-            "avg_sell": 13.199999999999998,
+            "avg_sell": 13.2,
             "curr_buy": 13.5,
             "curr_sell": 13.2
         },
         "SUMMONING_EYE": {
             "_id": "SUMMONING_EYE",
-            "avg_buy": 570294.9771084337,
-            "avg_sell": 269249.97400765034,
-            "curr_buy": 569329.1,
-            "curr_sell": 562004.1
+            "avg_buy": 570714.5068322982,
+            "avg_sell": 269834.16712148715,
+            "curr_buy": 568595.8,
+            "curr_sell": 562004.7
         },
         "SUPERIOR_FRAGMENT": {
             "_id": "SUPERIOR_FRAGMENT",
-            "avg_buy": 267587.6703703704,
-            "avg_sell": 60248.39547270838,
-            "curr_buy": 267587.4,
-            "curr_sell": 262123.2
+            "avg_buy": 267587.75925925927,
+            "avg_sell": 59795.65255106126,
+            "curr_buy": 267587.5,
+            "curr_sell": 262122.9
         },
         "SUPER_COMPACTOR_3000": {
             "_id": "SUPER_COMPACTOR_3000",
             "avg_buy": 497728.3,
-            "avg_sell": 53743.78758209472,
+            "avg_sell": 53781.65108442064,
             "curr_buy": 497728.3,
-            "curr_sell": 491937.9
+            "curr_sell": 491938.1
         },
         "SUPER_EGG": {
             "_id": "SUPER_EGG",
-            "avg_buy": 309999.8823529412,
-            "avg_sell": 300000.65121951216,
-            "curr_buy": 309999.3,
+            "avg_buy": 309999.7576271186,
+            "avg_sell": 300000.25531914894,
+            "curr_buy": 309999.0,
             "curr_sell": 300000.7
         },
         "TARANTULA_SILK": {
             "_id": "TARANTULA_SILK",
-            "avg_buy": 119322.11612903226,
-            "avg_sell": 115001.7308411215,
-            "curr_buy": 119322.1,
-            "curr_sell": 115001.7
+            "avg_buy": 119321.96976744187,
+            "avg_sell": 115001.7154340836,
+            "curr_buy": 119321.9,
+            "curr_sell": 115001.8
         },
         "TARANTULA_WEB": {
             "_id": "TARANTULA_WEB",
-            "avg_buy": 123.81698982813992,
-            "avg_sell": 107.85367000000001,
-            "curr_buy": 122.0,
-            "curr_sell": 110.9
+            "avg_buy": 123.82196261682243,
+            "avg_sell": 111.0,
+            "curr_buy": 121.8,
+            "curr_sell": 111.0
         },
         "UNSTABLE_FRAGMENT": {
             "_id": "UNSTABLE_FRAGMENT",
-            "avg_buy": 7516.929508196721,
-            "avg_sell": 7235.71756440281,
-            "curr_buy": 7516.9,
+            "avg_buy": 7549.1646226415105,
+            "avg_sell": 7235.648456375839,
+            "curr_buy": 7548.4,
             "curr_sell": 7236.2
         },
         "WATER_LILY": {
             "_id": "WATER_LILY",
-            "avg_buy": 305.58895142180097,
+            "avg_buy": 306.0589303733602,
             "avg_sell": 285.6,
-            "curr_buy": 301.9,
+            "curr_buy": 302.4,
             "curr_sell": 285.6
         },
         "WHEAT": {
             "_id": "WHEAT",
-            "avg_buy": 4.185945770206126,
-            "avg_sell": 3.528255393418141,
+            "avg_buy": 4.1802458953992945,
+            "avg_sell": 3.5175313744926777,
             "curr_buy": 3.9,
             "curr_sell": 3.8
         },
         "WHITE_GIFT": {
             "_id": "WHITE_GIFT",
-            "avg_buy": 3119.7370116794204,
-            "avg_sell": 3016.5,
-            "curr_buy": 3094.1,
+            "avg_buy": 3118.6407577268196,
+            "avg_sell": 3016.5031002549995,
+            "curr_buy": 3085.7,
             "curr_sell": 3016.6
         },
         "WISE_FRAGMENT": {
             "_id": "WISE_FRAGMENT",
-            "avg_buy": 6006.179432624113,
-            "avg_sell": 5715.472855133615,
-            "curr_buy": 6005.9,
+            "avg_buy": 6006.082142857143,
+            "avg_sell": 5715.359442724459,
+            "curr_buy": 6005.6,
             "curr_sell": 5716.6
         },
         "WOLF_TOOTH": {
             "_id": "WOLF_TOOTH",
-            "avg_buy": 225.17791151594014,
-            "avg_sell": 210.91212185095395,
+            "avg_buy": 225.16875590551183,
+            "avg_sell": 210.9037289408735,
             "curr_buy": 224.9,
             "curr_sell": 211.4
         },
         "YOUNG_FRAGMENT": {
             "_id": "YOUNG_FRAGMENT",
-            "avg_buy": 16399.77570093458,
-            "avg_sell": 15103.136320380649,
-            "curr_buy": 16399.4,
+            "avg_buy": 16399.110588235293,
+            "avg_sell": 15086.078416013926,
+            "curr_buy": 16398.8,
             "curr_sell": 15364.9
         }
     },
@@ -1426,7 +1426,7 @@
         },
         "AIMING": {
             "count": 1.0,
-            "price": 15213.679860175202,
+            "price": 15281.642360175203,
             "sales": 112.25
         },
         "ANGLER": {
@@ -1510,9 +1510,9 @@
             "sales": 21.0
         },
         "ARROW": {
-            "count": 6.103296441043582,
-            "price": 424151.4223673014,
-            "sales": 234.5
+            "count": 6.0963044893333205,
+            "price": 422833.41733712034,
+            "sales": 234.75
         },
         "ARTIFACT_POTION_AFFINITY": {
             "count": 1.0,
@@ -1521,13 +1521,13 @@
         },
         "ASPECT_OF_THE_DRAGON": {
             "count": 1.0,
-            "price": 3297244.8335495414,
-            "sales": 1319.0
+            "price": 3297893.622476877,
+            "sales": 1319.5
         },
         "ASPECT_OF_THE_END": {
             "count": 1.0,
-            "price": 205140.07834415202,
-            "sales": 1156.75
+            "price": 205097.42682055486,
+            "sales": 1157.25
         },
         "AUGER_ROD": {
             "count": 1.0,
@@ -1556,8 +1556,8 @@
         },
         "BANE_OF_ARTHROPODS": {
             "count": 1.0,
-            "price": 2288.4997434297206,
-            "sales": 170.25
+            "price": 2249.9766794566567,
+            "sales": 170.5
         },
         "BARRIER": {
             "count": 1.2454545454545454,
@@ -1631,8 +1631,8 @@
         },
         "BAT_TALISMAN": {
             "count": 1.0,
-            "price": 138238.56326474773,
-            "sales": 518.75
+            "price": 138450.31010621536,
+            "sales": 519.5
         },
         "BAT_THE_FISH": {
             "count": 1.0,
@@ -1896,8 +1896,8 @@
         },
         "BROKEN_PIGGY_BANK": {
             "count": 1.0,
-            "price": 89770.35229470601,
-            "sales": 100.75
+            "price": 89800.60083036969,
+            "sales": 101.0
         },
         "BROWN_MUSHROOM": {
             "count": 19.75,
@@ -1976,13 +1976,13 @@
         },
         "CANDY_RING": {
             "count": 1.0,
-            "price": 117302.98225623585,
-            "sales": 74.0
+            "price": 117938.49297052156,
+            "sales": 74.25
         },
         "CANDY_TALISMAN": {
             "count": 1.0,
-            "price": 21814.276077494695,
-            "sales": 151.5
+            "price": 21646.50191082803,
+            "sales": 151.75
         },
         "CARPENTRY_BENCH": {
             "count": 13.333333333333334,
@@ -2241,8 +2241,8 @@
         },
         "CRACKED_PIGGY_BANK": {
             "count": 1.0,
-            "price": 95351.36167398229,
-            "sales": 108.5
+            "price": 95374.22049394745,
+            "sales": 108.75
         },
         "CRAFTING_PLUS": {
             "count": 1.0,
@@ -2280,14 +2280,14 @@
             "sales": 122.5
         },
         "CRYSTAL_FRAGMENT": {
-            "count": 1.6978813567568465,
-            "price": 41124.77568054931,
-            "sales": 4157.25
+            "count": 1.698047050901477,
+            "price": 41129.04034637837,
+            "sales": 4158.25
         },
         "CRYSTAL_HELMET": {
             "count": 1.0,
-            "price": 87142.04224806202,
-            "sales": 135.25
+            "price": 87100.02258342787,
+            "sales": 135.5
         },
         "CRYSTAL_LEGGINGS": {
             "count": 1.0,
@@ -2340,9 +2340,9 @@
             "sales": 1.0
         },
         "DAY_SAVER": {
-            "count": 1.271056828658657,
-            "price": 2147.1278365125245,
-            "sales": 365.0
+            "count": 1.2712938703779997,
+            "price": 2128.5815146098694,
+            "sales": 365.25
         },
         "DEAD_BUSH": {
             "count": 1.0,
@@ -2540,9 +2540,9 @@
             "sales": 1.0
         },
         "DOUBLE_PLANT": {
-            "count": 49.91605373072617,
-            "price": 512.6571671758713,
-            "sales": 361.0
+            "count": 49.949938061485504,
+            "price": 512.5657900844943,
+            "sales": 361.25
         },
         "DOUBLE_PLANT-1": {
             "count": 64.0,
@@ -2566,8 +2566,8 @@
         },
         "DRAGON_NEST_TRAVEL_SCROLL": {
             "count": 1.0,
-            "price": 1489526.468636484,
-            "sales": 161.75
+            "price": 1489006.9352280754,
+            "sales": 162.0
         },
         "DR_PAPER": {
             "count": 1.0,
@@ -3261,8 +3261,8 @@
         },
         "ENDERMAN;3": {
             "count": 1.0,
-            "price": 124892.0104093672,
-            "sales": 266.0
+            "price": 124762.4091441465,
+            "sales": 266.25
         },
         "ENDERMAN;4": {
             "count": 1.0,
@@ -3271,8 +3271,8 @@
         },
         "ENDERMAN_MASK": {
             "count": 1.0,
-            "price": 160.70607843137253,
-            "sales": 29.0
+            "price": 160.84496732026142,
+            "sales": 29.25
         },
         "ENDERMITE;0": {
             "count": 1.0,
@@ -3366,8 +3366,8 @@
         },
         "END_BOOTS": {
             "count": 1.0,
-            "price": 19919.836616852346,
-            "sales": 955.5
+            "price": 19922.692677458406,
+            "sales": 955.75
         },
         "END_CHESTPLATE": {
             "count": 1.0,
@@ -3376,17 +3376,17 @@
         },
         "END_HELMET": {
             "count": 1.0,
-            "price": 20738.937324602477,
-            "sales": 1014.25
+            "price": 20745.666573043563,
+            "sales": 1014.75
         },
         "END_LEGGINGS": {
             "count": 1.0,
-            "price": 22112.5321134061,
-            "sales": 971.25
+            "price": 22122.97783093025,
+            "sales": 971.5
         },
         "END_STONE_BOW": {
             "count": 1.0,
-            "price": 3955.0760198156286,
+            "price": 3956.9711811059515,
             "sales": 682.75
         },
         "END_STONE_SWORD": {
@@ -3416,13 +3416,13 @@
         },
         "EXPLOSIVE_BOW": {
             "count": 1.0,
-            "price": 727745.3250825799,
+            "price": 728382.7625825799,
             "sales": 197.75
         },
         "EXP_BOTTLE": {
-            "count": 60.26238479262673,
-            "price": 1328.9871991807477,
-            "sales": 49.5
+            "count": 60.30675708699903,
+            "price": 1333.7220476655962,
+            "sales": 49.75
         },
         "EYE_OF_ENDER": {
             "count": 28.666666666666668,
@@ -3476,8 +3476,8 @@
         },
         "FARMER_BOOTS": {
             "count": 1.0,
-            "price": 173861.8839207688,
-            "sales": 456.75
+            "price": 173899.77313734475,
+            "sales": 457.25
         },
         "FARMER_ORB": {
             "count": 1.0,
@@ -3566,8 +3566,8 @@
         },
         "FEATHER_ARTIFACT": {
             "count": 1.0,
-            "price": 57876.016780276965,
-            "sales": 353.25
+            "price": 57873.76614541998,
+            "sales": 353.5
         },
         "FEATHER_FALLING": {
             "count": 1.0,
@@ -3676,8 +3676,8 @@
         },
         "FLAMING_SWORD": {
             "count": 1.0,
-            "price": 306.80461222178087,
-            "sales": 147.25
+            "price": 305.49675965767835,
+            "sales": 147.5
         },
         "FLINT": {
             "count": 64.0,
@@ -3711,8 +3711,8 @@
         },
         "FLYING_FISH;2": {
             "count": 1.0,
-            "price": 461071.4892857142,
-            "sales": 20.5
+            "price": 445246.8821428572,
+            "sales": 20.75
         },
         "FLYING_FISH;3": {
             "count": 1.0,
@@ -4051,13 +4051,13 @@
         },
         "GOLEM_ARMOR_BOOTS": {
             "count": 1.0,
-            "price": 11432.827542940313,
-            "sales": 66.5
+            "price": 11431.118056774305,
+            "sales": 66.75
         },
         "GOLEM_ARMOR_CHESTPLATE": {
             "count": 1.0,
-            "price": 23676.432205149504,
-            "sales": 55.5
+            "price": 23652.268602208325,
+            "sales": 55.75
         },
         "GOLEM_ARMOR_HELMET": {
             "count": 1.0,
@@ -4066,8 +4066,8 @@
         },
         "GOLEM_ARMOR_LEGGINGS": {
             "count": 1.0,
-            "price": 22668.495050904978,
-            "sales": 47.5
+            "price": 22481.730345022625,
+            "sales": 48.0
         },
         "GOLEM_SWORD": {
             "count": 1.0,
@@ -4075,14 +4075,14 @@
             "sales": 91.75
         },
         "GRAND_EXP_BOTTLE": {
-            "count": 21.11742095232734,
-            "price": 80150.03300003376,
-            "sales": 736.25
+            "count": 21.27855426029284,
+            "price": 80207.49968889727,
+            "sales": 737.0
         },
         "GRAPPLING_HOOK": {
             "count": 1.0,
-            "price": 10481.68045327122,
-            "sales": 1438.25
+            "price": 10492.27587025764,
+            "sales": 1438.75
         },
         "GRASS": {
             "count": 49.83333333333333,
@@ -4141,7 +4141,7 @@
         },
         "GROWTH": {
             "count": 1.0,
-            "price": 21294.732710478762,
+            "price": 21312.5509975158,
             "sales": 701.75
         },
         "GROWTH_BOOTS": {
@@ -4221,8 +4221,8 @@
         },
         "HARDENED_DIAMOND_LEGGINGS": {
             "count": 1.0,
-            "price": 5994.594153142542,
-            "sales": 131.5
+            "price": 5965.710311679128,
+            "sales": 131.75
         },
         "HARD_CLAY": {
             "count": 1.0,
@@ -4411,7 +4411,7 @@
         },
         "ICE_HUNK": {
             "count": 45.278810222592604,
-            "price": 30060.16328892754,
+            "price": 30110.644058158305,
             "sales": 156.0
         },
         "ICE_LOLLY_PERSONALITY": {
@@ -4656,7 +4656,7 @@
         },
         "JUNGLE_AXE": {
             "count": 1.0,
-            "price": 2409.584308025687,
+            "price": 2410.3991228405016,
             "sales": 1199.75
         },
         "JUNGLE_BIOME_STICK": {
@@ -4946,8 +4946,8 @@
         },
         "LUCK": {
             "count": 1.0,
-            "price": 254256.94551961764,
-            "sales": 786.0
+            "price": 253961.6953298403,
+            "sales": 786.25
         },
         "LUCK_OF_THE_SEA": {
             "count": 1.0,
@@ -5011,8 +5011,8 @@
         },
         "MAGNETIC_TALISMAN": {
             "count": 1.0,
-            "price": 5901.53278644169,
-            "sales": 118.0
+            "price": 5944.549482144362,
+            "sales": 118.25
         },
         "MANA_FLUX_POWER_ORB": {
             "count": 1.0,
@@ -5441,13 +5441,13 @@
         },
         "OLD_DRAGON_CHESTPLATE": {
             "count": 1.0,
-            "price": 113136.3293806562,
-            "sales": 260.0
+            "price": 113102.00406534088,
+            "sales": 260.25
         },
         "OLD_DRAGON_HELMET": {
             "count": 1.0,
-            "price": 124797.72599174801,
-            "sales": 207.75
+            "price": 124666.74778661982,
+            "sales": 208.5
         },
         "OLD_DRAGON_LEGGINGS": {
             "count": 1.0,
@@ -5496,8 +5496,8 @@
         },
         "PARROT;3": {
             "count": 1.0,
-            "price": 32113560.599621214,
-            "sales": 23.25
+            "price": 31779675.137121215,
+            "sales": 23.5
         },
         "PARROT;4": {
             "count": 1.0,
@@ -5881,8 +5881,8 @@
         },
         "PIGGY_BANK": {
             "count": 1.0,
-            "price": 86573.90587346724,
-            "sales": 367.0
+            "price": 86517.40869832599,
+            "sales": 367.5
         },
         "PIGMAN;3": {
             "count": 1.0,
@@ -5891,8 +5891,8 @@
         },
         "PIGMAN;4": {
             "count": 1.0,
-            "price": 5731938.69659091,
-            "sales": 22.5
+            "price": 5663151.4625,
+            "sales": 22.75
         },
         "PIGMAN_SWORD": {
             "count": 1.0,
@@ -5951,8 +5951,8 @@
         },
         "POTION": {
             "count": 1.0,
-            "price": 14606.91059043422,
-            "sales": 3011.5
+            "price": 14586.553877471257,
+            "sales": 3013.0
         },
         "POTION_AFFINITY_TALISMAN": {
             "count": 1.0,
@@ -6416,8 +6416,8 @@
         },
         "REPELLING_CANDLE": {
             "count": 1.0,
-            "price": 13707.866751431331,
-            "sales": 352.75
+            "price": 13868.690993855573,
+            "sales": 353.0
         },
         "RESPIRATION": {
             "count": 1.0,
@@ -6466,8 +6466,8 @@
         },
         "RING_POTION_AFFINITY": {
             "count": 1.0,
-            "price": 28111.157771809387,
-            "sales": 142.0
+            "price": 28034.46089020262,
+            "sales": 142.25
         },
         "ROCK;0": {
             "count": 1.0,
@@ -6476,8 +6476,8 @@
         },
         "ROCK;1": {
             "count": 1.0,
-            "price": 162769.48317099566,
-            "sales": 35.5
+            "price": 162391.81490176488,
+            "sales": 35.75
         },
         "ROCK;2": {
             "count": 1.0,
@@ -6531,12 +6531,12 @@
         },
         "RUNAANS_BOW": {
             "count": 1.0,
-            "price": 1028724.2787536394,
-            "sales": 716.25
+            "price": 1028653.4666066167,
+            "sales": 716.5
         },
         "RUNE": {
             "count": 2.387989167038863,
-            "price": 1684.5474130074485,
+            "price": 1685.6248060828052,
             "sales": 1881.5
         },
         "SADDLE": {
@@ -6621,8 +6621,8 @@
         },
         "SCAVENGER": {
             "count": 1.0,
-            "price": 28334.720134636118,
-            "sales": 157.5
+            "price": 28157.278636319614,
+            "sales": 157.75
         },
         "SCAVENGER_TALISMAN": {
             "count": 1.0,
@@ -6691,8 +6691,8 @@
         },
         "SHARPNESS": {
             "count": 1.0,
-            "price": 2499.201466336549,
-            "sales": 307.0
+            "price": 2489.7163540838856,
+            "sales": 307.25
         },
         "SHEARS": {
             "count": 1.0,
@@ -6780,9 +6780,9 @@
             "sales": 34.25
         },
         "SILVER_FANG": {
-            "count": 1.6095358593723728,
-            "price": 7205.108057426145,
-            "sales": 620.75
+            "count": 1.608319893207953,
+            "price": 7215.013416929185,
+            "sales": 621.0
         },
         "SIMPLE_CARROT_CANDY": {
             "count": 2.2389405095839177,
@@ -6811,8 +6811,8 @@
         },
         "SKELETON;4": {
             "count": 1.0,
-            "price": 1532628.5982328483,
-            "sales": 122.5
+            "price": 1533024.895584082,
+            "sales": 122.75
         },
         "SKELETON_HAT": {
             "count": 1.0,
@@ -6956,7 +6956,7 @@
         },
         "SNIPE": {
             "count": 1.0,
-            "price": 15522.89573732719,
+            "price": 15756.592165898617,
             "sales": 118.0
         },
         "SNOW": {
@@ -6996,23 +6996,23 @@
         },
         "SNOW_SUIT_BOOTS": {
             "count": 1.0,
-            "price": 65118.90398628266,
-            "sales": 80.0
+            "price": 65786.70419636669,
+            "sales": 80.25
         },
         "SNOW_SUIT_CHESTPLATE": {
             "count": 1.0,
-            "price": 17002.23015302384,
-            "sales": 95.25
+            "price": 16847.91085030275,
+            "sales": 95.5
         },
         "SNOW_SUIT_HELMET": {
             "count": 1.0,
-            "price": 95364.88104967949,
-            "sales": 67.0
+            "price": 96178.33078086228,
+            "sales": 67.25
         },
         "SNOW_SUIT_LEGGINGS": {
             "count": 1.0,
-            "price": 27601.685654761906,
-            "sales": 100.0
+            "price": 27804.84276993356,
+            "sales": 100.25
         },
         "SOLAR_PANEL": {
             "count": 1.3214285714285714,
@@ -7256,8 +7256,8 @@
         },
         "SQUID_BOOTS": {
             "count": 1.0,
-            "price": 44.80211180124224,
-            "sales": 84.0
+            "price": 45.3766191904048,
+            "sales": 84.25
         },
         "SQUID_HAT": {
             "count": 1.0,
@@ -7451,18 +7451,18 @@
         },
         "STRONG_DRAGON_CHESTPLATE": {
             "count": 1.0,
-            "price": 851186.1500228147,
-            "sales": 679.75
+            "price": 851127.5252814991,
+            "sales": 680.0
         },
         "STRONG_DRAGON_HELMET": {
             "count": 1.0,
-            "price": 732073.4607793044,
-            "sales": 461.25
+            "price": 732028.9566470729,
+            "sales": 461.75
         },
         "STRONG_DRAGON_LEGGINGS": {
             "count": 1.0,
-            "price": 1037954.4305967927,
-            "sales": 478.0
+            "price": 1037963.788930126,
+            "sales": 478.5
         },
         "STRONG_FRAGMENT": {
             "count": 2.9964310082401724,
@@ -7631,12 +7631,12 @@
         },
         "TELEKINESIS": {
             "count": 1.0,
-            "price": 387.7416666666667,
-            "sales": 69.0
+            "price": 408.83035714285717,
+            "sales": 69.25
         },
         "TELEPORT_PAD": {
             "count": 2.8019472232846256,
-            "price": 13859.94557167382,
+            "price": 13867.221571673817,
             "sales": 520.25
         },
         "THE_SHREDDER": {
@@ -7691,8 +7691,8 @@
         },
         "TITANIC_EXP_BOTTLE": {
             "count": 1.0070634943324244,
-            "price": 343326.9545486086,
-            "sales": 488.0
+            "price": 343290.64567764086,
+            "sales": 488.25
         },
         "TNT": {
             "count": 53.5,
@@ -7756,7 +7756,7 @@
         },
         "TURTLE;4": {
             "count": 1.0,
-            "price": 20724319.424999997,
+            "price": 21068813.299999997,
             "sales": 11.5
         },
         "TUTTI_FRUTTI_POISON": {
@@ -7776,13 +7776,13 @@
         },
         "UNDEAD_SWORD": {
             "count": 1.0,
-            "price": 2276.9303515168444,
-            "sales": 151.75
+            "price": 2261.5145686885617,
+            "sales": 152.0
         },
         "UNSTABLE_DRAGON_BOOTS": {
             "count": 1.0,
-            "price": 219055.3316238829,
-            "sales": 460.0
+            "price": 218957.673831107,
+            "sales": 460.25
         },
         "UNSTABLE_DRAGON_CHESTPLATE": {
             "count": 1.0,
@@ -7836,7 +7836,7 @@
         },
         "VINE": {
             "count": 62.270629370629365,
-            "price": 4113.649004212162,
+            "price": 4168.508095121253,
             "sales": 150.0
         },
         "VOODOO_DOLL": {
@@ -7926,8 +7926,8 @@
         },
         "WINTER_ROD": {
             "count": 1.0,
-            "price": 169684.78507818162,
-            "sales": 51.25
+            "price": 168399.4195811056,
+            "sales": 51.5
         },
         "WISE_DRAGON_BOOTS": {
             "count": 1.0,
@@ -7941,8 +7941,8 @@
         },
         "WISE_DRAGON_HELMET": {
             "count": 1.0,
-            "price": 195622.46397100965,
-            "sales": 288.75
+            "price": 195780.8866950993,
+            "sales": 289.0
         },
         "WISE_DRAGON_LEGGINGS": {
             "count": 1.0,
