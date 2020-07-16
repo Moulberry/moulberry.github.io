@@ -389,7 +389,7 @@
         "ENCHANTED_GLOWSTONE": {
             "_id": "ENCHANTED_GLOWSTONE",
             "avg_buy": 75663.4,
-            "avg_sell": 5862.4225171400585,
+            "avg_sell": 5850.556967926201,
             "curr_buy": 75663.4,
             "curr_sell": 73206.7
         },
@@ -1464,35 +1464,35 @@
         "AATROX_BATPHONE": {
             "_id": "AATROX_BATPHONE",
             "count": 1.0,
-            "price": 366763.5,
-            "sales": 29.5
+            "price": 395957.5416666666,
+            "sales": 30.0
         },
         "ADAPTIVE_BOOTS": {
             "_id": "ADAPTIVE_BOOTS",
             "clean_price": 1299864.8260869565,
             "count": 1.0,
-            "price": 1412946.6182170543,
-            "sales": 95.5
+            "price": 1451186.6063122924,
+            "sales": 97.0
         },
         "ADAPTIVE_CHESTPLATE": {
             "_id": "ADAPTIVE_CHESTPLATE",
             "count": 1.0,
-            "price": 10039076.35775862,
-            "sales": 62.5
+            "price": 10285357.98275862,
+            "sales": 64.0
         },
         "ADAPTIVE_HELMET": {
             "_id": "ADAPTIVE_HELMET",
             "clean_price": 2142910.777777778,
             "count": 1.0,
-            "price": 2325015.0074074073,
-            "sales": 59.0
+            "price": 2235779.193121693,
+            "sales": 61.0
         },
         "ADAPTIVE_LEGGINGS": {
             "_id": "ADAPTIVE_LEGGINGS",
             "clean_price": 2134186.206896552,
             "count": 1.0,
-            "price": 2991927.736111111,
-            "sales": 77.5
+            "price": 3170373.486111111,
+            "sales": 79.0
         },
         "AIMING": {
             "count": 1.0,
@@ -1507,26 +1507,26 @@
         "ANGLER_BOOTS": {
             "_id": "ANGLER_BOOTS",
             "count": 1.0,
-            "price": 18154.25,
-            "sales": 25.5
+            "price": 18153.916666666664,
+            "sales": 26.5
         },
         "ANGLER_CHESTPLATE": {
             "_id": "ANGLER_CHESTPLATE",
             "count": 1.0,
-            "price": 7933.766666666667,
-            "sales": 31.0
+            "price": 7933.1,
+            "sales": 32.0
         },
         "ANGLER_HELMET": {
             "_id": "ANGLER_HELMET",
             "count": 1.0,
-            "price": 9993.141025641025,
-            "sales": 30.0
+            "price": 6601.682692307692,
+            "sales": 31.5
         },
         "ANGLER_LEGGINGS": {
             "_id": "ANGLER_LEGGINGS",
             "count": 1.0,
-            "price": 8508.916666666666,
-            "sales": 26.0
+            "price": 8377.666666666666,
+            "sales": 27.0
         },
         "ANVIL": {
             "_id": "ANVIL",
@@ -1547,9 +1547,9 @@
         },
         "APPLE": {
             "_id": "APPLE",
-            "count": 49.8,
-            "price": 1123.635,
-            "sales": 55.5
+            "count": 47.400000000000006,
+            "price": 1122.06,
+            "sales": 57.0
         },
         "AQUA_AFFINITY": {
             "count": 1.0,
@@ -1591,14 +1591,14 @@
         "ARMOR_STAND": {
             "_id": "ARMOR_STAND",
             "count": 1.0,
-            "price": 2.8125,
-            "sales": 14.5
+            "price": 4.0625,
+            "sales": 15.0
         },
         "ARROW": {
             "_id": "ARROW",
             "count": 1.0,
-            "price": 986448.2147435897,
-            "sales": 122.0
+            "price": 994251.4685314685,
+            "sales": 122.5
         },
         "ARTIFACT_POTION_AFFINITY": {
             "_id": "ARTIFACT_POTION_AFFINITY",
@@ -1610,15 +1610,15 @@
             "_id": "ASPECT_OF_THE_DRAGON",
             "clean_price": 3051648.5,
             "count": 1.0,
-            "price": 4135294.313290209,
-            "sales": 391.0
+            "price": 4159813.025012697,
+            "sales": 398.5
         },
         "ASPECT_OF_THE_END": {
             "_id": "ASPECT_OF_THE_END",
             "clean_price": 146979.41346153847,
             "count": 1.0,
-            "price": 331865.66852244607,
-            "sales": 629.5
+            "price": 302233.213151403,
+            "sales": 641.5
         },
         "AUTO_SMELTER": {
             "_id": "AUTO_SMELTER",
@@ -1670,8 +1670,8 @@
         "BAT;3": {
             "_id": "BAT;3",
             "count": 1.0,
-            "price": 207635.6666666667,
-            "sales": 27.0
+            "price": 238710.6666666667,
+            "sales": 27.5
         },
         "BAT;4": {
             "_id": "BAT;4",
@@ -1682,8 +1682,8 @@
         "BATTLE_DISC": {
             "_id": "BATTLE_DISC",
             "count": 1.0,
-            "price": 9.785714285714286,
-            "sales": 13.0
+            "price": 11.785714285714286,
+            "sales": 14.0
         },
         "BAT_ARTIFACT": {
             "_id": "BAT_ARTIFACT",
@@ -1701,41 +1701,41 @@
             "_id": "BAT_PERSON_BOOTS",
             "clean_price": 726982.375,
             "count": 1.0,
-            "price": 707815.1666666666,
-            "sales": 12.0
+            "price": 704642.6666666666,
+            "sales": 12.5
         },
         "BAT_PERSON_CHESTPLATE": {
             "_id": "BAT_PERSON_CHESTPLATE",
             "clean_price": 770082.875,
             "count": 1.0,
-            "price": 686690.8333333333,
-            "sales": 13.0
+            "price": 532248.3333333334,
+            "sales": 14.0
         },
         "BAT_PERSON_HELMET": {
             "_id": "BAT_PERSON_HELMET",
             "clean_price": 608740.1111111111,
             "count": 1.0,
-            "price": 541280.25,
-            "sales": 14.5
+            "price": 490544.375,
+            "sales": 16.0
         },
         "BAT_PERSON_LEGGINGS": {
             "_id": "BAT_PERSON_LEGGINGS",
             "clean_price": 775214.3125,
             "count": 1.0,
-            "price": 631962.9,
-            "sales": 11.0
+            "price": 630766.2333333334,
+            "sales": 12.0
         },
         "BAT_RING": {
             "_id": "BAT_RING",
             "count": 1.0,
-            "price": 389229.63636363635,
-            "sales": 51.5
+            "price": 414837.01136363635,
+            "sales": 52.0
         },
         "BAT_TALISMAN": {
             "_id": "BAT_TALISMAN",
             "count": 1.0,
-            "price": 123135.75,
-            "sales": 189.0
+            "price": 123922.32730263157,
+            "sales": 193.5
         },
         "BAT_THE_FISH": {
             "_id": "BAT_THE_FISH",
@@ -1750,9 +1750,9 @@
         },
         "BEACH_BALL": {
             "_id": "BEACH_BALL",
-            "count": 1.4545454545454546,
-            "price": 656.7272727272727,
-            "sales": 21.0
+            "count": 2.2045454545454546,
+            "price": 494.47727272727275,
+            "sales": 21.5
         },
         "BEACH_BALL_PERSONALITY": {
             "_id": "BEACH_BALL_PERSONALITY",
@@ -1791,8 +1791,8 @@
         "BEE;0": {
             "_id": "BEE;0",
             "count": 1.0,
-            "price": 4312.5,
-            "sales": 22.0
+            "price": 7455.333333333333,
+            "sales": 23.5
         },
         "BEE;1": {
             "_id": "BEE;1",
@@ -1807,9 +1807,10 @@
             "sales": 4.5
         },
         "BEE;3": {
+            "_id": "BEE;3",
             "count": 1.0,
-            "price": 44212.0,
-            "sales": 7.0
+            "price": 72106.0,
+            "sales": 4.0
         },
         "BEE;4": {
             "_id": "BEE;4",
@@ -1826,8 +1827,8 @@
         "BEHEADED_HORROR": {
             "_id": "BEHEADED_HORROR",
             "count": 1.0,
-            "price": 67553.6875,
-            "sales": 14.0
+            "price": 80681.9375,
+            "sales": 16.0
         },
         "BIG_XTREE": {
             "count": 1.0,
@@ -1837,8 +1838,8 @@
         "BLACK_CAT;4": {
             "_id": "BLACK_CAT;4",
             "count": 1.0,
-            "price": 16531227.833333332,
-            "sales": 3.0
+            "price": 19885282.583333332,
+            "sales": 3.5
         },
         "BLAZE;3": {
             "_id": "BLAZE;3",
@@ -1931,21 +1932,21 @@
         "BOAT": {
             "_id": "BOAT",
             "count": 1.0,
-            "price": 189457.75892857142,
-            "sales": 41.0
+            "price": 131296.50892857142,
+            "sales": 42.0
         },
         "BONZO_MASK": {
             "_id": "BONZO_MASK",
             "clean_price": 227277.93714285715,
             "count": 1.0,
-            "price": 635033.703125,
-            "sales": 236.0
+            "price": 652563.1614583333,
+            "sales": 246.0
         },
         "BONZO_STAFF": {
             "_id": "BONZO_STAFF",
             "count": 1.0,
-            "price": 6438853.29228122,
-            "sales": 257.5
+            "price": 6299256.668543845,
+            "sales": 264.5
         },
         "BOOK": {
             "_id": "BOOK",
@@ -1973,8 +1974,8 @@
         "BOTTLE_OF_JYRRE": {
             "_id": "BOTTLE_OF_JYRRE",
             "count": 1.0,
-            "price": 2925.95,
-            "sales": 18.5
+            "price": 1725.95,
+            "sales": 19.0
         },
         "BOW": {
             "_id": "BOW",
@@ -2011,15 +2012,15 @@
         },
         "BRIDGE_EGG": {
             "_id": "BRIDGE_EGG",
-            "count": 12.0,
-            "price": 57102.5,
-            "sales": 1.5
+            "count": 12.5,
+            "price": 55118.75,
+            "sales": 2.0
         },
         "BROKEN_PIGGY_BANK": {
             "_id": "BROKEN_PIGGY_BANK",
             "count": 1.0,
-            "price": 65705.35,
-            "sales": 20.0
+            "price": 64174.1,
+            "sales": 20.5
         },
         "BUCKET": {
             "_id": "BUCKET",
@@ -2030,8 +2031,8 @@
         "BUDGET_HOPPER": {
             "_id": "BUDGET_HOPPER",
             "count": 1.0,
-            "price": 17759.36401098901,
-            "sales": 210.5
+            "price": 16356.814010989012,
+            "sales": 215.5
         },
         "BUNNY_PERSONALITY": {
             "_id": "BUNNY_PERSONALITY",
@@ -2073,20 +2074,20 @@
         "CANDY_ARTIFACT": {
             "_id": "CANDY_ARTIFACT",
             "count": 1.0,
-            "price": 387217.5595238095,
-            "sales": 28.5
+            "price": 342414.76785714284,
+            "sales": 30.0
         },
         "CANDY_RING": {
             "_id": "CANDY_RING",
             "count": 1.0,
             "price": 73928.9,
-            "sales": 22.0
+            "sales": 23.0
         },
         "CANDY_TALISMAN": {
             "_id": "CANDY_TALISMAN",
             "count": 1.0,
-            "price": 37423.392857142855,
-            "sales": 30.0
+            "price": 30840.059523809527,
+            "sales": 30.5
         },
         "CARPENTRY_BENCH": {
             "_id": "CARPENTRY_BENCH",
@@ -2130,15 +2131,15 @@
             "_id": "CHALLENGE_ROD",
             "clean_price": 18446.25,
             "count": 1.0,
-            "price": 81199.25,
-            "sales": 14.5
+            "price": 99393.25,
+            "sales": 15.5
         },
         "CHAMP_ROD": {
             "_id": "CHAMP_ROD",
             "clean_price": 132549.4705882353,
             "count": 1.0,
-            "price": 339542.6617647059,
-            "sales": 35.5
+            "price": 374464.4117647059,
+            "sales": 37.0
         },
         "CHEAP_COFFEE": {
             "_id": "CHEAP_COFFEE",
@@ -2155,8 +2156,8 @@
         "CHEAP_TUXEDO_CHESTPLATE": {
             "_id": "CHEAP_TUXEDO_CHESTPLATE",
             "count": 1.0,
-            "price": 432716.4642857143,
-            "sales": 17.5
+            "price": 449125.38095238095,
+            "sales": 18.0
         },
         "CHEAP_TUXEDO_LEGGINGS": {
             "_id": "CHEAP_TUXEDO_LEGGINGS",
@@ -2193,9 +2194,10 @@
             "sales": 6.0
         },
         "CHICKEN;2": {
+            "_id": "CHICKEN;2",
             "count": 1.0,
-            "price": 3074.0,
-            "sales": 3.0
+            "price": 12037.0,
+            "sales": 2.0
         },
         "CHICKEN;3": {
             "_id": "CHICKEN;3",
@@ -2206,14 +2208,14 @@
         "CHICKEN;4": {
             "_id": "CHICKEN;4",
             "count": 1.0,
-            "price": 495325.4285714286,
-            "sales": 12.0
+            "price": 381927.9285714286,
+            "sales": 12.5
         },
         "CHICKEN_HEAD": {
             "_id": "CHICKEN_HEAD",
             "count": 1.0,
-            "price": 7669.690476190475,
-            "sales": 14.0
+            "price": 9951.607142857143,
+            "sales": 14.5
         },
         "CLAY": {
             "_id": "CLAY",
@@ -2230,8 +2232,8 @@
             "_id": "CLEAVER",
             "clean_price": 18.058823529411764,
             "count": 1.0,
-            "price": 15237.826086956522,
-            "sales": 53.0
+            "price": 14991.659420289856,
+            "sales": 54.5
         },
         "CLOWNFISH_PERSONALITY": {
             "count": 1.0,
@@ -2248,6 +2250,12 @@
             "count": 58.25,
             "price": 4907.0,
             "sales": 14.5
+        },
+        "COFFEE_TABLE": {
+            "_id": "COFFEE_TABLE",
+            "count": 1.0,
+            "price": 100.0,
+            "sales": 1.0
         },
         "COIN_TALISMAN": {
             "_id": "COIN_TALISMAN",
@@ -2280,8 +2288,8 @@
         "CRACKED_PIGGY_BANK": {
             "_id": "CRACKED_PIGGY_BANK",
             "count": 1.0,
-            "price": 80901.38888888888,
-            "sales": 20.0
+            "price": 83109.72222222222,
+            "sales": 21.5
         },
         "CRAFTING_PLUS": {
             "count": 1.0,
@@ -2298,8 +2306,8 @@
             "_id": "CREEPER_LEGGINGS",
             "clean_price": 289236.5882352941,
             "count": 1.0,
-            "price": 422743.13636363635,
-            "sales": 23.0
+            "price": 288185.88636363635,
+            "sales": 23.5
         },
         "CRITICAL": {
             "count": 1.0,
@@ -2309,55 +2317,55 @@
         "CRYPT_BOW": {
             "_id": "CRYPT_BOW",
             "count": 1.0,
-            "price": 1532.3780663780663,
-            "sales": 235.0
+            "price": 1515.9350021958717,
+            "sales": 240.0
         },
         "CRYPT_DREADLORD_SWORD": {
             "_id": "CRYPT_DREADLORD_SWORD",
             "count": 1.0,
-            "price": 85445.36471861471,
-            "sales": 451.0
+            "price": 86325.7196969697,
+            "sales": 457.5
         },
         "CRYSTALLIZED_HEART": {
             "_id": "CRYSTALLIZED_HEART",
             "clean_price": 592812.9375,
             "count": 1.0,
-            "price": 695330.9090909092,
-            "sales": 24.5
+            "price": 700747.5757575758,
+            "sales": 25.0
         },
         "CRYSTAL_BOOTS": {
             "_id": "CRYSTAL_BOOTS",
             "clean_price": 61914.24324324324,
             "count": 1.0,
-            "price": 49512.23780487805,
-            "sales": 90.5
+            "price": 42618.55030487805,
+            "sales": 93.5
         },
         "CRYSTAL_CHESTPLATE": {
             "_id": "CRYSTAL_CHESTPLATE",
             "clean_price": 131600.86206896554,
             "count": 1.0,
-            "price": 142140.2064516129,
-            "sales": 69.0
+            "price": 141649.2064516129,
+            "sales": 70.0
         },
         "CRYSTAL_FRAGMENT": {
             "_id": "CRYSTAL_FRAGMENT",
-            "count": 1.9628152923877389,
-            "price": 93791.40217452777,
-            "sales": 1848.0
+            "count": 1.7695379814633694,
+            "price": 92144.93473755299,
+            "sales": 1885.0
         },
         "CRYSTAL_HELMET": {
             "_id": "CRYSTAL_HELMET",
             "clean_price": 87852.41379310345,
             "count": 1.0,
-            "price": 82519.75714285714,
-            "sales": 74.0
+            "price": 87214.75714285714,
+            "sales": 75.0
         },
         "CRYSTAL_LEGGINGS": {
             "_id": "CRYSTAL_LEGGINGS",
             "clean_price": 148843.9090909091,
             "count": 1.0,
-            "price": 213355.34444444443,
-            "sales": 60.0
+            "price": 206375.34444444443,
+            "sales": 62.0
         },
         "CUBISM": {
             "count": 1.0,
@@ -2380,9 +2388,10 @@
             "sales": 5.0
         },
         "DANGER_2_TRAVEL_SCROLL": {
+            "_id": "DANGER_2_TRAVEL_SCROLL",
             "count": 1.0,
-            "price": 191051.0,
-            "sales": 6.0
+            "price": 170525.5,
+            "sales": 3.5
         },
         "DANGER_3_PORTAL": {
             "count": 1.0,
@@ -2398,14 +2407,14 @@
             "_id": "DARK_GOGGLES",
             "clean_price": 2190.2083333333335,
             "count": 1.0,
-            "price": 50805.48809523809,
-            "sales": 31.5
+            "price": 52436.32142857143,
+            "sales": 32.0
         },
         "DAY_SAVER": {
             "_id": "DAY_SAVER",
             "count": 1.0,
-            "price": 17506.042666666668,
-            "sales": 293.5
+            "price": 16474.60814285714,
+            "sales": 300.5
         },
         "DEAD_BUSH": {
             "count": 1.0,
@@ -2425,8 +2434,8 @@
         "DEFUSE_KIT": {
             "_id": "DEFUSE_KIT",
             "count": 1.0,
-            "price": 3372.166083916084,
-            "sales": 121.5
+            "price": 3747.669871794872,
+            "sales": 125.0
         },
         "DEPTH_STRIDER": {
             "count": 1.0,
@@ -2453,15 +2462,15 @@
         "DIAMOND_ATOM": {
             "_id": "DIAMOND_ATOM",
             "count": 1.0,
-            "price": 1463745.5,
-            "sales": 17.0
+            "price": 1238319.0,
+            "sales": 17.5
         },
         "DIAMOND_AXE": {
             "_id": "DIAMOND_AXE",
             "clean_price": 1790947.2727272727,
             "count": 1.0,
-            "price": 74782.54545454546,
-            "sales": 22.0
+            "price": 74683.54545454546,
+            "sales": 22.5
         },
         "DIAMOND_BARDING": {
             "count": 1.0,
@@ -2470,9 +2479,9 @@
         },
         "DIAMOND_BLOCK": {
             "_id": "DIAMOND_BLOCK",
-            "count": 55.483333333333334,
-            "price": 4566.1875,
-            "sales": 62.0
+            "count": 54.58333333333333,
+            "price": 4421.020833333334,
+            "sales": 66.0
         },
         "DIAMOND_BOOTS": {
             "_id": "DIAMOND_BOOTS",
@@ -2524,8 +2533,8 @@
             "_id": "DIAMOND_PICKAXE",
             "clean_price": 1329.1875,
             "count": 1.0,
-            "price": 55616.352316602315,
-            "sales": 172.0
+            "price": 56827.487237237234,
+            "sales": 179.0
         },
         "DIAMOND_SPADE": {
             "count": 1.0,
@@ -2535,15 +2544,15 @@
         "DIAMOND_SPREADING": {
             "_id": "DIAMOND_SPREADING",
             "count": 1.0,
-            "price": 12004.248165680474,
-            "sales": 384.0
+            "price": 15208.80298049529,
+            "sales": 388.0
         },
         "DIAMOND_SWORD": {
             "_id": "DIAMOND_SWORD",
             "clean_price": 52.05,
             "count": 1.0,
-            "price": 2822.7045454545455,
-            "sales": 106.0
+            "price": 2748.3295454545455,
+            "sales": 109.0
         },
         "DIGESTED_MOSQUITO": {
             "_id": "DIGESTED_MOSQUITO",
@@ -2565,8 +2574,8 @@
         "DIRT": {
             "_id": "DIRT",
             "count": 1.0,
-            "price": 105564.47004048582,
-            "sales": 236.5
+            "price": 139971.47845394735,
+            "sales": 247.5
         },
         "DIRT-2": {
             "_id": "DIRT-2",
@@ -2577,35 +2586,35 @@
         "DIVER_BOOTS": {
             "_id": "DIVER_BOOTS",
             "count": 1.0,
-            "price": 731330.7857142857,
-            "sales": 15.5
+            "price": 781330.7857142857,
+            "sales": 16.5
         },
         "DIVER_CHESTPLATE": {
             "_id": "DIVER_CHESTPLATE",
             "clean_price": 1823694.9333333333,
             "count": 1.0,
-            "price": 1541211.4285714286,
-            "sales": 13.0
+            "price": 1814112.9285714286,
+            "sales": 13.5
         },
         "DIVER_FRAGMENT": {
             "_id": "DIVER_FRAGMENT",
             "count": 1.0,
-            "price": 203310.22857142857,
-            "sales": 79.0
+            "price": 204453.08571428573,
+            "sales": 80.0
         },
         "DIVER_HELMET": {
             "_id": "DIVER_HELMET",
             "clean_price": 1109441.8,
             "count": 1.0,
-            "price": 1119396.0714285714,
-            "sales": 13.5
+            "price": 1115350.4047619049,
+            "sales": 14.0
         },
         "DIVER_LEGGINGS": {
             "_id": "DIVER_LEGGINGS",
             "clean_price": 1515946.4,
             "count": 1.0,
-            "price": 1547310.375,
-            "sales": 9.0
+            "price": 1458442.875,
+            "sales": 9.5
         },
         "DOLPHIN;0": {
             "_id": "DOLPHIN;0",
@@ -2616,14 +2625,14 @@
         "DOLPHIN;1": {
             "_id": "DOLPHIN;1",
             "count": 1.0,
-            "price": 77616.60714285714,
-            "sales": 15.5
+            "price": 43356.69047619047,
+            "sales": 16.0
         },
         "DOLPHIN;2": {
             "_id": "DOLPHIN;2",
             "count": 1.0,
-            "price": 974976.375,
-            "sales": 8.0
+            "price": 1185851.375,
+            "sales": 8.5
         },
         "DOLPHIN;3": {
             "count": 1.0,
@@ -2637,9 +2646,9 @@
         },
         "DOUBLE_PLANT": {
             "_id": "DOUBLE_PLANT",
-            "count": 50.76538804638715,
-            "price": 553.5613291703836,
-            "sales": 268.5
+            "count": 49.16012488849242,
+            "price": 683.1402765388046,
+            "sales": 271.5
         },
         "DOUBLE_PLANT-1": {
             "count": 1.0,
@@ -2654,8 +2663,8 @@
         "DRAGON_CLAW": {
             "_id": "DRAGON_CLAW",
             "count": 1.0,
-            "price": 1656581.00877193,
-            "sales": 75.5
+            "price": 1603690.3421052631,
+            "sales": 76.0
         },
         "DRAGON_HORN": {
             "_id": "DRAGON_HORN",
@@ -2671,14 +2680,14 @@
         "DRAGON_NEST_TRAVEL_SCROLL": {
             "_id": "DRAGON_NEST_TRAVEL_SCROLL",
             "count": 1.0,
-            "price": 263116.375,
-            "sales": 35.0
+            "price": 313306.0,
+            "sales": 37.0
         },
         "DRAGON_SCALE": {
             "_id": "DRAGON_SCALE",
             "count": 1.0,
-            "price": 355943.54411764705,
-            "sales": 37.5
+            "price": 352141.91911764705,
+            "sales": 38.5
         },
         "DR_PAPER": {
             "count": 1.0,
@@ -2688,26 +2697,26 @@
         "DUNGEON_DECOY": {
             "_id": "DUNGEON_DECOY",
             "count": 1.1363636363636362,
-            "price": 45915.26136363636,
-            "sales": 48.0
+            "price": 50868.13636363636,
+            "sales": 48.5
         },
         "DUNGEON_LORE_PAPER": {
             "_id": "DUNGEON_LORE_PAPER",
             "count": 1.0,
-            "price": 4673.984210526316,
-            "sales": 82.5
+            "price": 4654.384210526316,
+            "sales": 84.5
         },
         "DUNGEON_STONE": {
             "_id": "DUNGEON_STONE",
             "count": 1.0,
-            "price": 93082.01715686274,
-            "sales": 317.0
+            "price": 94488.63640973631,
+            "sales": 325.5
         },
         "DUNGEON_TRAP": {
             "_id": "DUNGEON_TRAP",
             "count": 1.0,
-            "price": 861.2884615384615,
-            "sales": 65.0
+            "price": 10205.038461538461,
+            "sales": 66.0
         },
         "EASTER_BASKET": {
             "count": 1.0,
@@ -2733,14 +2742,15 @@
         },
         "EGG": {
             "_id": "EGG",
-            "count": 18.474151643690348,
-            "price": 463.68120360551427,
-            "sales": 368.5
+            "count": 18.10148083623693,
+            "price": 432.0135017421603,
+            "sales": 380.0
         },
         "EGG_PILE": {
+            "_id": "EGG_PILE",
             "count": 1.0,
-            "price": 340.3333333333333,
-            "sales": 5.0
+            "price": 328.16666666666663,
+            "sales": 3.5
         },
         "ELEGANT_TUXEDO_BOOTS": {
             "_id": "ELEGANT_TUXEDO_BOOTS",
@@ -2760,9 +2770,10 @@
             "sales": 7.0
         },
         "ELEPHANT;0": {
+            "_id": "ELEPHANT;0",
             "count": 1.0,
-            "price": 5328.5,
-            "sales": 12.0
+            "price": 3058.0,
+            "sales": 7.0
         },
         "ELEPHANT;1": {
             "count": 1.0,
@@ -2772,8 +2783,8 @@
         "ELEPHANT;2": {
             "_id": "ELEPHANT;2",
             "count": 1.0,
-            "price": 136947.0,
-            "sales": 2.5
+            "price": 159858.5,
+            "sales": 3.0
         },
         "ELEPHANT;3": {
             "count": 1.0,
@@ -2789,42 +2800,42 @@
             "_id": "EMBER_BOOTS",
             "clean_price": 1674.9444444444443,
             "count": 1.0,
-            "price": 7999.804347826087,
-            "sales": 51.0
+            "price": 8000.804347826087,
+            "sales": 52.0
         },
         "EMBER_CHESTPLATE": {
             "_id": "EMBER_CHESTPLATE",
             "clean_price": 5847.35294117647,
             "count": 1.0,
             "price": 11188.0,
-            "sales": 52.5
+            "sales": 53.0
         },
         "EMBER_FRAGMENT": {
             "_id": "EMBER_FRAGMENT",
-            "count": 5.451948051948052,
-            "price": 550.3285714285714,
-            "sales": 117.0
+            "count": 3.809090909090909,
+            "price": 549.6222222222223,
+            "sales": 121.0
         },
         "EMBER_HELMET": {
             "_id": "EMBER_HELMET",
             "clean_price": 2140.1052631578946,
             "count": 1.0,
-            "price": 5528.803571428572,
-            "sales": 63.5
+            "price": 5655.863095238095,
+            "sales": 64.0
         },
         "EMBER_LEGGINGS": {
             "_id": "EMBER_LEGGINGS",
             "clean_price": 8573.09090909091,
             "count": 1.0,
-            "price": 10722.3125,
-            "sales": 38.0
+            "price": 10217.3125,
+            "sales": 38.5
         },
         "EMBER_ROD": {
             "_id": "EMBER_ROD",
             "clean_price": 155912.58823529413,
             "count": 1.0,
-            "price": 154755.66,
-            "sales": 56.0
+            "price": 145800.135,
+            "sales": 56.5
         },
         "EMERALD_ARMOR_BOOTS": {
             "_id": "EMERALD_ARMOR_BOOTS",
@@ -2855,20 +2866,20 @@
             "_id": "EMERALD_BLADE",
             "clean_price": 276996.1304347826,
             "count": 1.0,
-            "price": 401402.2549019608,
-            "sales": 36.0
+            "price": 398535.0882352941,
+            "sales": 36.5
         },
         "EMERALD_BLOCK": {
             "_id": "EMERALD_BLOCK",
             "count": 59.5,
-            "price": 3980.25,
-            "sales": 10.5
+            "price": 3294.0,
+            "sales": 13.0
         },
         "EMERALD_CHEST": {
             "_id": "EMERALD_CHEST",
             "count": 1.0,
             "price": 790.0,
-            "sales": 1.0
+            "sales": 1.5
         },
         "EMERALD_ORE": {
             "_id": "EMERALD_ORE",
@@ -2885,8 +2896,8 @@
         "ENCHANTED_BOOK": {
             "_id": "ENCHANTED_BOOK",
             "count": 1.0,
-            "price": 117460.92950391644,
-            "sales": 1525.0
+            "price": 121679.49553571429,
+            "sales": 1786.0
         },
         "ENCHANTED_BOOKSHELF": {
             "_id": "ENCHANTED_BOOKSHELF",
@@ -2896,9 +2907,9 @@
         },
         "ENCHANTED_DANDELION": {
             "_id": "ENCHANTED_DANDELION",
-            "count": 18.517543859649123,
-            "price": 512579.8070175438,
-            "sales": 40.0
+            "count": 14.43421052631579,
+            "price": 336617.47368421056,
+            "sales": 41.5
         },
         "ENCHANTED_GLOWSTONE": {
             "count": 1.0,
@@ -2940,32 +2951,32 @@
         "ENCHANTING_PLUS": {
             "_id": "ENCHANTING_PLUS",
             "count": 1.0,
-            "price": 15884.0,
-            "sales": 5.5
+            "price": 16257.75,
+            "sales": 6.0
         },
         "ENDERMAN;0": {
             "_id": "ENDERMAN;0",
             "count": 1.0,
-            "price": 11436.820197044335,
-            "sales": 66.0
+            "price": 11298.201149425287,
+            "sales": 67.5
         },
         "ENDERMAN;1": {
             "_id": "ENDERMAN;1",
             "count": 1.0,
-            "price": 2305.1458333333335,
-            "sales": 58.0
+            "price": 2445.8363095238096,
+            "sales": 59.5
         },
         "ENDERMAN;2": {
             "_id": "ENDERMAN;2",
             "count": 1.0,
-            "price": 93904.08333333333,
-            "sales": 392.0
+            "price": 94119.42045454546,
+            "sales": 400.5
         },
         "ENDERMAN;3": {
             "_id": "ENDERMAN;3",
             "count": 1.0,
-            "price": 175861.37422360247,
-            "sales": 100.5
+            "price": 144054.39009661836,
+            "sales": 105.5
         },
         "ENDERMAN;4": {
             "count": 1.0,
@@ -2991,8 +3002,8 @@
         "ENDERMITE;3": {
             "_id": "ENDERMITE;3",
             "count": 1.0,
-            "price": 223230.01923076925,
-            "sales": 23.5
+            "price": 178745.10256410256,
+            "sales": 25.0
         },
         "ENDERMITE;4": {
             "_id": "ENDERMITE;4",
@@ -3045,13 +3056,13 @@
             "_id": "ENDSTONE_GEODE",
             "count": 1.0,
             "price": 3082.2,
-            "sales": 12.0
+            "sales": 13.0
         },
         "ENDSTONE_ROSE": {
             "_id": "ENDSTONE_ROSE",
             "count": 1.0,
-            "price": 186882.64942528735,
-            "sales": 62.0
+            "price": 186877.2327586207,
+            "sales": 63.5
         },
         "END_BIOME_STICK": {
             "count": 1.0,
@@ -3062,49 +3073,49 @@
             "_id": "END_BOOTS",
             "clean_price": 30728.962686567163,
             "count": 1.0,
-            "price": 40114.558352017935,
-            "sales": 521.5
+            "price": 36508.17297967751,
+            "sales": 534.0
         },
         "END_CHESTPLATE": {
             "_id": "END_CHESTPLATE",
             "count": 1.0,
-            "price": 36856.20695538058,
-            "sales": 591.5
+            "price": 34173.27362204724,
+            "sales": 604.5
         },
         "END_HELMET": {
             "_id": "END_HELMET",
             "clean_price": 32531.28368794326,
             "count": 1.0,
-            "price": 36603.49154589372,
-            "sales": 543.5
+            "price": 35916.96043478261,
+            "sales": 557.0
         },
         "END_LEGGINGS": {
             "_id": "END_LEGGINGS",
             "clean_price": 33263.88965517242,
             "count": 1.0,
-            "price": 38036.901673411354,
-            "sales": 522.0
+            "price": 35651.7092025736,
+            "sales": 535.5
         },
         "END_STONE_BOW": {
             "_id": "END_STONE_BOW",
             "clean_price": 2510.7466666666664,
             "count": 1.0,
-            "price": 131941.8,
-            "sales": 267.5
+            "price": 5030.668181818181,
+            "sales": 272.5
         },
         "END_STONE_SWORD": {
             "_id": "END_STONE_SWORD",
             "clean_price": 44283.0,
             "count": 1.0,
-            "price": 109147.0,
-            "sales": 14.5
+            "price": 88623.66666666667,
+            "sales": 15.0
         },
         "END_SWORD": {
             "_id": "END_SWORD",
             "clean_price": 28.38095238095238,
             "count": 1.0,
-            "price": 97732.4875,
-            "sales": 98.0
+            "price": 233993.58365384614,
+            "sales": 102.5
         },
         "EXECUTE": {
             "count": 1.0,
@@ -3119,15 +3130,15 @@
         "EXPERIENCE_ARTIFACT": {
             "_id": "EXPERIENCE_ARTIFACT",
             "count": 1.0,
-            "price": 561831.9903846154,
-            "sales": 65.0
+            "price": 554462.7939560439,
+            "sales": 65.5
         },
         "EXPLOSIVE_BOW": {
             "_id": "EXPLOSIVE_BOW",
             "clean_price": 305888.8823529412,
             "count": 1.0,
-            "price": 368666.6277056277,
-            "sales": 75.0
+            "price": 351219.17234848486,
+            "sales": 76.5
         },
         "EXP_BOTTLE": {
             "_id": "EXP_BOTTLE",
@@ -3143,8 +3154,8 @@
         "FAIRY_BOOTS": {
             "_id": "FAIRY_BOOTS",
             "count": 1.0,
-            "price": 24973.0,
-            "sales": 18.0
+            "price": 7730.0,
+            "sales": 19.0
         },
         "FAIRY_CHESTPLATE": {
             "_id": "FAIRY_CHESTPLATE",
@@ -3161,8 +3172,8 @@
         "FAIRY_LEGGINGS": {
             "_id": "FAIRY_LEGGINGS",
             "count": 1.0,
-            "price": 66870.56818181818,
-            "sales": 22.5
+            "price": 27785.151515151512,
+            "sales": 23.0
         },
         "FANCY_FLOWER_POT": {
             "count": 2.0,
@@ -3173,7 +3184,7 @@
             "_id": "FANCY_SWORD",
             "count": 1.0,
             "price": 205.47619047619048,
-            "sales": 17.0
+            "sales": 18.0
         },
         "FANCY_TUXEDO_BOOTS": {
             "count": 1.0,
@@ -3194,14 +3205,14 @@
             "_id": "FARMER_BOOTS",
             "clean_price": 162690.64285714287,
             "count": 1.0,
-            "price": 166184.38225108225,
-            "sales": 179.0
+            "price": 168496.5405844156,
+            "sales": 182.5
         },
         "FARMER_ORB": {
             "_id": "FARMER_ORB",
             "count": 1.0,
-            "price": 150767.29411764705,
-            "sales": 34.5
+            "price": 122329.79411764706,
+            "sales": 35.0
         },
         "FARMER_ROD": {
             "_id": "FARMER_ROD",
@@ -3234,8 +3245,8 @@
         "FARMING_TALISMAN": {
             "_id": "FARMING_TALISMAN",
             "count": 1.0,
-            "price": 6337.923076923077,
-            "sales": 32.0
+            "price": 205954.70879120877,
+            "sales": 33.0
         },
         "FARM_ARMOR_BOOTS": {
             "_id": "FARM_ARMOR_BOOTS",
@@ -3268,8 +3279,8 @@
         "FARM_SUIT_CHESTPLATE": {
             "_id": "FARM_SUIT_CHESTPLATE",
             "count": 1.0,
-            "price": 34.0,
-            "sales": 5.0
+            "price": 2524.0,
+            "sales": 6.0
         },
         "FARM_SUIT_HELMET": {
             "_id": "FARM_SUIT_HELMET",
@@ -3286,8 +3297,8 @@
         "FEATHER_ARTIFACT": {
             "_id": "FEATHER_ARTIFACT",
             "count": 1.0,
-            "price": 63596.71428571429,
-            "sales": 108.0
+            "price": 70903.0,
+            "sales": 110.0
         },
         "FEATHER_FALLING": {
             "count": 1.0,
@@ -3297,14 +3308,14 @@
         "FEATHER_RING": {
             "_id": "FEATHER_RING",
             "count": 1.0,
-            "price": 16099.530769230769,
-            "sales": 29.0
+            "price": 11045.13076923077,
+            "sales": 30.0
         },
         "FEATHER_TALISMAN": {
             "_id": "FEATHER_TALISMAN",
             "count": 1.0,
-            "price": 4384.221929824562,
-            "sales": 128.5
+            "price": 4560.105263157895,
+            "sales": 129.0
         },
         "FENCE": {
             "count": 6.0,
@@ -3339,8 +3350,8 @@
         "FIRE_TALISMAN": {
             "_id": "FIRE_TALISMAN",
             "count": 1.0,
-            "price": 33157.247619047615,
-            "sales": 93.5
+            "price": 34818.13095238095,
+            "sales": 94.0
         },
         "FIRST_STRIKE": {
             "count": 1.0,
@@ -3368,14 +3379,14 @@
         "FISH_AFFINITY_TALISMAN": {
             "_id": "FISH_AFFINITY_TALISMAN",
             "count": 1.0,
-            "price": 113707.58730158731,
-            "sales": 139.0
+            "price": 113149.0734126984,
+            "sales": 143.5
         },
         "FISH_HAT": {
             "_id": "FISH_HAT",
             "count": 1.0,
-            "price": 7112.986486486487,
-            "sales": 80.5
+            "price": 10633.057915057914,
+            "sales": 84.0
         },
         "FLAME": {
             "count": 1.0,
@@ -3385,8 +3396,8 @@
         "FLAMING_SWORD": {
             "_id": "FLAMING_SWORD",
             "count": 1.0,
-            "price": 4735.528239202658,
-            "sales": 97.0
+            "price": 2930.2425249169437,
+            "sales": 98.0
         },
         "FLINT_AND_STEEL": {
             "count": 1.0,
@@ -3412,8 +3423,8 @@
         "FLYING_FISH;3": {
             "_id": "FLYING_FISH;3",
             "count": 1.0,
-            "price": 291532.4166666667,
-            "sales": 11.0
+            "price": 305124.4166666667,
+            "sales": 11.5
         },
         "FLYING_FISH;4": {
             "_id": "FLYING_FISH;4",
@@ -3422,9 +3433,10 @@
             "sales": 18.5
         },
         "FLY_SWATTER": {
+            "_id": "FLY_SWATTER",
             "count": 1.0,
-            "price": 552500.0,
-            "sales": 8.0
+            "price": 523750.0,
+            "sales": 4.5
         },
         "FORAGING_1_TRAVEL_SCROLL": {
             "count": 1.0,
@@ -3440,6 +3452,12 @@
             "count": 1.0,
             "price": 575.0,
             "sales": 3.0
+        },
+        "FORAGING_5_PORTAL": {
+            "_id": "FORAGING_5_PORTAL",
+            "count": 1.0,
+            "price": 60.0,
+            "sales": 1.0
         },
         "FOREST_BIOME_STICK": {
             "_id": "FOREST_BIOME_STICK",
@@ -3505,21 +3523,21 @@
         "FROZEN_CHICKEN": {
             "_id": "FROZEN_CHICKEN",
             "count": 1.0,
-            "price": 382751.125,
-            "sales": 40.0
+            "price": 392705.125,
+            "sales": 40.5
         },
         "FROZEN_SCYTHE": {
             "_id": "FROZEN_SCYTHE",
             "clean_price": 11619230.333333334,
             "count": 1.0,
-            "price": 11224695.091666667,
-            "sales": 49.0
+            "price": 11624198.7375,
+            "sales": 50.0
         },
         "FUMING_POTATO_BOOK": {
             "_id": "FUMING_POTATO_BOOK",
             "count": 1.0,
-            "price": 1040168.0690789474,
-            "sales": 90.0
+            "price": 1034333.4926900584,
+            "sales": 91.5
         },
         "FURNACE_PLUS": {
             "count": 1.0,
@@ -3559,8 +3577,8 @@
         "GIFT_THE_FISH": {
             "_id": "GIFT_THE_FISH",
             "count": 1.0,
-            "price": 2009.0555555555557,
-            "sales": 20.5
+            "price": 1449.0555555555557,
+            "sales": 21.0
         },
         "GINGERBREAD_PERSONALITY": {
             "_id": "GINGERBREAD_PERSONALITY",
@@ -3586,9 +3604,10 @@
             "sales": 4.0
         },
         "GIRAFFE;3": {
+            "_id": "GIRAFFE;3",
             "count": 1.0,
-            "price": 134475.5,
-            "sales": 4.0
+            "price": 250250.25,
+            "sales": 2.5
         },
         "GIRAFFE;4": {
             "count": 1.0,
@@ -3603,8 +3622,8 @@
         "GLASS_BOTTLE": {
             "_id": "GLASS_BOTTLE",
             "count": 1.0,
-            "price": 310632.05,
-            "sales": 11.5
+            "price": 385594.3,
+            "sales": 13.0
         },
         "GLOWSTONE": {
             "count": 64.0,
@@ -3619,22 +3638,22 @@
         },
         "GOLDEN_APPLE-1": {
             "_id": "GOLDEN_APPLE-1",
-            "count": 20.333333333333336,
-            "price": 4098.9,
-            "sales": 32.0
+            "count": 16.333333333333336,
+            "price": 1788.9833333333333,
+            "sales": 32.5
         },
         "GOLDEN_POWDER": {
             "_id": "GOLDEN_POWDER",
             "count": 1.0,
-            "price": 440543.8095238095,
-            "sales": 44.0
+            "price": 448770.01785714284,
+            "sales": 44.5
         },
         "GOLD_AXE": {
             "_id": "GOLD_AXE",
             "clean_price": 19391.333333333332,
             "count": 1.0,
-            "price": 154516.77741935485,
-            "sales": 67.0
+            "price": 137635.17741935485,
+            "sales": 67.5
         },
         "GOLD_BARDING": {
             "_id": "GOLD_BARDING",
@@ -3645,8 +3664,8 @@
         "GOLD_BLOCK": {
             "_id": "GOLD_BLOCK",
             "count": 64.0,
-            "price": 7262.5,
-            "sales": 12.0
+            "price": 10008.333333333332,
+            "sales": 12.5
         },
         "GOLD_BONZO_HEAD": {
             "_id": "GOLD_BONZO_HEAD",
@@ -3661,9 +3680,10 @@
             "sales": 1.5
         },
         "GOLD_GIFT": {
+            "_id": "GOLD_GIFT",
             "count": 1.0,
-            "price": 102789.5,
-            "sales": 4.0
+            "price": 117944.75,
+            "sales": 2.5
         },
         "GOLD_HOE": {
             "_id": "GOLD_HOE",
@@ -3674,9 +3694,9 @@
         },
         "GOLD_NUGGET": {
             "_id": "GOLD_NUGGET",
-            "count": 16.75,
-            "price": 2509.75,
-            "sales": 3.0
+            "count": 32.5,
+            "price": 2513.25,
+            "sales": 3.5
         },
         "GOLD_ORE": {
             "count": 64.0,
@@ -3687,8 +3707,8 @@
             "_id": "GOLD_PICKAXE",
             "clean_price": 3851198.0,
             "count": 1.0,
-            "price": 5134.46875,
-            "sales": 35.0
+            "price": 6261.66875,
+            "sales": 36.5
         },
         "GOLD_PROFESSOR_HEAD": {
             "count": 1.0,
@@ -3698,8 +3718,8 @@
         "GOLD_RECORD": {
             "_id": "GOLD_RECORD",
             "count": 1.0,
-            "price": 285.0,
-            "sales": 5.0
+            "price": 530.0,
+            "sales": 5.5
         },
         "GOLD_SCARF_HEAD": {
             "count": 1.0,
@@ -3733,48 +3753,48 @@
             "_id": "GOLEM_ARMOR_BOOTS",
             "clean_price": 10128.70588235294,
             "count": 1.0,
-            "price": 31171.4,
-            "sales": 35.0
+            "price": 26180.983333333334,
+            "sales": 35.5
         },
         "GOLEM_ARMOR_CHESTPLATE": {
             "_id": "GOLEM_ARMOR_CHESTPLATE",
             "clean_price": 27337.052631578947,
             "count": 1.0,
             "price": 32377.598684210527,
-            "sales": 41.5
+            "sales": 42.5
         },
         "GOLEM_ARMOR_HELMET": {
             "_id": "GOLEM_ARMOR_HELMET",
             "clean_price": 14031.5,
             "count": 1.0,
-            "price": 19440.37222222222,
-            "sales": 39.5
+            "price": 18492.972222222223,
+            "sales": 40.0
         },
         "GOLEM_ARMOR_LEGGINGS": {
             "_id": "GOLEM_ARMOR_LEGGINGS",
             "clean_price": 20841.5625,
             "count": 1.0,
-            "price": 40156.19607843137,
-            "sales": 36.0
+            "price": 47137.8294117647,
+            "sales": 37.0
         },
         "GOLEM_SWORD": {
             "_id": "GOLEM_SWORD",
             "clean_price": 127770.13333333333,
             "count": 1.0,
-            "price": 138658.05092592593,
-            "sales": 59.5
+            "price": 139870.6259259259,
+            "sales": 60.0
         },
         "GRAND_EXP_BOTTLE": {
             "_id": "GRAND_EXP_BOTTLE",
-            "count": 46.65503875968992,
-            "price": 323346.9009551495,
-            "sales": 623.0
+            "count": 46.40503875968992,
+            "price": 329007.7452011813,
+            "sales": 638.5
         },
         "GRAPPLING_HOOK": {
             "_id": "GRAPPLING_HOOK",
             "count": 1.0,
-            "price": 19486.250704508857,
-            "sales": 998.5
+            "price": 19455.44195382091,
+            "sales": 1016.5
         },
         "GRASS": {
             "_id": "GRASS",
@@ -3785,14 +3805,14 @@
         "GRAVITY_TALISMAN": {
             "_id": "GRAVITY_TALISMAN",
             "count": 1.0,
-            "price": 8562.505882352942,
-            "sales": 75.5
+            "price": 8312.505882352942,
+            "sales": 76.5
         },
         "GREATER_BACKPACK": {
             "_id": "GREATER_BACKPACK",
             "count": 1.0,
-            "price": 456670.75,
-            "sales": 16.0
+            "price": 480100.25,
+            "sales": 16.5
         },
         "GREAT_CARROT_CANDY": {
             "count": 1.0,
@@ -3830,8 +3850,8 @@
         "GROWTH_BOOTS": {
             "_id": "GROWTH_BOOTS",
             "count": 1.0,
-            "price": 58146.0,
-            "sales": 8.5
+            "price": 62962.666666666664,
+            "sales": 9.0
         },
         "GROWTH_CHESTPLATE": {
             "_id": "GROWTH_CHESTPLATE",
@@ -3866,14 +3886,14 @@
         "GUARDIAN;2": {
             "_id": "GUARDIAN;2",
             "count": 1.0,
-            "price": 95851.58333333334,
-            "sales": 11.0
+            "price": 72049.08333333334,
+            "sales": 11.5
         },
         "GUARDIAN;3": {
             "_id": "GUARDIAN;3",
             "count": 1.0,
-            "price": 1644321.75,
-            "sales": 5.0
+            "price": 1974115.5,
+            "sales": 5.5
         },
         "GUARDIAN;4": {
             "count": 1.0,
@@ -3884,36 +3904,36 @@
             "_id": "GUARDIAN_CHESTPLATE",
             "clean_price": 1291.25,
             "count": 1.0,
-            "price": 196556.17857142858,
-            "sales": 29.5
+            "price": 198608.17857142858,
+            "sales": 30.5
         },
         "HARDENED_DIAMOND_BOOTS": {
             "_id": "HARDENED_DIAMOND_BOOTS",
             "clean_price": 2703.962962962963,
             "count": 1.0,
-            "price": 6402.758771929824,
-            "sales": 86.0
+            "price": 5936.967105263158,
+            "sales": 87.0
         },
         "HARDENED_DIAMOND_CHESTPLATE": {
             "_id": "HARDENED_DIAMOND_CHESTPLATE",
             "clean_price": 5120.0,
             "count": 1.0,
-            "price": 17914.22619047619,
-            "sales": 96.0
+            "price": 19344.25396825397,
+            "sales": 98.5
         },
         "HARDENED_DIAMOND_HELMET": {
             "_id": "HARDENED_DIAMOND_HELMET",
             "clean_price": 4189.652173913043,
             "count": 1.0,
-            "price": 7212.976315789474,
-            "sales": 83.5
+            "price": 8791.204887218046,
+            "sales": 84.5
         },
         "HARDENED_DIAMOND_LEGGINGS": {
             "_id": "HARDENED_DIAMOND_LEGGINGS",
             "clean_price": 5421.041666666667,
             "count": 1.0,
-            "price": 10157.0625,
-            "sales": 82.5
+            "price": 10252.0625,
+            "sales": 83.5
         },
         "HARD_GLASS": {
             "count": 1.0,
@@ -3939,13 +3959,13 @@
             "_id": "HASTE_RING",
             "count": 1.0,
             "price": 168018.1666666667,
-            "sales": 39.0
+            "sales": 40.0
         },
         "HEALING_RING": {
             "_id": "HEALING_RING",
             "count": 1.0,
-            "price": 231409.40570175438,
-            "sales": 163.0
+            "price": 218951.25093984962,
+            "sales": 164.5
         },
         "HEALING_TALISMAN": {
             "_id": "HEALING_TALISMAN",
@@ -3956,26 +3976,26 @@
         "HEAVY_BOOTS": {
             "_id": "HEAVY_BOOTS",
             "count": 1.0,
-            "price": 33656.03358208955,
-            "sales": 148.5
+            "price": 33693.8391376451,
+            "sales": 149.0
         },
         "HEAVY_CHESTPLATE": {
             "_id": "HEAVY_CHESTPLATE",
             "count": 1.0,
-            "price": 45572.44685314685,
-            "sales": 151.0
+            "price": 72104.32564102564,
+            "sales": 152.5
         },
         "HEAVY_HELMET": {
             "_id": "HEAVY_HELMET",
             "count": 1.0,
-            "price": 8397.908928571429,
-            "sales": 130.0
+            "price": 7756.008928571428,
+            "sales": 133.5
         },
         "HEAVY_LEGGINGS": {
             "_id": "HEAVY_LEGGINGS",
             "count": 1.0,
-            "price": 48857.9375696767,
-            "sales": 158.0
+            "price": 70902.98115942029,
+            "sales": 162.0
         },
         "HELMET_OF_THE_PACK": {
             "count": 1.0,
@@ -3998,35 +4018,35 @@
             "_id": "HOLY_DRAGON_BOOTS",
             "clean_price": 432450.43333333335,
             "count": 1.0,
-            "price": 425274.1326530612,
-            "sales": 105.0
+            "price": 430878.48979591834,
+            "sales": 106.0
         },
         "HOLY_DRAGON_CHESTPLATE": {
             "_id": "HOLY_DRAGON_CHESTPLATE",
             "clean_price": 1096998.4444444445,
             "count": 1.0,
-            "price": 979596.0833333333,
-            "sales": 58.5
+            "price": 1000548.25,
+            "sales": 59.5
         },
         "HOLY_DRAGON_HELMET": {
             "_id": "HOLY_DRAGON_HELMET",
             "clean_price": 606129.1666666666,
             "count": 1.0,
-            "price": 726843.8821428572,
-            "sales": 75.5
+            "price": 699055.357142857,
+            "sales": 77.0
         },
         "HOLY_DRAGON_LEGGINGS": {
             "_id": "HOLY_DRAGON_LEGGINGS",
             "clean_price": 1045059.9333333333,
             "count": 1.0,
-            "price": 1037190.3571428572,
-            "sales": 44.5
+            "price": 905411.3571428572,
+            "sales": 45.0
         },
         "HOLY_FRAGMENT": {
             "_id": "HOLY_FRAGMENT",
-            "count": 8.569917864476386,
-            "price": 71947.73810820462,
-            "sales": 2175.5
+            "count": 9.059230841575623,
+            "price": 76912.19814803204,
+            "sales": 2206.5
         },
         "HOPPER": {
             "count": 32.5,
@@ -4034,9 +4054,10 @@
             "sales": 2.0
         },
         "HORSE;0": {
+            "_id": "HORSE;0",
             "count": 1.0,
-            "price": 30509.333333333332,
-            "sales": 7.0
+            "price": 45597.666666666664,
+            "sales": 4.0
         },
         "HORSE;1": {
             "count": 1.0,
@@ -4056,9 +4077,10 @@
             "sales": 9.5
         },
         "HORSE;4": {
+            "_id": "HORSE;4",
             "count": 1.0,
-            "price": 630186.5,
-            "sales": 8.0
+            "price": 622861.75,
+            "sales": 4.5
         },
         "HORSEMAN_CANDLE": {
             "count": 2.0,
@@ -4092,22 +4114,23 @@
             "sales": 2.0
         },
         "HUB_PORTAL": {
-            "count": 1.0,
-            "price": 2678.6666666666665,
-            "sales": 22.0
+            "_id": "HUB_PORTAL",
+            "count": 2.0,
+            "price": 1341.8333333333333,
+            "sales": 12.0
         },
         "HUNTER_KNIFE": {
             "_id": "HUNTER_KNIFE",
             "clean_price": 862.1428571428571,
             "count": 1.0,
-            "price": 60603.7294117647,
-            "sales": 40.0
+            "price": 60440.779411764706,
+            "sales": 40.5
         },
         "HUNTER_RING": {
             "_id": "HUNTER_RING",
             "count": 1.0,
-            "price": 18909628.0,
-            "sales": 1.0
+            "price": 17832503.5,
+            "sales": 1.5
         },
         "HUNTER_TALISMAN": {
             "count": 1.0,
@@ -4118,8 +4141,8 @@
             "_id": "HURRICANE_BOW",
             "clean_price": 67122.05882352941,
             "count": 1.0,
-            "price": 89178.70700985761,
-            "sales": 184.0
+            "price": 105876.84337349398,
+            "sales": 188.0
         },
         "HYPER_FURNACE": {
             "count": 1.0,
@@ -4140,8 +4163,8 @@
         "ICE_HUNK": {
             "_id": "ICE_HUNK",
             "count": 56.285714285714285,
-            "price": 4318.238095238095,
-            "sales": 42.0
+            "price": 2873.654761904762,
+            "sales": 42.5
         },
         "ICE_LOLLY_PERSONALITY": {
             "_id": "ICE_LOLLY_PERSONALITY",
@@ -4168,9 +4191,9 @@
         },
         "INFLATABLE_JERRY": {
             "_id": "INFLATABLE_JERRY",
-            "count": 16.3375,
-            "price": 1050.8,
-            "sales": 51.0
+            "count": 16.538888888888888,
+            "price": 1033.9805555555556,
+            "sales": 52.5
         },
         "INK_SACK-1": {
             "count": 1.0,
@@ -4206,14 +4229,14 @@
             "_id": "INK_WAND",
             "clean_price": 1718162.2666666666,
             "count": 1.0,
-            "price": 1877495.427777778,
-            "sales": 40.5
+            "price": 1848611.2777777778,
+            "sales": 41.0
         },
         "INTIMIDATION_ARTIFACT": {
             "_id": "INTIMIDATION_ARTIFACT",
             "count": 1.0,
-            "price": 1325869.0,
-            "sales": 17.5
+            "price": 1119420.0,
+            "sales": 18.5
         },
         "INTIMIDATION_RING": {
             "_id": "INTIMIDATION_RING",
@@ -4224,8 +4247,8 @@
         "INTIMIDATION_TALISMAN": {
             "_id": "INTIMIDATION_TALISMAN",
             "count": 1.0,
-            "price": 5626.375,
-            "sales": 18.0
+            "price": 6712.375,
+            "sales": 18.5
         },
         "IRON_AXE": {
             "_id": "IRON_AXE",
@@ -4242,8 +4265,8 @@
         "IRON_BLOCK": {
             "_id": "IRON_BLOCK",
             "count": 64.0,
-            "price": 10781.75,
-            "sales": 11.5
+            "price": 9957.666666666666,
+            "sales": 12.0
         },
         "IRON_BOOTS": {
             "count": 1.0,
@@ -4257,9 +4280,10 @@
             "sales": 1.5
         },
         "IRON_CHESTPLATE": {
+            "_id": "IRON_CHESTPLATE",
             "count": 1.0,
-            "price": 10000000.0,
-            "sales": 3.0
+            "price": 5000007.0,
+            "sales": 2.0
         },
         "IRON_HELMET": {
             "count": 1.0,
@@ -4288,8 +4312,8 @@
             "_id": "IRON_PICKAXE",
             "clean_price": 10.0,
             "count": 1.0,
-            "price": 1052.1666666666665,
-            "sales": 10.0
+            "price": 1279.1666666666665,
+            "sales": 10.5
         },
         "IRON_SPADE": {
             "count": 1.0,
@@ -4321,14 +4345,14 @@
         "JELLYFISH;4": {
             "_id": "JELLYFISH;4",
             "count": 1.0,
-            "price": 22574834.333333336,
-            "sales": 3.0
+            "price": 19521111.833333336,
+            "sales": 3.5
         },
         "JERRY;0": {
             "_id": "JERRY;0",
             "count": 1.0,
-            "price": 9327.0,
-            "sales": 22.5
+            "price": 8691.5,
+            "sales": 23.0
         },
         "JERRY;1": {
             "_id": "JERRY;1",
@@ -4351,21 +4375,21 @@
         "JERRY;4": {
             "_id": "JERRY;4",
             "count": 1.0,
-            "price": 331881.125,
-            "sales": 6.5
+            "price": 299381.125,
+            "sales": 7.0
         },
         "JINGLE_BELLS": {
             "_id": "JINGLE_BELLS",
             "count": 1.0,
-            "price": 408404.9,
-            "sales": 9.0
+            "price": 495205.65,
+            "sales": 9.5
         },
         "JUNGLE_AXE": {
             "_id": "JUNGLE_AXE",
             "clean_price": 898.1616541353384,
             "count": 1.0,
-            "price": 5763.046683638366,
-            "sales": 1183.5
+            "price": 4290.853399347905,
+            "sales": 1207.5
         },
         "KNOCKBACK": {
             "count": 1.0,
@@ -4392,35 +4416,35 @@
             "_id": "LAPIS_ARMOR_BOOTS",
             "clean_price": 1005.6071428571429,
             "count": 1.0,
-            "price": 3296.565,
-            "sales": 286.5
+            "price": 3249.469827586207,
+            "sales": 293.5
         },
         "LAPIS_ARMOR_CHESTPLATE": {
             "_id": "LAPIS_ARMOR_CHESTPLATE",
             "clean_price": 1853.1401869158879,
             "count": 1.0,
-            "price": 2283.1,
-            "sales": 282.0
+            "price": 2285.119565217391,
+            "sales": 286.5
         },
         "LAPIS_ARMOR_HELMET": {
             "_id": "LAPIS_ARMOR_HELMET",
             "clean_price": 1001.3392857142857,
             "count": 1.0,
-            "price": 1400.37984375,
-            "sales": 303.5
+            "price": 1357.482700892857,
+            "sales": 309.0
         },
         "LAPIS_ARMOR_LEGGINGS": {
             "_id": "LAPIS_ARMOR_LEGGINGS",
             "clean_price": 1674.1456310679612,
             "count": 1.0,
-            "price": 2696.7319008264462,
-            "sales": 285.0
+            "price": 2654.8919008264465,
+            "sales": 288.0
         },
         "LAPIS_BLOCK": {
             "_id": "LAPIS_BLOCK",
-            "count": 41.833333333333336,
-            "price": 1066.5,
-            "sales": 15.5
+            "count": 46.0,
+            "price": 1234.9166666666665,
+            "sales": 19.0
         },
         "LAPIS_CHEST": {
             "_id": "LAPIS_CHEST",
@@ -4432,7 +4456,7 @@
             "_id": "LAPIS_CRYSTAL",
             "count": 1.0,
             "price": 929.1184210526316,
-            "sales": 90.0
+            "sales": 91.0
         },
         "LARGE_BACKPACK": {
             "_id": "LARGE_BACKPACK",
@@ -4460,41 +4484,41 @@
         "LAVA_TALISMAN": {
             "_id": "LAVA_TALISMAN",
             "count": 1.0,
-            "price": 57458.71710526316,
-            "sales": 82.0
+            "price": 49118.758771929824,
+            "sales": 84.0
         },
         "LEAFLET_BOOTS": {
             "_id": "LEAFLET_BOOTS",
             "clean_price": 28.133333333333333,
             "count": 1.0,
-            "price": 134.33333333333334,
-            "sales": 13.5
+            "price": 139.16666666666666,
+            "sales": 14.0
         },
         "LEAFLET_CHESTPLATE": {
             "_id": "LEAFLET_CHESTPLATE",
             "clean_price": 5.9411764705882355,
             "count": 1.0,
-            "price": 20.416666666666668,
-            "sales": 14.0
+            "price": 32.583333333333336,
+            "sales": 14.5
         },
         "LEAFLET_HELMET": {
             "_id": "LEAFLET_HELMET",
             "count": 1.0,
-            "price": 24.428571428571427,
-            "sales": 13.0
+            "price": 25.178571428571427,
+            "sales": 13.5
         },
         "LEAFLET_LEGGINGS": {
             "_id": "LEAFLET_LEGGINGS",
             "count": 1.0,
-            "price": 112.5,
-            "sales": 12.5
+            "price": 128.66666666666666,
+            "sales": 13.0
         },
         "LEAPING_SWORD": {
             "_id": "LEAPING_SWORD",
             "clean_price": 1689932.3333333333,
             "count": 1.0,
-            "price": 1858202.7222222222,
-            "sales": 36.5
+            "price": 1710203.2222222222,
+            "sales": 37.0
         },
         "LEASH": {
             "_id": "LEASH",
@@ -4627,26 +4651,26 @@
         "LUXURIOUS_SPOOL": {
             "_id": "LUXURIOUS_SPOOL",
             "count": 1.0,
-            "price": 358137.86,
-            "sales": 54.0
+            "price": 348840.54333333333,
+            "sales": 55.5
         },
         "MACHINE_GUN_BOW": {
             "_id": "MACHINE_GUN_BOW",
             "count": 1.0,
-            "price": 5756.907087687415,
-            "sales": 484.0
+            "price": 4995.584507042253,
+            "sales": 494.0
         },
         "MAGICAL_WATER_BUCKET": {
             "_id": "MAGICAL_WATER_BUCKET",
             "count": 1.0,
-            "price": 14324.477379428085,
-            "sales": 511.5
+            "price": 12983.12192488263,
+            "sales": 523.5
         },
         "MAGIC_MUSHROOM_SOUP": {
             "_id": "MAGIC_MUSHROOM_SOUP",
-            "count": 61.93318495639535,
-            "price": 9879.44953670058,
-            "sales": 591.5
+            "count": 62.220859375,
+            "price": 9066.710234375001,
+            "sales": 608.0
         },
         "MAGMA_BOW": {
             "_id": "MAGMA_BOW",
@@ -4670,8 +4694,8 @@
         "MAGMA_CUBE;3": {
             "_id": "MAGMA_CUBE;3",
             "count": 1.0,
-            "price": 55091.5,
-            "sales": 14.0
+            "price": 61159.5,
+            "sales": 14.5
         },
         "MAGMA_CUBE;4": {
             "count": 1.0,
@@ -4698,8 +4722,8 @@
         "MANA_FLUX_POWER_ORB": {
             "_id": "MANA_FLUX_POWER_ORB",
             "count": 1.0,
-            "price": 2708172.4375,
-            "sales": 13.5
+            "price": 2893296.4375,
+            "sales": 14.0
         },
         "MAP": {
             "count": 1.0,
@@ -4770,46 +4794,47 @@
             "_id": "MASTIFF_BOOTS",
             "clean_price": 456533.25,
             "count": 1.0,
-            "price": 450431.9717741936,
-            "sales": 67.5
+            "price": 456068.5134408602,
+            "sales": 68.5
         },
         "MASTIFF_CHESTPLATE": {
             "_id": "MASTIFF_CHESTPLATE",
             "clean_price": 570266.1111111111,
             "count": 1.0,
-            "price": 675149.1416666666,
-            "sales": 65.0
+            "price": 628188.7666666666,
+            "sales": 66.0
         },
         "MASTIFF_HELMET": {
             "_id": "MASTIFF_HELMET",
             "clean_price": 502130.9411764706,
             "count": 1.0,
-            "price": 586893.4833333334,
-            "sales": 66.0
+            "price": 573768.4833333334,
+            "sales": 67.0
         },
         "MASTIFF_LEGGINGS": {
             "_id": "MASTIFF_LEGGINGS",
             "clean_price": 548979.8823529412,
             "count": 1.0,
-            "price": 616385.735632184,
-            "sales": 60.0
+            "price": 605979.1939655172,
+            "sales": 61.5
         },
         "MEDIUM_BACKPACK": {
             "_id": "MEDIUM_BACKPACK",
             "count": 1.0,
-            "price": 24202.42105263158,
-            "sales": 46.5
+            "price": 24032.70676691729,
+            "sales": 48.0
         },
         "MEDIUM_ENCHANTED_CHEST": {
             "_id": "MEDIUM_ENCHANTED_CHEST",
             "count": 1.175,
-            "price": 10706.9,
-            "sales": 48.0
+            "price": 10211.721428571429,
+            "sales": 48.5
         },
         "MELON_BLOCK": {
-            "count": 32.25,
-            "price": 505.5,
-            "sales": 10.0
+            "_id": "MELON_BLOCK",
+            "count": 48.125,
+            "price": 636.25,
+            "sales": 5.5
         },
         "MELON_PERSONALITY": {
             "_id": "MELON_PERSONALITY",
@@ -4834,8 +4859,8 @@
             "_id": "MIDAS_SWORD",
             "clean_price": 2953349.15,
             "count": 1.0,
-            "price": 35865168.24242424,
-            "sales": 46.5
+            "price": 31078001.159090906,
+            "sales": 47.0
         },
         "MILK_BUCKET": {
             "_id": "MILK_BUCKET",
@@ -4846,32 +4871,32 @@
         "MINER_OUTFIT_BOOTS": {
             "_id": "MINER_OUTFIT_BOOTS",
             "count": 1.0,
-            "price": 7002.791666666667,
-            "sales": 33.5
+            "price": 6715.291666666666,
+            "sales": 34.5
         },
         "MINER_OUTFIT_CHESTPLATE": {
             "_id": "MINER_OUTFIT_CHESTPLATE",
             "count": 1.0,
-            "price": 2846.4861111111113,
-            "sales": 41.0
+            "price": 3451.9861111111113,
+            "sales": 42.0
         },
         "MINER_OUTFIT_HELMET": {
             "_id": "MINER_OUTFIT_HELMET",
             "count": 1.0,
             "price": 6706.991666666667,
-            "sales": 33.5
+            "sales": 34.5
         },
         "MINER_OUTFIT_LEGGINGS": {
             "_id": "MINER_OUTFIT_LEGGINGS",
             "count": 1.0,
-            "price": 7613.40625,
-            "sales": 33.5
+            "price": 6828.78125,
+            "sales": 35.0
         },
         "MINE_TALISMAN": {
             "_id": "MINE_TALISMAN",
             "count": 1.0,
-            "price": 700334.0,
-            "sales": 12.5
+            "price": 700571.5,
+            "sales": 14.5
         },
         "MINING_1_TRAVEL_SCROLL": {
             "count": 1.0,
@@ -4885,9 +4910,10 @@
             "sales": 5.5
         },
         "MINING_2_TRAVEL_SCROLL": {
+            "_id": "MINING_2_TRAVEL_SCROLL",
             "count": 1.0,
-            "price": 65313.0,
-            "sales": 4.0
+            "price": 112031.5,
+            "sales": 3.0
         },
         "MINION_CHAIR": {
             "count": 1.0,
@@ -4897,20 +4923,20 @@
         "MINION_EXPANDER": {
             "_id": "MINION_EXPANDER",
             "count": 1.0,
-            "price": 94662.41379310345,
-            "sales": 55.5
+            "price": 93845.91379310345,
+            "sales": 56.0
         },
         "MOLTEN_CUBE": {
             "_id": "MOLTEN_CUBE",
             "count": 1.0,
-            "price": 1093.625,
-            "sales": 45.0
+            "price": 1073.2916666666667,
+            "sales": 45.5
         },
         "MONKEY;0": {
             "_id": "MONKEY;0",
             "count": 1.0,
-            "price": 74236.25757575757,
-            "sales": 23.0
+            "price": 68427.92424242424,
+            "sales": 24.0
         },
         "MONKEY;1": {
             "_id": "MONKEY;1",
@@ -5000,8 +5026,8 @@
         "NECROMANCER_BROOCH": {
             "_id": "NECROMANCER_BROOCH",
             "count": 1.0,
-            "price": 7835.621262785209,
-            "sales": 386.5
+            "price": 7706.602761836442,
+            "sales": 394.0
         },
         "NETHER_BIOME_STICK": {
             "count": 1.0,
@@ -5016,8 +5042,8 @@
         "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL": {
             "_id": "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL",
             "count": 1.0,
-            "price": 22504.64367816092,
-            "sales": 66.5
+            "price": 21886.997844827587,
+            "sales": 69.5
         },
         "NETHER_WART_ISLAND": {
             "_id": "NETHER_WART_ISLAND",
@@ -5028,8 +5054,8 @@
         "NEW_YEAR_CAKE": {
             "_id": "NEW_YEAR_CAKE",
             "count": 1.0,
-            "price": 135798.88920454547,
-            "sales": 378.0
+            "price": 143820.01420454547,
+            "sales": 384.0
         },
         "NEW_YEAR_CAKE_BAG": {
             "_id": "NEW_YEAR_CAKE_BAG",
@@ -5046,14 +5072,14 @@
         "NIGHT_VISION_CHARM": {
             "_id": "NIGHT_VISION_CHARM",
             "count": 1.0,
-            "price": 46679.4507346586,
-            "sales": 203.0
+            "price": 50796.07092696629,
+            "sales": 208.5
         },
         "NOPE_THE_FISH": {
             "_id": "NOPE_THE_FISH",
             "count": 1.0,
-            "price": 1186.4777777777779,
-            "sales": 41.5
+            "price": 1166.4027777777778,
+            "sales": 42.0
         },
         "NUTCRACKER": {
             "_id": "NUTCRACKER",
@@ -5064,15 +5090,15 @@
         "OBSIDIAN-8": {
             "_id": "OBSIDIAN-8",
             "count": 1.0,
-            "price": 900483.75,
-            "sales": 11.5
+            "price": 900477.5,
+            "sales": 12.0
         },
         "OBSIDIAN_CHESTPLATE": {
             "_id": "OBSIDIAN_CHESTPLATE",
             "clean_price": 2781.8279569892475,
             "count": 1.0,
-            "price": 32222.45819805195,
-            "sales": 263.0
+            "price": 32241.028273809527,
+            "sales": 269.0
         },
         "OCELOT;0": {
             "count": 1.0,
@@ -5093,8 +5119,8 @@
         "OCELOT;3": {
             "_id": "OCELOT;3",
             "count": 1.0,
-            "price": 671369.7222222222,
-            "sales": 39.5
+            "price": 597795.0555555555,
+            "sales": 40.0
         },
         "OCELOT;4": {
             "_id": "OCELOT;4",
@@ -5106,28 +5132,28 @@
             "_id": "OLD_DRAGON_BOOTS",
             "clean_price": 101317.57142857143,
             "count": 1.0,
-            "price": 186363.53174603175,
-            "sales": 96.5
+            "price": 186758.25396825396,
+            "sales": 98.5
         },
         "OLD_DRAGON_CHESTPLATE": {
             "_id": "OLD_DRAGON_CHESTPLATE",
             "clean_price": 100852.27272727272,
             "count": 1.0,
-            "price": 113512.87777777779,
-            "sales": 104.0
+            "price": 112870.6,
+            "sales": 106.5
         },
         "OLD_DRAGON_HELMET": {
             "_id": "OLD_DRAGON_HELMET",
             "count": 1.0,
-            "price": 108334.0625,
-            "sales": 103.5
+            "price": 107060.22222222222,
+            "sales": 105.0
         },
         "OLD_DRAGON_LEGGINGS": {
             "_id": "OLD_DRAGON_LEGGINGS",
             "clean_price": 103418.93333333333,
             "count": 1.0,
-            "price": 136165.35714285716,
-            "sales": 96.5
+            "price": 134014.2857142857,
+            "sales": 98.5
         },
         "ONYX": {
             "_id": "ONYX",
@@ -5138,15 +5164,15 @@
         "OPTICAL_LENS": {
             "_id": "OPTICAL_LENS",
             "count": 1.0,
-            "price": 893.797619047619,
-            "sales": 32.5
+            "price": 883.9642857142857,
+            "sales": 33.0
         },
         "ORNATE_ZOMBIE_SWORD": {
             "_id": "ORNATE_ZOMBIE_SWORD",
             "clean_price": 1019405.6666666666,
             "count": 1.0,
-            "price": 1062620.3766666667,
-            "sales": 58.5
+            "price": 1077995.96,
+            "sales": 60.0
         },
         "OVERFLUX_POWER_ORB": {
             "count": 1.0,
@@ -5156,8 +5182,8 @@
         "PAPER": {
             "_id": "PAPER",
             "count": 1.0,
-            "price": 343209.27777777775,
-            "sales": 19.5
+            "price": 454349.40277777775,
+            "sales": 20.5
         },
         "PARK_CAVE_TRAVEL_SCROLL": {
             "_id": "PARK_CAVE_TRAVEL_SCROLL",
@@ -5186,8 +5212,8 @@
         "PARTY_HAT_CRAB": {
             "_id": "PARTY_HAT_CRAB",
             "count": 1.0,
-            "price": 614788.4444444445,
-            "sales": 37.5
+            "price": 604258.2777777778,
+            "sales": 39.0
         },
         "PERFECT_BOOTS_1": {
             "_id": "PERFECT_BOOTS_1",
@@ -5286,8 +5312,8 @@
             "_id": "PERFECT_HELMET_1",
             "clean_price": 514333.3333333333,
             "count": 1.0,
-            "price": 506675.0,
-            "sales": 6.0
+            "price": 496425.0,
+            "sales": 6.5
         },
         "PERFECT_HELMET_12": {
             "_id": "PERFECT_HELMET_12",
@@ -5363,26 +5389,26 @@
         "PERSONAL_BANK_ITEM": {
             "_id": "PERSONAL_BANK_ITEM",
             "count": 1.0,
-            "price": 13977.183823529413,
-            "sales": 40.5
+            "price": 13101.308823529413,
+            "sales": 41.5
         },
         "PERSONAL_COMPACTOR_4000": {
             "_id": "PERSONAL_COMPACTOR_4000",
             "count": 1.0,
-            "price": 1345384.1487179487,
-            "sales": 87.0
+            "price": 1553474.4487179487,
+            "sales": 88.5
         },
         "PERSONAL_COMPACTOR_5000": {
             "_id": "PERSONAL_COMPACTOR_5000",
             "count": 1.0,
-            "price": 2549212.3333333335,
-            "sales": 17.0
+            "price": 2161379.8333333335,
+            "sales": 17.5
         },
         "PERSONAL_COMPACTOR_6000": {
             "_id": "PERSONAL_COMPACTOR_6000",
             "count": 1.0,
-            "price": 4610362.533333333,
-            "sales": 20.5
+            "price": 4571634.866666667,
+            "sales": 21.5
         },
         "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
             "_id": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
@@ -5399,8 +5425,8 @@
         "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
             "_id": "PET_ITEM_COMBAT_SKILL_BOOST_EPIC",
             "count": 1.0,
-            "price": 1611745.2083333335,
-            "sales": 15.5
+            "price": 1556985.875,
+            "sales": 16.0
         },
         "PET_ITEM_COMBAT_SKILL_BOOST_RARE": {
             "_id": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -5411,20 +5437,20 @@
         "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON": {
             "_id": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
             "count": 1.0,
-            "price": 47697.0,
-            "sales": 16.0
+            "price": 70141.91666666667,
+            "sales": 16.5
         },
         "PET_ITEM_EXP_SHARE": {
             "_id": "PET_ITEM_EXP_SHARE",
             "count": 1.0,
-            "price": 485921.55,
-            "sales": 9.5
+            "price": 545928.3,
+            "sales": 10.0
         },
         "PET_ITEM_EXP_SHARE_DROP": {
             "_id": "PET_ITEM_EXP_SHARE_DROP",
             "count": 1.0,
-            "price": 292325.3441558442,
-            "sales": 77.0
+            "price": 282559.3977272727,
+            "sales": 78.5
         },
         "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
             "count": 1.0,
@@ -5454,9 +5480,10 @@
             "sales": 3.0
         },
         "PET_ITEM_FISHING_SKILL_BOOST_RARE": {
+            "_id": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
             "count": 1.0,
-            "price": 602237.0,
-            "sales": 6.0
+            "price": 301368.5,
+            "sales": 3.5
         },
         "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON": {
             "count": 1.0,
@@ -5470,9 +5497,10 @@
             "sales": 1.0
         },
         "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
+            "_id": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
             "count": 1.0,
-            "price": 5177500.0,
-            "sales": 2.0
+            "price": 5088750.0,
+            "sales": 1.5
         },
         "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
             "count": 1.0,
@@ -5507,15 +5535,16 @@
             "sales": 1.0
         },
         "PET_ITEM_SADDLE": {
+            "_id": "PET_ITEM_SADDLE",
             "count": 1.0,
-            "price": 2322.5,
-            "sales": 6.0
+            "price": 1411.25,
+            "sales": 4.0
         },
         "PET_ITEM_TEXTBOOK": {
             "_id": "PET_ITEM_TEXTBOOK",
             "count": 1.0,
-            "price": 989385.3,
-            "sales": 7.0
+            "price": 1091291.8,
+            "sales": 7.5
         },
         "PET_ITEM_TIER_BOOST": {
             "_id": "PET_ITEM_TIER_BOOST",
@@ -5537,8 +5566,8 @@
         "PHOENIX;4": {
             "_id": "PHOENIX;4",
             "count": 1.0,
-            "price": 50000000.0,
-            "sales": 1.0
+            "price": 76160186.0,
+            "sales": 2.0
         },
         "PICNIC_SET": {
             "_id": "PICNIC_SET",
@@ -5554,13 +5583,14 @@
         "PIG;0": {
             "_id": "PIG;0",
             "count": 1.0,
-            "price": 5672.5,
-            "sales": 8.5
+            "price": 5310.0,
+            "sales": 9.0
         },
         "PIG;1": {
+            "_id": "PIG;1",
             "count": 1.0,
-            "price": 3691.6666666666665,
-            "sales": 11.0
+            "price": 2176.333333333333,
+            "sales": 6.0
         },
         "PIG;2": {
             "_id": "PIG;2",
@@ -5571,8 +5601,8 @@
         "PIG;3": {
             "_id": "PIG;3",
             "count": 1.0,
-            "price": 402898.5,
-            "sales": 11.5
+            "price": 43065.5,
+            "sales": 12.5
         },
         "PIG;4": {
             "_id": "PIG;4",
@@ -5583,14 +5613,14 @@
         "PIGGY_BANK": {
             "_id": "PIGGY_BANK",
             "count": 1.0,
-            "price": 189075.6,
-            "sales": 51.0
+            "price": 186204.33333333334,
+            "sales": 52.5
         },
         "PIGMAN;3": {
             "_id": "PIGMAN;3",
             "count": 1.0,
-            "price": 453307.65,
-            "sales": 11.5
+            "price": 527112.7333333333,
+            "sales": 12.0
         },
         "PIGMAN;4": {
             "_id": "PIGMAN;4",
@@ -5602,14 +5632,14 @@
             "_id": "PIGMAN_SWORD",
             "clean_price": 20721961.17647059,
             "count": 1.0,
-            "price": 20796803.86875,
-            "sales": 39.5
+            "price": 20972269.635416664,
+            "sales": 41.0
         },
         "PIGS_FOOT": {
             "_id": "PIGS_FOOT",
             "count": 1.0,
-            "price": 258983.5625,
-            "sales": 34.5
+            "price": 264929.5625,
+            "sales": 35.0
         },
         "PISTON_BASE": {
             "count": 61.0,
@@ -5629,9 +5659,9 @@
         },
         "POISONOUS_POTATO": {
             "_id": "POISONOUS_POTATO",
-            "count": 29.433333333333334,
-            "price": 165.05,
-            "sales": 68.5
+            "count": 29.733333333333334,
+            "price": 147.05,
+            "sales": 69.5
         },
         "POLISHED_PEBBLE": {
             "_id": "POLISHED_PEBBLE",
@@ -5648,20 +5678,20 @@
         "POOCH_SWORD": {
             "_id": "POOCH_SWORD",
             "count": 1.0,
-            "price": 2857013.1,
-            "sales": 19.5
+            "price": 3002999.6,
+            "sales": 20.0
         },
         "POTATO_TALISMAN": {
             "_id": "POTATO_TALISMAN",
             "count": 1.0,
-            "price": 640303.5579710145,
-            "sales": 53.5
+            "price": 623345.2246376812,
+            "sales": 54.5
         },
         "POTION": {
             "_id": "POTION",
             "count": 1.0,
-            "price": 100077.11264822134,
-            "sales": 1715.5
+            "price": 93153.96879795396,
+            "sales": 1730.5
         },
         "POTION_AFFINITY_TALISMAN": {
             "_id": "POTION_AFFINITY_TALISMAN",
@@ -5683,8 +5713,8 @@
         "PRESENTS": {
             "_id": "PRESENTS",
             "count": 1.0,
-            "price": 2558.0,
-            "sales": 2.5
+            "price": 2550.0,
+            "sales": 3.0
         },
         "PRISMARINE": {
             "count": 24.5,
@@ -5701,8 +5731,8 @@
             "_id": "PRISMARINE_BLADE",
             "clean_price": 2155.866666666667,
             "count": 1.0,
-            "price": 2359.5833333333335,
-            "sales": 14.0
+            "price": 3093.3333333333335,
+            "sales": 14.5
         },
         "PRISMARINE_BOW": {
             "_id": "PRISMARINE_BOW",
@@ -5733,8 +5763,8 @@
             "_id": "PROMISING_PICKAXE",
             "clean_price": 868857.4,
             "count": 1.0,
-            "price": 81.45,
-            "sales": 14.5
+            "price": 74.7,
+            "sales": 15.0
         },
         "PROMISING_SPADE": {
             "_id": "PROMISING_SPADE",
@@ -5752,29 +5782,29 @@
             "_id": "PROTECTOR_DRAGON_BOOTS",
             "clean_price": 100585.3448275862,
             "count": 1.0,
-            "price": 108129.3103448276,
-            "sales": 65.5
+            "price": 120232.72701149425,
+            "sales": 67.5
         },
         "PROTECTOR_DRAGON_CHESTPLATE": {
             "_id": "PROTECTOR_DRAGON_CHESTPLATE",
             "clean_price": 100000.0,
             "count": 1.0,
-            "price": 122953.17647058824,
-            "sales": 76.0
+            "price": 114829.64075630251,
+            "sales": 77.5
         },
         "PROTECTOR_DRAGON_HELMET": {
             "_id": "PROTECTOR_DRAGON_HELMET",
             "clean_price": 98200.0,
             "count": 1.0,
-            "price": 116471.44360902256,
-            "sales": 85.5
+            "price": 115410.22039473684,
+            "sales": 87.0
         },
         "PROTECTOR_DRAGON_LEGGINGS": {
             "_id": "PROTECTOR_DRAGON_LEGGINGS",
             "clean_price": 99458.04761904762,
             "count": 1.0,
-            "price": 117542.0303030303,
-            "sales": 76.5
+            "price": 112579.98863636365,
+            "sales": 78.5
         },
         "PUFFERFISH_HAT": {
             "_id": "PUFFERFISH_HAT",
@@ -5809,8 +5839,8 @@
         "PUMPKIN_SEEDS": {
             "_id": "PUMPKIN_SEEDS",
             "count": 1.5,
-            "price": 79856.25,
-            "sales": 4.0
+            "price": 17373.5,
+            "sales": 6.0
         },
         "QUARTZ_BLOCK": {
             "count": 57.0,
@@ -5830,26 +5860,26 @@
         "RABBIT;0": {
             "_id": "RABBIT;0",
             "count": 1.0,
-            "price": 2519.5833333333335,
-            "sales": 46.5
+            "price": 822.8333333333333,
+            "sales": 48.5
         },
         "RABBIT;1": {
             "_id": "RABBIT;1",
             "count": 1.0,
-            "price": 2099.5,
-            "sales": 35.0
+            "price": 4400.0,
+            "sales": 35.5
         },
         "RABBIT;2": {
             "_id": "RABBIT;2",
             "count": 1.0,
-            "price": 10458.020833333334,
-            "sales": 34.5
+            "price": 9780.854166666666,
+            "sales": 35.5
         },
         "RABBIT;3": {
             "_id": "RABBIT;3",
             "count": 1.0,
-            "price": 123660.83783783784,
-            "sales": 79.0
+            "price": 102913.21283783784,
+            "sales": 79.5
         },
         "RABBIT;4": {
             "_id": "RABBIT;4",
@@ -5866,14 +5896,14 @@
         "RADIANT_POWER_ORB": {
             "_id": "RADIANT_POWER_ORB",
             "count": 1.0,
-            "price": 7360.15625,
-            "sales": 36.5
+            "price": 13778.75625,
+            "sales": 37.5
         },
         "RAIDER_AXE": {
             "_id": "RAIDER_AXE",
             "count": 1.0,
-            "price": 322657.7625316456,
-            "sales": 360.5
+            "price": 317562.5102239533,
+            "sales": 365.0
         },
         "RAILS": {
             "count": 1.0,
@@ -5888,8 +5918,8 @@
         "RARE_DIAMOND": {
             "_id": "RARE_DIAMOND",
             "count": 1.0,
-            "price": 881.3210784313726,
-            "sales": 241.0
+            "price": 830.5037707390647,
+            "sales": 251.0
         },
         "REAPER_MASK": {
             "_id": "REAPER_MASK",
@@ -5909,21 +5939,21 @@
             "_id": "REAPER_SWORD",
             "clean_price": 4472219.6,
             "count": 1.0,
-            "price": 3268098.573529412,
-            "sales": 34.5
+            "price": 3353548.656862745,
+            "sales": 35.0
         },
         "RECLUSE_FANG": {
             "_id": "RECLUSE_FANG",
             "clean_price": 2933.4761904761904,
             "count": 1.0,
-            "price": 34025.48684210526,
-            "sales": 83.0
+            "price": 40180.48684210526,
+            "sales": 84.0
         },
         "RECOMBOBULATOR_3000": {
             "_id": "RECOMBOBULATOR_3000",
             "count": 1.0,
-            "price": 5765390.075268817,
-            "sales": 69.5
+            "price": 5740112.325268817,
+            "sales": 70.5
         },
         "RECORD_10": {
             "_id": "RECORD_10",
@@ -5933,9 +5963,9 @@
         },
         "RECORD_11": {
             "_id": "RECORD_11",
-            "count": 1.25,
-            "price": 15015.0,
-            "sales": 3.0
+            "count": 1.0,
+            "price": 27505.0,
+            "sales": 3.5
         },
         "RECORD_12": {
             "_id": "RECORD_12",
@@ -5964,14 +5994,14 @@
         "RECORD_6": {
             "_id": "RECORD_6",
             "count": 1.0,
-            "price": 1268.0,
-            "sales": 2.5
+            "price": 23.0,
+            "sales": 3.0
         },
         "RECORD_7": {
             "_id": "RECORD_7",
             "count": 1.0,
-            "price": 2508.5,
-            "sales": 4.5
+            "price": 1263.5,
+            "sales": 5.0
         },
         "RECORD_8": {
             "_id": "RECORD_8",
@@ -5982,19 +6012,20 @@
         "RECORD_9": {
             "_id": "RECORD_9",
             "count": 1.0,
-            "price": 20.0,
-            "sales": 3.0
+            "price": 183.33333333333334,
+            "sales": 4.0
         },
         "REDSTONE_BLOCK": {
             "_id": "REDSTONE_BLOCK",
             "count": 60.57142857142857,
-            "price": 1879.7142857142858,
-            "sales": 13.5
+            "price": 2139.464285714286,
+            "sales": 18.5
         },
         "REDSTONE_CHEST": {
+            "_id": "REDSTONE_CHEST",
             "count": 1.0,
-            "price": 744.0,
-            "sales": 2.0
+            "price": 659.5,
+            "sales": 1.5
         },
         "RED_CLAW_ARTIFACT": {
             "_id": "RED_CLAW_ARTIFACT",
@@ -6016,20 +6047,20 @@
         "RED_CLAW_TALISMAN": {
             "_id": "RED_CLAW_TALISMAN",
             "count": 1.0,
-            "price": 9573.5,
-            "sales": 41.0
+            "price": 8361.375,
+            "sales": 42.0
         },
         "RED_NOSE": {
             "_id": "RED_NOSE",
             "count": 1.0,
-            "price": 167101.35,
-            "sales": 40.5
+            "price": 125448.225,
+            "sales": 42.5
         },
         "RED_ROSE": {
             "_id": "RED_ROSE",
             "count": 1.0,
             "price": 201396.0,
-            "sales": 20.0
+            "sales": 21.0
         },
         "RED_ROSE-1": {
             "_id": "RED_ROSE-1",
@@ -6103,8 +6134,8 @@
         "REMNANT_OF_THE_EYE": {
             "_id": "REMNANT_OF_THE_EYE",
             "count": 1.0,
-            "price": 116294.95806451613,
-            "sales": 221.5
+            "price": 115758.07624633431,
+            "sales": 225.5
         },
         "REPELLING_CANDLE": {
             "_id": "REPELLING_CANDLE",
@@ -6126,47 +6157,47 @@
             "_id": "REVENANT_BOOTS",
             "clean_price": 17147.869565217392,
             "count": 1.0,
-            "price": 76606.38787878788,
-            "sales": 69.0
+            "price": 65734.70454545454,
+            "sales": 71.5
         },
         "REVENANT_CATALYST": {
             "_id": "REVENANT_CATALYST",
             "count": 1.0,
-            "price": 1691.5,
-            "sales": 32.5
+            "price": 1704.0,
+            "sales": 33.5
         },
         "REVENANT_CHESTPLATE": {
             "_id": "REVENANT_CHESTPLATE",
             "clean_price": 1223265.1333333333,
             "count": 1.0,
-            "price": 1137725.4607843137,
-            "sales": 35.0
+            "price": 1118111.994117647,
+            "sales": 37.0
         },
         "REVENANT_LEGGINGS": {
             "_id": "REVENANT_LEGGINGS",
             "clean_price": 25580.375,
             "count": 1.0,
-            "price": 42631.17647058824,
-            "sales": 74.0
+            "price": 64413.89075630253,
+            "sales": 76.5
         },
         "REVENANT_SWORD": {
             "_id": "REVENANT_SWORD",
             "clean_price": 404412.1176470588,
             "count": 1.0,
-            "price": 622726.3458333333,
-            "sales": 53.5
+            "price": 659645.5625,
+            "sales": 56.0
         },
         "REVIVED_HEART": {
             "_id": "REVIVED_HEART",
             "count": 1.0,
-            "price": 2652524.5,
-            "sales": 5.0
+            "price": 3364560.75,
+            "sales": 5.5
         },
         "RING_POTION_AFFINITY": {
             "_id": "RING_POTION_AFFINITY",
             "count": 1.0,
-            "price": 73252.4,
-            "sales": 41.0
+            "price": 56279.9,
+            "sales": 41.5
         },
         "ROCK;0": {
             "_id": "ROCK;0",
@@ -6194,8 +6225,8 @@
             "_id": "ROGUE_SWORD",
             "clean_price": 1714.3142857142857,
             "count": 1.0,
-            "price": 33875.0306122449,
-            "sales": 107.0
+            "price": 26949.27168367347,
+            "sales": 108.5
         },
         "ROOFED_FOREST_ISLAND": {
             "_id": "ROOFED_FOREST_ISLAND",
@@ -6213,8 +6244,8 @@
             "_id": "ROOKIE_HOE",
             "clean_price": 33082.739130434784,
             "count": 1.0,
-            "price": 894608.1770833333,
-            "sales": 35.5
+            "price": 790359.09375,
+            "sales": 36.0
         },
         "ROOKIE_PICKAXE": {
             "_id": "ROOKIE_PICKAXE",
@@ -6225,39 +6256,39 @@
         "ROTTEN_BOOTS": {
             "_id": "ROTTEN_BOOTS",
             "count": 1.0,
-            "price": 70191.94162826422,
-            "sales": 226.0
+            "price": 70156.03997194952,
+            "sales": 229.0
         },
         "ROTTEN_CHESTPLATE": {
             "_id": "ROTTEN_CHESTPLATE",
             "count": 1.0,
-            "price": 4033.9275103980985,
-            "sales": 230.0
+            "price": 3483.8210678210676,
+            "sales": 237.0
         },
         "ROTTEN_HELMET": {
             "_id": "ROTTEN_HELMET",
             "count": 1.0,
-            "price": 1429.8224893917964,
-            "sales": 240.0
+            "price": 1619.4445132013202,
+            "sales": 244.5
         },
         "ROTTEN_LEGGINGS": {
             "_id": "ROTTEN_LEGGINGS",
             "count": 1.0,
-            "price": 1213.8026315789473,
-            "sales": 202.5
+            "price": 1195.7763157894738,
+            "sales": 205.5
         },
         "RUNAANS_BOW": {
             "_id": "RUNAANS_BOW",
             "clean_price": 377434.25925925927,
             "count": 1.0,
-            "price": 1032468.934375,
-            "sales": 349.5
+            "price": 1217363.6593749998,
+            "sales": 356.0
         },
         "RUNE": {
             "_id": "RUNE",
             "count": 1.0,
-            "price": 48572.34593837535,
-            "sales": 930.5
+            "price": 70410.91774891775,
+            "sales": 946.0
         },
         "SADDLE": {
             "count": 1.0,
@@ -6290,8 +6321,8 @@
         "SANTA_PERSONALITY": {
             "_id": "SANTA_PERSONALITY",
             "count": 1.0,
-            "price": 5676.642857142857,
-            "sales": 13.0
+            "price": 3820.392857142857,
+            "sales": 13.5
         },
         "SAPLING": {
             "_id": "SAPLING",
@@ -6340,8 +6371,8 @@
         "SCARF_STUDIES": {
             "_id": "SCARF_STUDIES",
             "count": 1.0,
-            "price": 831528.1553571429,
-            "sales": 184.0
+            "price": 844369.8066176471,
+            "sales": 189.5
         },
         "SCARF_THESIS": {
             "_id": "SCARF_THESIS",
@@ -6357,15 +6388,15 @@
         "SCAVENGER_TALISMAN": {
             "_id": "SCAVENGER_TALISMAN",
             "count": 1.0,
-            "price": 3601.75,
-            "sales": 7.5
+            "price": 5139.0,
+            "sales": 8.0
         },
         "SCORPION_BOW": {
             "_id": "SCORPION_BOW",
             "clean_price": 3116355.75,
             "count": 1.0,
-            "price": 2742354.25,
-            "sales": 6.0
+            "price": 2217354.25,
+            "sales": 6.5
         },
         "SCORPION_FOIL": {
             "_id": "SCORPION_FOIL",
@@ -6382,8 +6413,8 @@
         "SCYTHE_BLADE": {
             "_id": "SCYTHE_BLADE",
             "count": 1.0,
-            "price": 1934480.75,
-            "sales": 2.5
+            "price": 2060716.25,
+            "sales": 3.0
         },
         "SEAL_OF_THE_FAMILY": {
             "_id": "SEAL_OF_THE_FAMILY",
@@ -6394,8 +6425,8 @@
         "SEA_CREATURE_ARTIFACT": {
             "_id": "SEA_CREATURE_ARTIFACT",
             "count": 1.0,
-            "price": 416831.9,
-            "sales": 18.5
+            "price": 386581.9,
+            "sales": 19.0
         },
         "SEA_CREATURE_RING": {
             "_id": "SEA_CREATURE_RING",
@@ -6406,8 +6437,8 @@
         "SEA_CREATURE_TALISMAN": {
             "_id": "SEA_CREATURE_TALISMAN",
             "count": 1.0,
-            "price": 58126.75,
-            "sales": 39.5
+            "price": 49024.375,
+            "sales": 41.0
         },
         "SEA_LANTERN": {
             "_id": "SEA_LANTERN",
@@ -6430,8 +6461,8 @@
             "_id": "SHAMAN_SWORD",
             "clean_price": 34966.52631578947,
             "count": 1.0,
-            "price": 293726.6785714286,
-            "sales": 63.5
+            "price": 287260.45238095237,
+            "sales": 64.0
         },
         "SHARPNESS": {
             "count": 1.0,
@@ -6451,14 +6482,14 @@
         "SHEEP;3": {
             "_id": "SHEEP;3",
             "count": 1.0,
-            "price": 744305.5126984126,
-            "sales": 130.0
+            "price": 680649.2876984128,
+            "sales": 130.5
         },
         "SHEEP;4": {
             "_id": "SHEEP;4",
             "count": 1.0,
-            "price": 11752457.891666666,
-            "sales": 64.0
+            "price": 12267250.266666666,
+            "sales": 65.5
         },
         "SHRIMP_THE_FISH": {
             "count": 1.0,
@@ -6479,15 +6510,15 @@
         },
         "SILENT_PEARL": {
             "_id": "SILENT_PEARL",
-            "count": 10.666666666666668,
-            "price": 1693.75,
-            "sales": 11.0
+            "count": 8.666666666666668,
+            "price": 1347.0,
+            "sales": 11.5
         },
         "SILKY_LICHEN": {
             "_id": "SILKY_LICHEN",
             "count": 1.0,
-            "price": 1013.4166666666666,
-            "sales": 11.5
+            "price": 4347.583333333333,
+            "sales": 12.5
         },
         "SILK_EDGE_SWORD": {
             "count": 1.0,
@@ -6507,8 +6538,8 @@
         "SILVERFISH;1": {
             "_id": "SILVERFISH;1",
             "count": 1.0,
-            "price": 3423.4375,
-            "sales": 15.5
+            "price": 3717.1875,
+            "sales": 16.0
         },
         "SILVERFISH;2": {
             "_id": "SILVERFISH;2",
@@ -6519,21 +6550,21 @@
         "SILVERFISH;3": {
             "_id": "SILVERFISH;3",
             "count": 1.0,
-            "price": 71813.81395348837,
-            "sales": 93.0
+            "price": 77301.06395348837,
+            "sales": 93.5
         },
         "SILVERFISH;4": {
             "_id": "SILVERFISH;4",
             "count": 1.0,
-            "price": 1123098.1071428573,
-            "sales": 30.0
+            "price": 1338623.4404761905,
+            "sales": 30.5
         },
         "SILVER_FANG": {
             "_id": "SILVER_FANG",
             "clean_price": 8225.951219512195,
             "count": 1.0,
-            "price": 16171.735714285714,
-            "sales": 336.0
+            "price": 17680.409956709955,
+            "sales": 345.5
         },
         "SIMPLE_CARROT_CANDY": {
             "_id": "SIMPLE_CARROT_CANDY",
@@ -6567,32 +6598,32 @@
         "SKELETON;4": {
             "_id": "SKELETON;4",
             "count": 1.0,
-            "price": 1379337.0277777778,
-            "sales": 36.5
+            "price": 1337313.9444444445,
+            "sales": 37.0
         },
         "SKELETON_GRUNT_BOOTS": {
             "_id": "SKELETON_GRUNT_BOOTS",
             "count": 1.0,
-            "price": 4848.424698795181,
-            "sales": 188.5
+            "price": 4889.741365461848,
+            "sales": 191.0
         },
         "SKELETON_GRUNT_CHESTPLATE": {
             "_id": "SKELETON_GRUNT_CHESTPLATE",
             "count": 1.0,
-            "price": 5138.677083333333,
-            "sales": 218.0
+            "price": 5160.020833333333,
+            "sales": 220.0
         },
         "SKELETON_GRUNT_HELMET": {
             "_id": "SKELETON_GRUNT_HELMET",
             "count": 1.0,
-            "price": 3121.6622807017548,
-            "sales": 175.0
+            "price": 3338.7289473684214,
+            "sales": 178.5
         },
         "SKELETON_GRUNT_LEGGINGS": {
             "_id": "SKELETON_GRUNT_LEGGINGS",
             "count": 1.0,
-            "price": 9329.204471544715,
-            "sales": 191.5
+            "price": 9154.612804878048,
+            "sales": 193.0
         },
         "SKELETON_HAT": {
             "_id": "SKELETON_HAT",
@@ -6604,8 +6635,8 @@
             "_id": "SKELETON_HELMET",
             "clean_price": 144695.86666666667,
             "count": 1.0,
-            "price": 142275.3076923077,
-            "sales": 27.5
+            "price": 131181.3076923077,
+            "sales": 28.0
         },
         "SKELETON_HORSE;4": {
             "count": 1.0,
@@ -6615,56 +6646,56 @@
         "SKELETON_MASTER_BOOTS": {
             "_id": "SKELETON_MASTER_BOOTS",
             "count": 1.0,
-            "price": 168521.78260869565,
-            "sales": 48.0
+            "price": 168472.15760869565,
+            "sales": 48.5
         },
         "SKELETON_MASTER_CHESTPLATE": {
             "_id": "SKELETON_MASTER_CHESTPLATE",
             "count": 1.0,
             "price": 255069.08695652173,
-            "sales": 51.0
+            "sales": 52.0
         },
         "SKELETON_MASTER_HELMET": {
             "_id": "SKELETON_MASTER_HELMET",
             "count": 1.0,
-            "price": 227058.4347826087,
-            "sales": 46.5
+            "price": 538466.8347826088,
+            "sales": 49.0
         },
         "SKELETON_MASTER_LEGGINGS": {
             "_id": "SKELETON_MASTER_LEGGINGS",
             "count": 1.0,
-            "price": 477605.0108695652,
-            "sales": 47.5
+            "price": 563055.9275362319,
+            "sales": 48.0
         },
         "SKELETON_SOLDIER_BOOTS": {
             "_id": "SKELETON_SOLDIER_BOOTS",
             "count": 1.0,
-            "price": 22943.8441025641,
-            "sales": 172.0
+            "price": 17710.077619047617,
+            "sales": 177.5
         },
         "SKELETON_SOLDIER_CHESTPLATE": {
             "_id": "SKELETON_SOLDIER_CHESTPLATE",
             "count": 1.0,
-            "price": 15407.895042194094,
-            "sales": 179.5
+            "price": 14599.86528028933,
+            "sales": 182.5
         },
         "SKELETON_SOLDIER_HELMET": {
             "_id": "SKELETON_SOLDIER_HELMET",
             "count": 1.0,
-            "price": 6825.2390625,
-            "sales": 144.0
+            "price": 7368.9140625,
+            "sales": 147.0
         },
         "SKELETON_SOLDIER_LEGGINGS": {
             "_id": "SKELETON_SOLDIER_LEGGINGS",
             "count": 1.0,
-            "price": 6967.919053549191,
-            "sales": 161.0
+            "price": 6679.048923679061,
+            "sales": 167.5
         },
         "SKELETON_TALISMAN": {
             "_id": "SKELETON_TALISMAN",
             "count": 1.0,
-            "price": 987.25,
-            "sales": 12.5
+            "price": 1345.5833333333333,
+            "sales": 14.5
         },
         "SKELETOR_BOOTS": {
             "_id": "SKELETOR_BOOTS",
@@ -6692,8 +6723,8 @@
         "SKULL_ITEM-3": {
             "_id": "SKULL_ITEM-3",
             "count": 1.0,
-            "price": 4778.0,
-            "sales": 21.0
+            "price": 2111.333333333333,
+            "sales": 21.5
         },
         "SKYBLOCK_CHAIR": {
             "_id": "SKYBLOCK_CHAIR",
@@ -6726,9 +6757,9 @@
         },
         "SMALL_ENCHANTED_CHEST": {
             "_id": "SMALL_ENCHANTED_CHEST",
-            "count": 2.0416666666666665,
-            "price": 4605.041666666666,
-            "sales": 28.0
+            "count": 3.6666666666666665,
+            "price": 4093.7916666666665,
+            "sales": 29.0
         },
         "SMALL_XTREE": {
             "count": 1.0,
@@ -6768,9 +6799,10 @@
             "sales": 1.0
         },
         "SMOOTH_BRICK-8": {
+            "_id": "SMOOTH_BRICK-8",
             "count": 1.0,
-            "price": 12475.0,
-            "sales": 6.0
+            "price": 7248.0,
+            "sales": 3.5
         },
         "SMOOTH_BRICK-9": {
             "count": 1.0,
@@ -6785,14 +6817,14 @@
         "SNIPER_BOW": {
             "_id": "SNIPER_BOW",
             "count": 1.0,
-            "price": 1795.608695652174,
-            "sales": 47.0
+            "price": 1831.2753623188407,
+            "sales": 48.0
         },
         "SNIPER_HELMET": {
             "_id": "SNIPER_HELMET",
             "count": 1.0,
-            "price": 7339.460227272728,
-            "sales": 101.0
+            "price": 7772.272727272728,
+            "sales": 101.5
         },
         "SNOW": {
             "_id": "SNOW",
@@ -6820,47 +6852,53 @@
         "SNOW_CANNON": {
             "_id": "SNOW_CANNON",
             "count": 1.0,
-            "price": 134.375,
-            "sales": 15.5
+            "price": 381.875,
+            "sales": 16.0
         },
         "SNOW_SUIT_BOOTS": {
             "_id": "SNOW_SUIT_BOOTS",
             "count": 1.0,
-            "price": 32339.049019607846,
-            "sales": 34.0
+            "price": 31927.882352941175,
+            "sales": 34.5
         },
         "SNOW_SUIT_CHESTPLATE": {
             "_id": "SNOW_SUIT_CHESTPLATE",
             "clean_price": 2610.0,
             "count": 1.0,
-            "price": 10909.825,
-            "sales": 64.0
+            "price": 11693.25,
+            "sales": 65.5
         },
         "SNOW_SUIT_HELMET": {
             "_id": "SNOW_SUIT_HELMET",
             "clean_price": 6055.448275862069,
             "count": 1.0,
-            "price": 29533.684523809523,
-            "sales": 43.5
+            "price": 19051.434523809523,
+            "sales": 45.5
         },
         "SNOW_SUIT_LEGGINGS": {
             "_id": "SNOW_SUIT_LEGGINGS",
             "clean_price": 1037.5,
             "count": 1.0,
-            "price": 3804.25,
-            "sales": 62.0
+            "price": 3782.95,
+            "sales": 63.5
         },
         "SOLAR_PANEL": {
             "_id": "SOLAR_PANEL",
             "count": 1.0,
-            "price": 295331.0833333333,
-            "sales": 37.0
+            "price": 256997.75,
+            "sales": 37.5
         },
         "SOUL_SAND": {
             "_id": "SOUL_SAND",
-            "count": 62.02195121951219,
-            "price": 3589.839024390244,
-            "sales": 97.5
+            "count": 63.6219512195122,
+            "price": 3537.539024390244,
+            "sales": 99.5
+        },
+        "SPECKLED_MELON": {
+            "_id": "SPECKLED_MELON",
+            "count": 64.0,
+            "price": 224.0,
+            "sales": 1.0
         },
         "SPEEDSTER_BOOTS": {
             "_id": "SPEEDSTER_BOOTS",
@@ -6905,14 +6943,14 @@
         "SPEED_RING": {
             "_id": "SPEED_RING",
             "count": 1.0,
-            "price": 75845.25,
-            "sales": 12.5
+            "price": 72396.25,
+            "sales": 13.0
         },
         "SPEED_TALISMAN": {
             "_id": "SPEED_TALISMAN",
             "count": 1.0,
-            "price": 2953.1449275362315,
-            "sales": 49.0
+            "price": 8093.728260869565,
+            "sales": 50.5
         },
         "SPIDER;3": {
             "count": 1.0,
@@ -6928,8 +6966,8 @@
         "SPIDERS_DEN_TOP_TRAVEL_SCROLL": {
             "_id": "SPIDERS_DEN_TOP_TRAVEL_SCROLL",
             "count": 1.0,
-            "price": 16269.033333333333,
-            "sales": 68.0
+            "price": 19445.271428571432,
+            "sales": 69.5
         },
         "SPIDER_ARTIFACT": {
             "_id": "SPIDER_ARTIFACT",
@@ -6942,38 +6980,38 @@
             "clean_price": 146404.47368421053,
             "count": 1.0,
             "price": 195806.48076923075,
-            "sales": 27.5
+            "sales": 28.5
         },
         "SPIDER_CATALYST": {
             "_id": "SPIDER_CATALYST",
             "count": 1.0,
-            "price": 18870.825,
-            "sales": 44.0
+            "price": 18861.45,
+            "sales": 45.0
         },
         "SPIDER_HAT": {
             "_id": "SPIDER_HAT",
             "count": 1.0,
             "price": 8763.5,
-            "sales": 9.0
+            "sales": 9.5
         },
         "SPIDER_RING": {
             "_id": "SPIDER_RING",
             "count": 1.0,
-            "price": 125862.79444444444,
-            "sales": 41.5
+            "price": 120194.56944444444,
+            "sales": 42.0
         },
         "SPIDER_SWORD": {
             "_id": "SPIDER_SWORD",
             "clean_price": 59.77777777777778,
             "count": 1.0,
-            "price": 1075.3333333333333,
-            "sales": 16.5
+            "price": 1436.75,
+            "sales": 17.0
         },
         "SPIDER_TALISMAN": {
             "_id": "SPIDER_TALISMAN",
             "count": 1.0,
-            "price": 91452.90476190476,
-            "sales": 189.5
+            "price": 92410.65037593985,
+            "sales": 191.0
         },
         "SPIKED_HOOK": {
             "count": 1.0,
@@ -6982,9 +7020,9 @@
         },
         "SPIRIT_LEAP": {
             "_id": "SPIRIT_LEAP",
-            "count": 11.62962962962963,
-            "price": 10041.444444444445,
-            "sales": 116.0
+            "count": 11.796296296296296,
+            "price": 10270.611111111111,
+            "sales": 117.0
         },
         "SPIRIT_MASK": {
             "_id": "SPIRIT_MASK",
@@ -7031,7 +7069,7 @@
             "_id": "SPOOKY_PIE",
             "count": 1.0,
             "price": 4638.71875,
-            "sales": 30.5
+            "sales": 31.0
         },
         "SPOOKY_SHARD": {
             "_id": "SPOOKY_SHARD",
@@ -7153,8 +7191,8 @@
         "STICK": {
             "_id": "STICK",
             "count": 1.0,
-            "price": 61476.13333333333,
-            "sales": 24.0
+            "price": 67642.41666666667,
+            "sales": 25.5
         },
         "STONE": {
             "_id": "STONE",
@@ -7181,8 +7219,8 @@
             "_id": "STONE_BLADE",
             "clean_price": 1614860.2,
             "count": 1.0,
-            "price": 2927753.3909090906,
-            "sales": 118.0
+            "price": 2803465.605194805,
+            "sales": 121.0
         },
         "STONE_BUTTON": {
             "count": 1.0,
@@ -7192,8 +7230,8 @@
         "STONE_CHESTPLATE": {
             "_id": "STONE_CHESTPLATE",
             "count": 1.0,
-            "price": 1590.5,
-            "sales": 8.5
+            "price": 1690.75,
+            "sales": 9.0
         },
         "STONE_HOE": {
             "_id": "STONE_HOE",
@@ -7234,29 +7272,29 @@
             "_id": "STRONG_DRAGON_BOOTS",
             "clean_price": 577775.9615384615,
             "count": 1.0,
-            "price": 615424.975877193,
-            "sales": 250.0
+            "price": 597022.3627819549,
+            "sales": 256.0
         },
         "STRONG_DRAGON_CHESTPLATE": {
             "_id": "STRONG_DRAGON_CHESTPLATE",
             "clean_price": 838403.1428571428,
             "count": 1.0,
-            "price": 859567.063034188,
-            "sales": 257.5
+            "price": 952976.6642246642,
+            "sales": 261.5
         },
         "STRONG_DRAGON_HELMET": {
             "_id": "STRONG_DRAGON_HELMET",
             "clean_price": 638930.3902439025,
             "count": 1.0,
-            "price": 669900.537962963,
-            "sales": 240.5
+            "price": 673738.1817129629,
+            "sales": 244.0
         },
         "STRONG_DRAGON_LEGGINGS": {
             "_id": "STRONG_DRAGON_LEGGINGS",
             "clean_price": 961239.4074074074,
             "count": 1.0,
-            "price": 1005516.592409241,
-            "sales": 224.5
+            "price": 1027419.3590759076,
+            "sales": 228.0
         },
         "SUGAR_RUSH": {
             "count": 1.0,
@@ -7285,8 +7323,8 @@
             "_id": "SUPERIOR_DRAGON_BOOTS",
             "clean_price": 9921781.647058824,
             "count": 1.0,
-            "price": 12001847.327838827,
-            "sales": 87.0
+            "price": 12213147.756410256,
+            "sales": 87.5
         },
         "SUPERIOR_DRAGON_CHESTPLATE": {
             "_id": "SUPERIOR_DRAGON_CHESTPLATE",
@@ -7312,8 +7350,8 @@
         "SUPER_CLEAVER": {
             "_id": "SUPER_CLEAVER",
             "count": 1.0,
-            "price": 40706.28571428571,
-            "sales": 14.5
+            "price": 19400.285714285714,
+            "sales": 15.0
         },
         "SUPER_COMPACTOR_3000": {
             "count": 1.0,
@@ -7342,15 +7380,15 @@
             "_id": "SWEET_AXE",
             "clean_price": 2088260.5882352942,
             "count": 1.0,
-            "price": 3380.0,
-            "sales": 12.0
+            "price": 3621.25,
+            "sales": 13.0
         },
         "TACTICIAN_SWORD": {
             "_id": "TACTICIAN_SWORD",
             "clean_price": 6029.166666666667,
             "count": 1.0,
-            "price": 464948.7125,
-            "sales": 91.0
+            "price": 479006.3652777778,
+            "sales": 94.5
         },
         "TAIGA_BIOME_STICK": {
             "_id": "TAIGA_BIOME_STICK",
@@ -7362,29 +7400,29 @@
             "_id": "TANK_MINER_BOOTS",
             "clean_price": 657.8666666666667,
             "count": 1.0,
-            "price": 1028.5005060728745,
-            "sales": 172.5
+            "price": 953.6928137651822,
+            "sales": 174.5
         },
         "TANK_MINER_CHESTPLATE": {
             "_id": "TANK_MINER_CHESTPLATE",
             "clean_price": 1027.611111111111,
             "count": 1.0,
-            "price": 1277.620987654321,
-            "sales": 190.0
+            "price": 1212.8405954974583,
+            "sales": 193.0
         },
         "TANK_MINER_HELMET": {
             "_id": "TANK_MINER_HELMET",
             "clean_price": 628.3235294117648,
             "count": 1.0,
-            "price": 856.9013157894736,
-            "sales": 174.0
+            "price": 826.5263157894736,
+            "sales": 176.0
         },
         "TANK_MINER_LEGGINGS": {
             "_id": "TANK_MINER_LEGGINGS",
             "clean_price": 445.09090909090907,
             "count": 1.0,
-            "price": 1150.7825342465753,
-            "sales": 174.5
+            "price": 1718.6853120243532,
+            "sales": 179.5
         },
         "TARANTULA;3": {
             "_id": "TARANTULA;3",
@@ -7396,35 +7434,35 @@
             "_id": "TARANTULA_BOOTS",
             "clean_price": 521258.5333333333,
             "count": 1.0,
-            "price": 696161.4134199135,
-            "sales": 77.0
+            "price": 687912.7973484849,
+            "sales": 78.5
         },
         "TARANTULA_CHESTPLATE": {
             "_id": "TARANTULA_CHESTPLATE",
             "clean_price": 424907.4117647059,
             "count": 1.0,
-            "price": 653528.4740740741,
-            "sales": 58.0
+            "price": 653233.5740740742,
+            "sales": 59.5
         },
         "TARANTULA_HELMET": {
             "_id": "TARANTULA_HELMET",
             "clean_price": 322257.29411764705,
             "count": 1.0,
-            "price": 657528.8643410853,
-            "sales": 95.5
+            "price": 587882.1351744186,
+            "sales": 97.5
         },
         "TARANTULA_LEGGINGS": {
             "_id": "TARANTULA_LEGGINGS",
             "clean_price": 294196.0,
             "count": 1.0,
-            "price": 451240.515625,
-            "sales": 73.5
+            "price": 493265.015625,
+            "sales": 76.5
         },
         "TARANTULA_TALISMAN": {
             "_id": "TARANTULA_TALISMAN",
             "count": 1.0,
-            "price": 4830606.571428571,
-            "sales": 12.0
+            "price": 4755300.071428571,
+            "sales": 12.5
         },
         "TELEKINESIS": {
             "count": 1.0,
@@ -7433,16 +7471,16 @@
         },
         "TELEPORT_PAD": {
             "_id": "TELEPORT_PAD",
-            "count": 5.346694796061884,
-            "price": 32148.637834036566,
-            "sales": 174.0
+            "count": 5.691139240506329,
+            "price": 38047.03227848101,
+            "sales": 176.5
         },
         "THE_SHREDDER": {
             "_id": "THE_SHREDDER",
             "clean_price": 1247927.6875,
             "count": 1.0,
-            "price": 2633887.75,
-            "sales": 19.0
+            "price": 2972639.625,
+            "sales": 19.5
         },
         "THIN_GLASS": {
             "count": 1.0,
@@ -7474,14 +7512,14 @@
         "TIGER;2": {
             "_id": "TIGER;2",
             "count": 1.0,
-            "price": 296861.5833333334,
-            "sales": 24.0
+            "price": 297070.75,
+            "sales": 24.5
         },
         "TIGER;3": {
             "_id": "TIGER;3",
             "count": 1.0,
             "price": 1670451.3,
-            "sales": 21.0
+            "sales": 22.0
         },
         "TIGER;4": {
             "_id": "TIGER;4",
@@ -7492,8 +7530,8 @@
         "TITANIC_EXP_BOTTLE": {
             "_id": "TITANIC_EXP_BOTTLE",
             "count": 1.0,
-            "price": 704448.2539906104,
-            "sales": 168.0
+            "price": 670417.7935739437,
+            "sales": 170.5
         },
         "TNT": {
             "count": 1.0,
@@ -7520,8 +7558,8 @@
         "TRAINING_WEIGHTS": {
             "_id": "TRAINING_WEIGHTS",
             "count": 1.0,
-            "price": 364600.76870474656,
-            "sales": 267.5
+            "price": 364790.87665929203,
+            "sales": 272.5
         },
         "TRAP_DOOR": {
             "count": 1.0,
@@ -7532,8 +7570,8 @@
             "_id": "TREECAPITATOR_AXE",
             "clean_price": 1289226.3333333333,
             "count": 1.0,
-            "price": 1521856.8,
-            "sales": 81.5
+            "price": 1518432.6,
+            "sales": 82.5
         },
         "TRICK_OR_TREAT_BAG": {
             "_id": "TRICK_OR_TREAT_BAG",
@@ -7611,56 +7649,56 @@
         },
         "UNDEAD_CATALYST": {
             "_id": "UNDEAD_CATALYST",
-            "count": 1.1666666666666665,
-            "price": 108903.40579710146,
-            "sales": 47.0
+            "count": 1.0,
+            "price": 108903.23913043478,
+            "sales": 47.5
         },
         "UNDEAD_SWORD": {
             "_id": "UNDEAD_SWORD",
             "clean_price": 32.333333333333336,
             "count": 1.0,
-            "price": 7218.134615384615,
-            "sales": 109.5
+            "price": 8019.571428571428,
+            "sales": 112.0
         },
         "UNSTABLE_DRAGON_BOOTS": {
             "_id": "UNSTABLE_DRAGON_BOOTS",
             "clean_price": 110010.2,
             "count": 1.0,
-            "price": 142156.6228448276,
-            "sales": 261.0
+            "price": 141628.02745009074,
+            "sales": 266.5
         },
         "UNSTABLE_DRAGON_CHESTPLATE": {
             "_id": "UNSTABLE_DRAGON_CHESTPLATE",
             "clean_price": 140913.97619047618,
             "count": 1.0,
-            "price": 217679.92462121212,
-            "sales": 259.5
+            "price": 208657.44583333333,
+            "sales": 265.5
         },
         "UNSTABLE_DRAGON_HELMET": {
             "_id": "UNSTABLE_DRAGON_HELMET",
             "clean_price": 127583.3,
             "count": 1.0,
-            "price": 157212.82083333333,
-            "sales": 269.5
+            "price": 159636.72083333333,
+            "sales": 274.0
         },
         "UNSTABLE_DRAGON_LEGGINGS": {
             "_id": "UNSTABLE_DRAGON_LEGGINGS",
             "clean_price": 179504.72727272726,
             "count": 1.0,
-            "price": 223261.38680069929,
-            "sales": 225.5
+            "price": 218003.34134615384,
+            "sales": 231.0
         },
         "VACCINE_TALISMAN": {
             "_id": "VACCINE_TALISMAN",
             "count": 1.0,
-            "price": 6870.242424242424,
-            "sales": 158.5
+            "price": 8022.694805194806,
+            "sales": 160.0
         },
         "VAMPIRE_MASK": {
             "_id": "VAMPIRE_MASK",
             "count": 1.0,
-            "price": 398275.4,
-            "sales": 18.0
+            "price": 515931.15,
+            "sales": 18.5
         },
         "VAMPIRISM": {
             "count": 1.0,
@@ -7681,14 +7719,14 @@
         "VILLAGE_TALISMAN": {
             "_id": "VILLAGE_TALISMAN",
             "count": 1.0,
-            "price": 860.5,
-            "sales": 8.0
+            "price": 736.8333333333334,
+            "sales": 8.5
         },
         "VINE": {
             "_id": "VINE",
             "count": 64.0,
-            "price": 2044.1029411764705,
-            "sales": 116.5
+            "price": 2015.3529411764705,
+            "sales": 119.5
         },
         "VOODOO_DOLL": {
             "_id": "VOODOO_DOLL",
@@ -7699,8 +7737,8 @@
         "WAND_OF_HEALING": {
             "_id": "WAND_OF_HEALING",
             "count": 1.0,
-            "price": 1806.7916666666665,
-            "sales": 27.0
+            "price": 1509.7083333333333,
+            "sales": 27.5
         },
         "WAND_OF_MENDING": {
             "_id": "WAND_OF_MENDING",
@@ -7724,8 +7762,8 @@
             "_id": "WATER_HYDRA_HEAD",
             "clean_price": 11789.70588235294,
             "count": 1.0,
-            "price": 22429.578125,
-            "sales": 68.0
+            "price": 20836.103125,
+            "sales": 69.5
         },
         "WEAK_WOLF_CATALYST": {
             "_id": "WEAK_WOLF_CATALYST",
@@ -7748,8 +7786,8 @@
         "WEIRD_TUBA": {
             "_id": "WEIRD_TUBA",
             "count": 1.0,
-            "price": 1175802.9,
-            "sales": 9.0
+            "price": 1161115.4,
+            "sales": 9.5
         },
         "WINTER_DISC": {
             "_id": "WINTER_DISC",
@@ -7761,36 +7799,36 @@
             "_id": "WINTER_ROD",
             "clean_price": 28017.6875,
             "count": 1.0,
-            "price": 71536.61764705883,
-            "sales": 35.5
+            "price": 77974.45098039217,
+            "sales": 36.0
         },
         "WISE_DRAGON_BOOTS": {
             "_id": "WISE_DRAGON_BOOTS",
             "clean_price": 508360.0256410256,
             "count": 1.0,
-            "price": 641253.7785714285,
-            "sales": 237.5
+            "price": 630236.2848739496,
+            "sales": 241.0
         },
         "WISE_DRAGON_CHESTPLATE": {
             "_id": "WISE_DRAGON_CHESTPLATE",
             "clean_price": 619559.593220339,
             "count": 1.0,
-            "price": 737061.6175958188,
-            "sales": 272.5
+            "price": 742975.8765243902,
+            "sales": 275.5
         },
         "WISE_DRAGON_HELMET": {
             "_id": "WISE_DRAGON_HELMET",
             "clean_price": 520852.51020408166,
             "count": 1.0,
-            "price": 621699.9494652406,
-            "sales": 248.5
+            "price": 620334.1095959595,
+            "sales": 253.0
         },
         "WISE_DRAGON_LEGGINGS": {
             "_id": "WISE_DRAGON_LEGGINGS",
             "clean_price": 695307.7916666666,
             "count": 1.0,
-            "price": 845495.8683333334,
-            "sales": 228.5
+            "price": 838917.6055882353,
+            "sales": 231.5
         },
         "WITHER_ARTIFACT": {
             "_id": "WITHER_ARTIFACT",
@@ -7802,8 +7840,8 @@
             "_id": "WITHER_BOW",
             "clean_price": 99.58823529411765,
             "count": 1.0,
-            "price": 456.94791666666663,
-            "sales": 34.5
+            "price": 468.94791666666663,
+            "sales": 35.5
         },
         "WITHER_SKELETON;3": {
             "_id": "WITHER_SKELETON;3",
@@ -7814,8 +7852,8 @@
         "WITHER_SKELETON;4": {
             "_id": "WITHER_SKELETON;4",
             "count": 1.0,
-            "price": 8186417.595238095,
-            "sales": 47.0
+            "price": 7080912.720238095,
+            "sales": 47.5
         },
         "WOLF;0": {
             "count": 1.0,
@@ -7830,20 +7868,20 @@
         "WOLF;3": {
             "_id": "WOLF;3",
             "count": 1.0,
-            "price": 85478.1920289855,
-            "sales": 102.0
+            "price": 122056.53726708074,
+            "sales": 104.5
         },
         "WOLF;4": {
             "_id": "WOLF;4",
             "count": 1.0,
-            "price": 2158308.5119047617,
-            "sales": 64.0
+            "price": 2233536.8785714284,
+            "sales": 64.5
         },
         "WOLF_PAW": {
             "_id": "WOLF_PAW",
             "count": 1.0,
-            "price": 279647.77777777775,
-            "sales": 18.0
+            "price": 302196.94444444444,
+            "sales": 18.5
         },
         "WOLF_RING": {
             "_id": "WOLF_RING",
@@ -7854,8 +7892,8 @@
         "WOLF_TALISMAN": {
             "_id": "WOLF_TALISMAN",
             "count": 1.0,
-            "price": 648688.8981481481,
-            "sales": 58.5
+            "price": 652022.6481481481,
+            "sales": 59.0
         },
         "WOLF_TOOTH": {
             "count": 64.0,
@@ -7910,9 +7948,10 @@
             "sales": 1.0
         },
         "WOOD_CHEST": {
-            "count": 1.0,
-            "price": 13886.0,
-            "sales": 3.0
+            "_id": "WOOD_CHEST",
+            "count": 2.0,
+            "price": 7707.0,
+            "sales": 2.0
         },
         "WOOD_DOOR": {
             "_id": "WOOD_DOOR",
@@ -7921,9 +7960,10 @@
             "sales": 1.0
         },
         "WOOD_HOE": {
+            "_id": "WOOD_HOE",
             "count": 1.0,
-            "price": 50002.5,
-            "sales": 6.0
+            "price": 32713.75,
+            "sales": 4.0
         },
         "WOOD_PICKAXE": {
             "_id": "WOOD_PICKAXE",
@@ -7961,26 +8001,26 @@
         "WOOD_SWORD": {
             "_id": "WOOD_SWORD",
             "count": 1.0,
-            "price": 3791118.0263157897,
-            "sales": 41.5
+            "price": 3033542.3263157895,
+            "sales": 42.0
         },
         "WOOD_TALISMAN": {
             "_id": "WOOD_TALISMAN",
             "count": 1.0,
-            "price": 10090.909198113208,
-            "sales": 120.5
+            "price": 15495.171698113209,
+            "sales": 123.5
         },
         "WOOL": {
             "_id": "WOOL",
             "count": 60.54166666666667,
-            "price": 140.14166666666665,
-            "sales": 27.5
+            "price": 123.54166666666666,
+            "sales": 28.0
         },
         "WOOL-0": {
             "_id": "WOOL-0",
             "count": 64.0,
-            "price": 300.0,
-            "sales": 10.0
+            "price": 285.3333333333333,
+            "sales": 10.5
         },
         "WOOL-1": {
             "_id": "WOOL-1",
@@ -8077,9 +8117,9 @@
         },
         "YELLOW_FLOWER": {
             "_id": "YELLOW_FLOWER",
-            "count": 48.27777777777778,
-            "price": 1208.361111111111,
-            "sales": 38.5
+            "count": 42.31111111111111,
+            "price": 1113.7277777777779,
+            "sales": 39.5
         },
         "YETI_ROD": {
             "count": 1.0,
@@ -8095,29 +8135,29 @@
             "_id": "YOUNG_DRAGON_BOOTS",
             "clean_price": 341147.1621621622,
             "count": 1.0,
-            "price": 650264.2171717172,
-            "sales": 218.5
+            "price": 669972.5505050505,
+            "sales": 220.5
         },
         "YOUNG_DRAGON_CHESTPLATE": {
             "_id": "YOUNG_DRAGON_CHESTPLATE",
             "clean_price": 599547.3260869564,
             "count": 1.0,
-            "price": 665909.7549450549,
-            "sales": 199.5
+            "price": 670776.8882783882,
+            "sales": 201.5
         },
         "YOUNG_DRAGON_HELMET": {
             "_id": "YOUNG_DRAGON_HELMET",
             "clean_price": 439884.3888888889,
             "count": 1.0,
-            "price": 497785.5681818182,
-            "sales": 193.5
+            "price": 471941.48076923075,
+            "sales": 196.5
         },
         "YOUNG_DRAGON_LEGGINGS": {
             "_id": "YOUNG_DRAGON_LEGGINGS",
             "clean_price": 578990.0731707317,
             "count": 1.0,
-            "price": 646431.5830721003,
-            "sales": 190.0
+            "price": 655787.0376175549,
+            "sales": 192.0
         },
         "ZOMBIE;3": {
             "_id": "ZOMBIE;3",
@@ -8137,9 +8177,10 @@
             "sales": 4.0
         },
         "ZOMBIE_BOOTS": {
+            "_id": "ZOMBIE_BOOTS",
             "count": 1.0,
-            "price": 86235.0,
-            "sales": 2.0
+            "price": 103117.5,
+            "sales": 1.5
         },
         "ZOMBIE_HAT": {
             "_id": "ZOMBIE_HAT",
@@ -8150,8 +8191,8 @@
         "ZOMBIE_HEART": {
             "_id": "ZOMBIE_HEART",
             "count": 1.0,
-            "price": 244443.19594594595,
-            "sales": 83.5
+            "price": 239166.30308880308,
+            "sales": 84.0
         },
         "ZOMBIE_KNIGHT_BOOTS": {
             "_id": "ZOMBIE_KNIGHT_BOOTS",
@@ -8180,8 +8221,8 @@
         "ZOMBIE_KNIGHT_SWORD": {
             "_id": "ZOMBIE_KNIGHT_SWORD",
             "count": 1.0,
-            "price": 25703.333333333336,
-            "sales": 25.0
+            "price": 25368.0,
+            "sales": 25.5
         },
         "ZOMBIE_LEGGINGS": {
             "count": 1.0,
@@ -8192,13 +8233,13 @@
             "_id": "ZOMBIE_PICKAXE",
             "count": 1.0,
             "price": 203.58333333333334,
-            "sales": 12.5
+            "sales": 13.0
         },
         "ZOMBIE_RING": {
             "_id": "ZOMBIE_RING",
             "count": 1.0,
-            "price": 4180.15625,
-            "sales": 35.5
+            "price": 11838.78125,
+            "sales": 37.0
         },
         "ZOMBIE_SOLDIER_BOOTS": {
             "_id": "ZOMBIE_SOLDIER_BOOTS",
@@ -8209,8 +8250,8 @@
         "ZOMBIE_SOLDIER_CHESTPLATE": {
             "_id": "ZOMBIE_SOLDIER_CHESTPLATE",
             "count": 1.0,
-            "price": 314142.2085020243,
-            "sales": 174.5
+            "price": 479023.7149122807,
+            "sales": 176.0
         },
         "ZOMBIE_SOLDIER_CUTLASS": {
             "_id": "ZOMBIE_SOLDIER_CUTLASS",
@@ -8221,14 +8262,14 @@
         "ZOMBIE_SOLDIER_HELMET": {
             "_id": "ZOMBIE_SOLDIER_HELMET",
             "count": 1.0,
-            "price": 64010.002040816325,
-            "sales": 103.0
+            "price": 58219.93537414966,
+            "sales": 103.5
         },
         "ZOMBIE_SOLDIER_LEGGINGS": {
             "_id": "ZOMBIE_SOLDIER_LEGGINGS",
             "count": 1.0,
-            "price": 463815.27394366194,
-            "sales": 159.5
+            "price": 382847.5322769953,
+            "sales": 161.5
         },
         "ZOMBIE_SWORD": {
             "_id": "ZOMBIE_SWORD",
@@ -8239,8 +8280,8 @@
         "ZOMBIE_TALISMAN": {
             "_id": "ZOMBIE_TALISMAN",
             "count": 1.0,
-            "price": 4283.741071428572,
-            "sales": 27.5
+            "price": 7943871.8625,
+            "sales": 31.0
         }
     }
 }
